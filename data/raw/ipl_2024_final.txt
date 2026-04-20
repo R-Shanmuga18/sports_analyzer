@@ -1,0 +1,376 @@
+{{short description|Cricket tournament}}
+{{Use Indian English|date=May 2025}}
+{{Use dmy dates|date=May 2024}}
+{{Infobox limited overs final
+| title            = 2024 Indian Premier League Final
+| image            = 2024 IPL Final poster.jpg
+| imagesize        = 
+| caption          = Match programme cover
+| event            = [[2024 Indian Premier League]]
+| team1            = [[{{IPL Teams 1|srh }}]]
+| team2            = [[{{IPL Teams 1|kkr }}]]
+| team1score       = 113
+| team1overs       = 18.3 overs
+| team2score       = 114/2
+| team2overs       = 10.3 overs
+| details          = Kolkata Knight Riders won by 8 wickets
+| date             = 26 May 2024
+| stadium          = [[M. A. Chidambaram Stadium]]
+| city             = [[Chennai]]
+| man_of_the_match = [[Mitchell Starc]] (KKR)
+| umpires          = [[Jayaraman Madanagopal]] (Ind)<br />[[Nitin Menon]] (Ind) 
+| attendance       =38,000 
+| previous         = [[2023 Indian Premier League final|2023]]
+| next             = [[2025 Indian Premier League final|2025]]
+}}
+
+The '''2024 Indian Premier League Final''' was played on 26 May 2024 at the [[M. A. Chidambaram Stadium]] in [[Chennai]].<ref>{{Cite web |date=2024-03-21 |title=IPL 2024: What's the playoff format? Know all about IPL 17 qualifiers, eliminators and grand finale |url=https://www.financialexpress.com/sports/ipl/ipl-2024-whats-the-playoff-format-know-all-about-ipl-17-qualifiers-eliminators-and-grand-finale-bkg/3432883/ |access-date=2024-05-22 |website=Financialexpress |language=en}}</ref> [[2024 {{IPL Teams 1|kkr }} season|{{IPL Teams 1|kkr }}]] qualified for the finals after their win in [[2024 Indian Premier League#Qualifier 1|Qualifier 1]].<ref>{{Cite web |date=2024-05-21 |title=Starc shows the way as KKR blow away Sunrisers to march into IPL final |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-qualifier-1-1426309/match-report |access-date=2024-05-22 |website=ESPNcricinfo |language=en}}</ref> They competed with [[2024 {{IPL Teams 1|srh }} season|{{IPL Teams 1|srh }}]], who qualified for the finals after their win in [[2024 Indian Premier League#Qualifier 2|Qualifier 2]].<ref>{{Cite web |title=RR vs SRH Cricket Scorecard, Qualifier 2 at Chennai, May 24, 2024 |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-sunrisers-hyderabad-qualifier-2-1426311/full-scorecard |access-date=2024-05-25 |website=ESPNcricinfo |language=en}}</ref>
+
+After winning the toss, [[Sunrisers Hyderabad]] elected to bat but only managed to score 113 runs in 18.3 overs. The [[Kolkata Knight Riders]] easily chased the target in 10.3 overs and won the match by eight wickets, thus winning their third IPL title.<ref>{{Cite web |date=2024-05-26 |title=KKR's bowlers rip through SRH to win third IPL title |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/match-report |access-date=2024-05-26 |website=ESPNcricinfo |language=en}}</ref> KKR player [[Mitchell Starc]] was named as the [[Player of the Match awards (cricket)|player of the match]] for taking 2 wickets and 2 catches.<ref>{{cite web |access-date=26 May 2024 |title=Mitchell Starc wins Player of the Match award in IPL 2024 Final |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2024-kkr-vs-srh-final-player-of-the-match-award-kolkata-knight-riders-v-sunrisers-hyderabad/article68218339.ece |website=SportStar|date=26 May 2024 }}</ref> [[Sunil Narine]] (KKR) was named as the player of the season for scoring 488 runs and taking 17 wickets throughout the tournament.<ref>{{cite web |access-date=27 May 2024  |title=Birthday boy Sunil Narine becomes IPL's MVP for third time after KKR's triumph |url=https://www.indiatoday.in/sports/cricket/story/sunil-narine-set-to-become-ipl-2024-most-valuable-player-of-the-season-know-all-the-details-about-the-award-2544063-2024-05-27 |website=India Today|date=27 May 2024 }}</ref>
+
+== Background ==
+A part of the schedule of the season's fixtures was announced on 22 February 2024 which included the schedule for the first 17 days, consisting of 21 matches.<ref>{{Cite web |date=2024-04-03 |title=IPL Schedule 2024: Start Date, Match Fixtures, Teams, Stadium, and Venues |url=https://www.jagranjosh.com/general-knowledge/ipl-2024-schedule-match-fixtures-teams-stadium-and-venue-1708589392-1 |access-date=2024-05-22 |website=Jagranjosh.com |language=en}}</ref> The remaining fixtures were announced on 25 March 2024.<ref>{{Cite web |date=2024-03-25 |title=IPL 2024 Full Schedule: Chennai to host final as entire season to be held in India |url=https://www.indiatoday.in/sports/cricket/story/ipl-2024-full-schedule-phase-two-playoffs-final-chennai-chepauk-2519198-2024-03-25 |access-date=2024-05-22 |website=India Today |language=en}}</ref> It was announced that both Qualifier 1 and Eliminator would be played at the [[Narendra Modi Stadium]], [[Ahmedabad]] from 21 to 22 May, and that Qualifier 2 and final would be played in Chennai, with the venue hosting its third IPL final after [[2011 Indian Premier League final|2011]] and [[2012 Indian Premier League final|2012]].<ref>{{Cite news |date=2024-03-25 |title=IPL 2024 Schedule: Chennai to host Qualifier 2 and final on May 24 and 26; Qualifier 1 and Eliminator in Ahmedabad |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-schedule-chennai-to-host-qualifier-2-and-final-on-may-24-and-26-qualifier-1-and-eliminator-in-ahmedabad/articleshow/108767747.cms |access-date=2024-05-22 |work=The Times of India |issn=0971-8257}}</ref> [[Kolkata Knight Riders]] and [[Sunrisers Hyderabad]] qualified for the Final. Kolkata played the final for the fourth time, winning twice ([[2012 Indian Premier League|2012]], [[2014 Indian Premier League|2014]]) before and being runners-up in [[2021 Indian Premier League|2021]]. Hyderabad played their third final, winning once in [[2016 Indian Premier League|2016]] and runners-up in [[2018 Indian Premier League|2018]].<ref>{{Cite web |last=Sportstar |first=Team |date=2024-05-26 |title=Kolkata Knight Riders Win/Loss record in finals; Stats, most runs, wickets ahead of IPL 2024 final vs SRH |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/kkr-vs-srh-ipl-final-2024-kolkata-knight-riders-win-loss-record-stats-most-runs-wickets-history/article68211308.ece |access-date=2024-05-27 |website=Sportstar |language=en}}</ref><ref>{{Cite web |date=2024-05-26 |title=Kolkata routs Hyderabad by 8 wickets to win its third Indian Premier League title |url=https://apnews.com/article/ipl-final-kolkata-knight-riders-sunrisers-hyderabad-e6b522a347029f6d0eaf4a6792f8505b |access-date=2024-05-27 |website=AP News |language=en}}</ref> 
+
+== Road to the final ==
+{{further|2024 {{IPL Teams 1|kkr }} season|2024 {{IPL Teams 1|srh }} season }}
+
+Kolkata Knight Riders had a successful league stage with only 3 losses against Chennai Super Kings, Rajasthan Royals and Punjab Kings. They also had 2 abandoned matches against Gujarat Titans and Rajasthan Royals. They won the rest 9 matches garnering a total of 20 points finishing atop the league table. They defeated Sunrisers Hyderabad in Qualifier 1 to gain their place in the Final.<ref name=":3">{{Cite web |title=IPL Points Table {{!}} IPL Standings {{!}} IPL Ranking |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/points-table-standings |access-date=2024-05-27 |website=ESPNcricinfo |language=en}}</ref><ref name=":4">{{Cite web |title=IPL 2024 Schedule {{!}} Indian Premier League Fixtures & Results |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/match-schedule-fixtures-and-results |access-date=2024-05-27 |website=ESPNcricinfo |language=en}}</ref> 
+
+Sunrisers Hyderabad finished second in the league table winning 8 games and losing 5 games to end with a total of 17 points. Their game against Gujarat Titans was abandoned. They lost the Qualifier 1 to Kolkata Knight Riders and had to defeat Rajasthan Royals in Qualifier 2 for a place in the Final.<ref name=":3" /><ref name=":4" />
+
+Source: ''ESPNcricinfo''<ref>{{Cite web |title=IPL 2024 Schedule {{!}} Indian Premier League Fixtures & Results |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/match-schedule-fixtures-and-results |access-date=2024-05-26 |website=ESPNcricinfo |language=en}}</ref>
+{{clear}}
+
+{| style="text-align:center;margin:auto;"
+|- style="vertical-align:top;background:#99CCFF"
+! colspan="4" style="background:#{{IPL Team colors 1|kkr }}"|[[{{IPL Teams 1|kkr }}|<span style="color:{{IPL Team colors 2|kkr }}">{{IPL Teams 1|kkr }}</span>]]
+!vs
+! colspan="4" style="background:#{{IPL Team colors 1|srh }}"|[[{{IPL Teams 1|srh }}|<span style="color:{{IPL Team colors 2|srh }}">{{IPL Teams 1|srh }}</span>]]
+|- style="vertical-align:top;background:#99CCFF"
+! colspan="9" |[[2024 Indian Premier League#League stage|League Stage]]
+|- style="vertical-align:top;background:#C1E0FF"
+|Opponent
+|Scorecard
+|Result
+|Points
+|Match No.
+|Opponent
+|Scorecard
+|Result
+|Points
+|-
+| style="text-align:center;margin:auto;" |[[Sunrisers Hyderabad]]
+|[[2024 Indian Premier League#match3|23 March 2024]]
+|Won
+|2
+| style="background:#C1E0FF" | 1
+| style="text-align:center" |[[Kolkata Knight Riders]]
+|[[2024 Indian Premier League#match3|23 March 2024]]
+|Lost
+|0
+|-
+| style="text-align:center" |[[Royal Challengers Bangalore|Royal Challengers Bengaluru]]
+|[[2024 Indian Premier League#match10|29 March 2024]]
+|Won
+|4
+| style="background:#C1E0FF" | 2
+| style="text-align:center" |[[Mumbai Indians]]
+|[[2024 Indian Premier League#match18|27 March 2024]]
+|Won
+|2
+|-
+| style="text-align:center" |[[Delhi Capitals]]
+|[[2024 Indian Premier League#match16|3 April 2024]]
+|Won
+|6
+| style="background:#C1E0FF" | 3
+| style="text-align:center" |[[Gujarat Titans]]
+|[[2024 Indian Premier League#match12|31 March 2024]]
+|Lost
+|2
+|-
+| style="text-align:center" |[[Chennai Super Kings]]
+|[[2024 Indian Premier League#match22|8 April 2024]]
+|Lost
+|6
+| style="background:#C1E0FF" | 4
+| style="text-align:center" |[[Chennai Super Kings]]
+|[[2024 Indian Premier League#match18|5 April 2024]]
+|Won
+|4
+|-
+| style="text-align:center" |[[Lucknow Super Giants]]
+|[[2024 Indian Premier League#match28|14 April 2024]]
+|Won
+|8
+| style="background:#C1E0FF" | 5
+| style="text-align:center" |[[Punjab Kings]]
+|[[2024 Indian Premier League#match23|9 April 2024]]
+|Won
+|6
+|-
+| style="text-align:center" |[[Rajasthan Royals]]
+|[[2024 Indian Premier League#match31|16 April 2024]]
+|Lost
+|8
+| style="background:#C1E0FF" | 6
+| style="text-align:center" |[[Royal Challengers Bangalore|Royal Challengers Bengaluru]]
+|[[2024 Indian Premier League#match30|15 April 2024]]
+|Won
+|8
+|-
+| style="text-align:center" |[[Royal Challengers Bangalore|Royal Challengers Bengaluru]]
+|[[2024 Indian Premier League#match36|21 April 2024]]
+|Won
+|10
+| style="background:#C1E0FF" | 7
+| style="text-align:center" |[[Delhi Capitals]]
+|[[2024 Indian Premier League#match35|20 April 2024]]
+|Won
+|10
+|-
+| style="text-align:center" |[[Punjab Kings]]
+|[[2024 Indian Premier League#match42|26 April 2024]]
+|Lost
+|10
+| style="background:#C1E0FF" | 8
+| style="text-align:center" |[[Royal Challengers Bangalore|Royal Challengers Bengaluru]]
+|[[2024 Indian Premier League#match41|25 April 2024]]
+|Lost
+|10
+|-
+| style="text-align:center" |[[Delhi Capitals]]
+|[[2024 Indian Premier League#match47|29 April 2024]]
+|Won
+|12
+| style="background:#C1E0FF" | 9
+| style="text-align:center" |[[Chennai Super Kings]]
+|[[2024 Indian Premier League#match46|28 April 2024]]
+|Lost
+|10
+|-
+| style="text-align:center" |[[Mumbai Indians]]
+|[[2024 Indian Premier League#match51|3 May 2024]]
+|Won
+|14
+| style="background:#C1E0FF" | 10
+| style="text-align:center" |[[Rajasthan Royals]]
+|[[2024 Indian Premier League#match50|2 May 2024]]
+|Won
+|12
+|-
+| style="text-align:center" |[[Lucknow Super Giants]]
+|[[2024 Indian Premier League#match54|5 May 2024]]
+|Won
+|16
+| style="background:#C1E0FF" | 11
+| style="text-align:center" |[[Mumbai Indians]]
+|[[2024 Indian Premier League#match55|6 May 2024]]
+|Lost
+|12
+|-
+| style="text-align:center" |[[Mumbai Indians]]
+|[[2024 Indian Premier League#match60|11 May 2024]]
+|Won
+|18
+| style="background:#C1E0FF" | 12
+| style="text-align:center" |[[Lucknow Super Giants]]
+|[[2024 Indian Premier League#match57|8 May 2024]]
+|Won
+|14
+|-
+| style="text-align:center" |[[Gujarat Titans]]
+|[[2024 Indian Premier League#match63|13 May 2024]]
+|No result
+|19
+| style="background:#C1E0FF" | 13
+| style="text-align:center" |[[Gujarat Titans]]
+|[[2024 Indian Premier League#match66|16 May 2024]]
+|No result
+|15
+|-
+| style="text-align:center" |[[Rajasthan Royals]]
+|[[2024 Indian Premier League#match70|19 May 2024]]
+|No result
+|20
+| style="background:#C1E0FF" | 14
+| style="text-align:center" |[[Punjab Kings]]
+|[[2024 Indian Premier League#match69|19 May 2024]]
+|Won
+|17
+|-
+| colspan="9" style="text-align:left;background:#C1E0FF;" |{{#invoke: IndianPremierLeagueProgression
+|create
+
+| W3, W10, W16, L22, W28, L31, W36, L42, W47, W51, W54, W60, N63, N70
+<!-- Q1 League Stage -->
+
+| W71, U, W74
+<!-- Q1 Playoffs -->
+
+| L3, W8, L12, W18, W23, W30, W35, L41, L46, W50, L55, W57, N66, W69
+<!-- Q2 League Stage -->
+
+| L71, W72, L74
+<!-- Q2 Playoffs -->
+
+|caption=League progression
+|teams={{IPL Teams 1|kkr }}, {{IPL Teams 1|srh }}
+|knockoutType=2
+|matchesPerTeam=14
+|matchReportArticle=2024 Indian Premier League}}
+|- style="vertical-align:top;background:#99CCFF"
+! colspan="9" |[[2024 Indian Premier League#Playoffs|Playoff stage]]
+|- style="text-align:left;background:#C1E0FF"
+| colspan="9" |{{#section:2024 Indian Premier League|bracket}}
+|- style="vertical-align:top;background:#C1E0FF"
+|Opponent
+|Scorecard
+| colspan="2" |Result
+|
+|Opponent
+|Scorecard
+| colspan="2" |Result
+|- 
+| style="text-align:center" |[[Sunrisers Hyderabad]]
+|[[2024 Indian Premier League#match71|21 May 2024]]
+| colspan="2" |Won
+| style="background:#C1E0FF" | {{Abbr|'''Q1'''|Qualifier 1}}
+| style="text-align:center" | [[Kolkata Knight Riders]]
+|[[2024 Indian Premier League#match71|21 May 2024]]
+| colspan="2" |Lost
+|- 
+! colspan="4" style="text-align:center;background:#99CCFF" | Qualified for the finals
+| style="background:#C1E0FF" | {{Abbr|'''Q2'''|Qualifier 2}}
+| style="text-align:center" | [[Rajasthan Royals]]
+|[[2024 Indian Premier League#match73|24 May 2024]]
+| colspan="2" |Won
+|- style="vertical-align:top;background:#C1E0FF"
+! colspan="9" | '''2024 Indian Premier League final'''
+|}
+
+== Match ==
+=== Match officials ===
+* '''On-field [[umpire (cricket)|umpires]]''': [[Jayaraman Madanagopal]] (Ind) and [[Nitin Menon]] (Ind)
+* '''[[Third umpire]]''': [[Michael Gough (cricketer)|Michael Gough]] (Eng)
+* '''[[Fourth umpire|Reserve umpire]]''': [[Virender Sharma]] (Ind)
+* '''[[Match referee]]''': [[Manu Nayyar]] (Ind)
+* '''[[Toss (cricket)|Toss]]''': Sunrisers Hyderabad won the toss and elected to bat.<ref>{{cite web |access-date=26 May 2024 |title=KKR vs SRH Toss Updates, IPL 2024 Final: Sunrisers Hyderabad wins toss, to bat first |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/kkr-vs-srh-live-toss-updates-ipl-2024-final-prediction-sunrisers-hyderabad-v-kolkata-knight-riders-match-today/article68217915.ece |website=SportStar|date=26 May 2024 }}</ref>
+
+=== Summary ===
+{{#section:2024 Indian Premier League|match74}}
+
+=== Sunrisers Hyderabad innings ===
+Sunrisers Hyderabad (SRH) won the toss and elected to bat. The team lost early wickets and never quite recovered. [[Abhishek Sharma]] was the first to fall, bowled by Australian fast bowler [[Mitchell Starc]] for just 2 runs in the opening over. Australian batter [[Travis Head]] followed soon after, caught behind for a duck off [[medium pacer]] [[Vaibhav Arora]]'s bowling. SRH's top order continued to falter, with [[Rahul Tripathi]] scoring 9 runs before being caught off Starc's bowling, leaving SRH at 21 for the loss of 3 wickets in the fourth over.<ref name=":0">{{Cite web |title=KKR vs SRH Cricket Scorecard, Final at Chennai, May 26, 2024 |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/full-scorecard |access-date=2024-05-26 |website=ESPNcricinfo |language=en}}</ref><ref name=":1">{{Cite web |date=2024-05-26 |title=IPL 2024 final result: Kolkata Knight Riders beat Sunrisers Hyderabad to win title |url=https://www.bbc.com/sport/cricket/articles/cd114e2l99qo |access-date=2024-05-26 |website=BBC Sport |language=en-GB}}</ref>
+
+South African [[Aiden Markram]] tried to stabilize the innings, scoring 20 runs off 23 balls, but he too fell, caught off West Indies' [[all-rounder]] [[Andre Russell]]'s bowling. [[Nitish Kumar Reddy]] added 13 runs before being dismissed by fast bowler [[Harshit Rana]], while South African [[Heinrich Klaasen]] contributed 16 runs before also falling to Rana. [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] managed 8 runs before being caught off spinner [[Varun Chakravarthy]]'s bowling, and the [[2023 Indian Premier League#Impact player rule|impact player]] [[Abdul Samad (Indian cricketer)|Abdul Samad]] was caught behind for 4 runs off Russell. Captain [[Pat Cummins]], scored a brisk 24 off 19 balls, including two fours and a six, but his effort was cut short when he was caught off Russell's bowling. [[Jaydev Unadkat]] and [[Bhuvneshwar Kumar]] did not add much, with Unadkat out [[leg before wicket]] to Narine for 4 and Kumar remaining not out on 0.<ref name=":0" /><ref name=":1" />
+
+KKR's bowling attack was led by Andre Russell, who claimed 3 wickets for 19 runs. Mitchell Starc took 2 wickets for 14 runs, while Harshit Rana matched Starc with 2 wickets for 24 runs. Sunil Narine and Varun Chakravarthy each picked up a wicket, conceding 16 and 9 runs respectively. SRH's innings included 13 extras, but their overall run rate of 6.10 was insufficient at the end.<ref name=":0" /><ref name=":2">{{Cite web |date=2024-05-26 |title=KKR vs SRH Highlights, IPL 2024 Final: Gautam Gambhir's KKR Thrash SRH By 8 Wickets To Clinch 3rd Title {{!}} Cricket News |url=https://sports.ndtv.com/ipl-2024/kkr-vs-srh-live-score-indian-premier-league-2024-final-match-kolkata-knight-riders-vs-sunrisers-hyderabad-final-live-scorecard-may-26-5749368 |access-date=2024-05-26 |website=NDTVSports.com |language=en}}</ref>
+
+=== Kolkata Knight Riders innings ===
+Kolkata Knight Riders (KKR) was off to a quick start despite losing West Indian [[Sunil Narine]] early. Narine scored a quick 6 off 2 balls before being caught by [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] off captain [[Pat Cummins]]' bowling in the second over. This brought [[Venkatesh Iyer]] to the crease, who, alongside opener Afghan batter [[Rahmanullah Gurbaz]], took control of the chase. Gurbaz scored 39 runs off 32 balls, including five fours and two sixes before eventually being dismissed in the ninth over, out [[leg before wicket]] by Shahbaz Ahmed, owing to a lack of Ball-Tracking and Ultra-edge. Iyer continued his innings after the loss of Gurbaz, reaching his fifty off just 24 balls. [[Shreyas Iyer]], the KKR captain, joined him at the crease and contributed 6 off 3 balls, helping reach the target with more than nine overs to spare.<ref name=":0" /><ref name=":1" />
+
+Indian medium pacer [[Bhuvneshwar Kumar]] conceded 25 runs in his 2 overs, while [[T. Natarajan]] gave away 29 runs in his 2 overs. Shahbaz Ahmed managed to pick up the wicket of Gurbaz, finishing with figures of 1 wicket for 22 in 2.3 overs. Pat Cummins was the only other wicket-taker, claiming Narine's wicket and ending with figures of 1 wicket for 18 runs in his 2 overs.<ref name=":0" /><ref name=":2" />
+
+KKR ended with a decisive victory by 8 wickets securing their third IPL title.<ref name=":0" /><ref name=":2" />
+
+=== Scorecard ===
+<small>Source: ''ESPNcricinfo''<ref>{{Cite web |date=2024-05-26 |title=KKR beat SRH, KKR won by 8 wickets (with 57 balls remaining) |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/live-cricket-score |access-date=2024-05-26 |website=ESPNcricinfo |language=en}}</ref></small>
+
+{| class="wikitable"
+|+Key
+|-
+|* (IMP) indicates an [[2023 Indian Premier League#Impact player rule|impact player]].
+|}
+
+;1st innings
+{{Cricket match batting box begin|title={{IPL Teams 1|srh }} innings}}
+{{Cricket match batsman status|player=[[Abhishek Sharma]] |status=b Starc |runs=2 |balls=5 |4s=0 |6s=0 |strike_rate=40.00}}
+{{Cricket match batsman status|player=[[Travis Head]] |status=c †Gurbaz b Arora |runs=0 |balls=1 |4s=0 |6s=0 |strike_rate=0.00}}
+{{Cricket match batsman status|player=[[Rahul Tripathi]] |status=c Ramandeep b Starc |runs=9 |balls=13 |4s=1 |6s=0 |strike_rate=69.23}}
+{{Cricket match batsman status|player=[[Aiden Markram]] |status=c Starc b Russell |runs=20 |balls=23 |4s=3 |6s=0 |strike_rate=86.95}}
+{{Cricket match batsman status|player=[[Nitish Kumar Reddy]] |status=c †Gurbaz b Harshit |runs=13 |balls=10 |4s=1 |6s=1 |strike_rate=130.00}}
+{{Cricket match batsman status|player=[[Heinrich Klaasen]] |status=b Harshit |runs=16 |balls=17 |4s=1 |6s=0 |strike_rate=94.11}}
+{{Cricket match batsman status|player=[[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] |status=c Narine b Varun |runs=8 |balls=7 |4s=0 |6s=1 |strike_rate=114.28}}
+{{Cricket match batsman status|player=[[Abdul Samad (Indian cricketer)|Abdul Samad]] (IMP) |status=c †Gurbaz b Russell |runs=4 |balls=4 |4s=0 |6s=0 |strike_rate=100.00}}
+{{Cricket match batsman status|player=[[Pat Cummins]] |status=c Starc b Russell |runs=24 |balls=19 |4s=2 |6s=1 |strike_rate=126.31}}
+{{Cricket match batsman status|player=[[Jaydev Unadkat]] |status=lbw b Narine |runs=4 |balls=11 |4s=0 |6s=0 |strike_rate=36.36}}
+{{Cricket match batsman status|player=[[Bhuvneshwar Kumar]] |status= not out|runs= 0|balls= 1|4s= 0|6s= 0|strike_rate=0}}
+{{Cricket match batsman status|player=[[T Natarajan]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+|colspan="4"| Extras 13 (b 5, lb 2, w 6) <br> '''Total 113 (18.3 overs)'''
+|8
+|3
+| 6.10 RR
+{{Cricket match box end}}
+'''Fall of wickets:''' 2–1 (Abhishek, 0.5 ov), 6–2 (Head, 1.6 ov), 21–3 (Tripathi, 4.2 ov), 47–4 (Reddy, 6.6 ov), 62–5 (Markram, 10.2 ov), 71–6 (Shahbaz, 11.5 ov), 77–7 (Samad, 12.4 ov), 90–8 (Klaasen, 14.1 ov), 113–9 (Unadkat, 17.5 ov), 113–10 (Cummins, 18.3 ov)
+
+{{Cricket match bowling box begin|title={{IPL Teams 1|kkr }} bowling}}
+{{Cricket match bowler status|bowler=[[Mitchell Starc]] |overs=3 |maiden=0 |runs=14 |wickets=2 |econ=4.66 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Vaibhav Arora]] |overs=3 |maiden=0 |runs=24 |wickets=1 |econ=8.00 |wides=4 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Harshit Rana]] |overs=4 |maiden=1 |runs=24 |wickets=2 |econ=6.00 |wides=1 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Sunil Narine]] |overs=4 |maiden=0 |runs=16 |wickets=1 |econ=4.00 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Andre Russell]] |overs=2.3 |maiden=0 |runs=19 |wickets=3 |econ=7.60 |wides=1 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Varun Chakravarthy]] |overs=2 |maiden=0 |runs=9 |wickets=1 |econ=4.50 |wides=0 |no-balls=0}}
+{{Cricket match box end}}
+
+;2nd innings
+{| class="wikitable"
+|+Impact players
+! Team
+! Out
+! In
+|-
+![[Sunrisers Hyderabad]]
+|[[Travis Head]]
+|[[Abdul Samad (Indian cricketer)|Abdul Samad]]
+|-
+![[Kolkata Knight Riders]]
+|{{n/a}}
+|{{n/a}}
+|}
+
+{{Cricket match batting box begin|title={{IPL Teams 1|kkr }} innings}}
+{{Cricket match batsman status|player=[[Rahmanullah Gurbaz]] |status=lbw b Shahbaz |runs=39 |balls=32 |4s=5 |6s=2 |strike_rate=121.87}}
+{{Cricket match batsman status|player=[[Sunil Narine]] |status= c Shahbaz b Cummins|runs= 6|balls= 2|4s= 0|6s= 1|strike_rate= 300.00}}
+{{Cricket match batsman status|player=[[Venkatesh Iyer]] |status=not out |runs=52 |balls=26 |4s=4 |6s=3 |strike_rate=200.00}}
+{{Cricket match batsman status|player=[[Shreyas Iyer]] |status=not out |runs=6 |balls=3 |4s=1 |6s=0 |strike_rate=200.00}}
+{{Cricket match batsman status|player=[[Rinku Singh (cricketer)|Rinku Singh]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Andre Russell]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Ramandeep Singh (cricketer)|Ramandeep Singh]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Mitchell Starc]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Vaibhav Arora]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Harshit Rana]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+{{Cricket match batsman status|player=[[Varun Chakravarthy]] |status= |runs= |balls= |4s= |6s= |strike_rate=}}
+|colspan="4"| Extras 11 (b4, lb 2, w 5) <br> '''Total 114/2 (10.3 overs)'''
+|10
+|6
+| 10.85 RR
+{{Cricket match box end}}
+'''Fall of wickets:''' 11–1 (Narine, 1.2 ov), 102–2 (Gurbaz, 8.5 ov)
+
+{{Cricket match bowling box begin|title={{IPL Teams 1|srh }} bowling}}
+{{Cricket match bowler status|bowler=[[Bhuvneshwar Kumar]] |overs=2 |maiden=0 |runs=25 |wickets=0 |econ=12.50 |wides=1 |no-balls=0}}
+{{Cricket match bowler status|bowler= [[Pat Cummins]]|overs=2 |maiden=0 |runs=18 |wickets=1 |econ=9.00 |wides= 2|no-balls=0}}
+{{Cricket match bowler status|bowler=[[T Natarajan]] |overs= 2|maiden= 0|runs= 29|wickets= 0|econ= 14.50|wides= 2|no-balls=0}}
+{{Cricket match bowler status|bowler= [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]]|overs=2.3 |maiden=0 |runs=22 |wickets=1 |econ=8.80 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Jaydev Unadkat]] |overs= 1|maiden= 0|runs= 9|wickets= 0|econ= 9.00|wides= 0|no-balls=0}}
+{{Cricket match bowler status|bowler=[[Aiden Markram]] |overs=1 |maiden=0 |runs=5 |wickets=0 |econ=5.00 |wides=0 |no-balls=0}}
+{{Cricket match box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|https://www.iplt20.com/}}
+* [https://www.espncricinfo.com/ci/engine/match/1426312.html Scorecard] at ''[[ESPNcricinfo]]''
+
+{{Navboxes|title=2024 Indian Premier League finalists
+|list1={{ {{IPL Teams 1|kkr }} }}{{ {{IPL Teams 1|srh }} }}
+}}{{2024 Indian Premier League}}{{Indian Premier League}}{{Portal bar|India|Cricket}}
+
+[[Category:2024 Indian Premier League]]
+[[Category:Domestic cricket competitions in 2024|Indian Premier League Final]]
+[[Category:May 2024 in India]]
+[[Category:Indian Premier League finals]]
+<!-- '''DO NOT REMOVE THIS TAG:'''
+This page was created using the Preload stored at [[Template:Indian Premier League final preload]] -->

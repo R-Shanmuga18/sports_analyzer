@@ -1,0 +1,434 @@
+{{short description|Cricket match}}
+{{Use dmy dates|date=December 2023}}
+{{Use Indian English|date=March 2023}}
+{{Infobox limited overs final
+|title             = 2023 Indian Premier League final
+| event            = [[2023 Indian Premier League]]
+|image=TATA IPL final 2023 Poster.png
+| caption            = Match programme cover
+|imagesize=250 px
+| team1            = [[Gujarat Titans]]
+| team2            = [[Chennai Super Kings]]
+| team1score = 214/4
+| team1overs = 20 overs
+| team2score = 171/5
+| team2overs = 15 overs
+| details = Chennai Super Kings won by 5 wickets ([[Duckworth-Lewis-Stern method|DLS]] method)
+| date = 29 May 2023
+| stadium = [[Narendra Modi Stadium]]
+| city = [[Ahmedabad]]
+|attendance=101,566
+| man_of_the_match = [[Devon Conway]] ([[Chennai Super Kings|CSK]])
+| umpires = [[Nitin Menon]] (Ind)<br>[[Rod Tucker]] (Aus)
+| television =
+| previous = [[2022 Indian Premier League final|2022]]
+| next             = [[2024 Indian Premier League final|2024]]
+}}
+
+The '''2023 Indian Premier League final''' was played on 29 May 2023 at the [[Narendra Modi Stadium]] in [[Ahmedabad]]. It was a [[Day/night cricket|Day/Night]] [[Twenty20]] match that would decide the winner of the [[2023 Indian Premier League|2023 season]] of the [[Indian Premier League]] (IPL), an annual Twenty20 tournament in India.
+
+The match was originally scheduled to be played on 28 May, but was postponed to 29 May due to rain—marking the first time the IPL final had been postponed due to weather conditions. After winning the toss, [[Chennai Super Kings in 2023|Chennai Super Kings]] elected to field, with [[Gujarat Titans in 2023|Gujarat Titans]] scoring 214 runs for 4 wickets, setting the record for the highest team total in an IPL final.<ref>{{Cite web |last=Sportstar |first=Team |date=29 May 2023 |title=Gujarat Titans records highest team total in IPL final against CSK |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/gujarat-titans-highest-total-ipl-final-csk-vs-gt-ipl-2023-final-records-stats/article66909099.ece |access-date=1 June 2023 |website=sportstar.thehindu.com |language=en |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601005035/https://sportstar.thehindu.com/cricket/ipl/ipl-news/gujarat-titans-highest-total-ipl-final-csk-vs-gt-ipl-2023-final-records-stats/article66909099.ece |url-status=live }}</ref> Due to inclement weather, the Super Kings' innings was delayed by over an hour, and the target was adjusted by the [[Duckworth–Lewis–Stern method|Duckworth–Lewis–Stern (DLS) method]] to 171 runs in 15 overs; the team would ultimately win by five wickets, securing their fifth IPL title. CSK player [[Devon Conway]] was named [[Player of the Match awards (cricket)|player of the match]].<ref>{{cite web |date=29 May 2023 |title=CSK vs GT: Chennai Super Kings wins IPL 2023 final with Jadeja's last ball four, equals MI with fifth title; Dhoni equals Rohit |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |access-date=30 May 2023 |website=SportStar |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529213445/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |url-status=live }}</ref><ref>{{cite web |date=28 May 2023 |title=Man of the Match winners in IPL finals: Devon Conway Player of the Final of CSK vs GT IPL 2023 final |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-man-of-the-match-award-winners-csk-vs-gt-ipl-2023-final/article66903628.ece |access-date=30 May 2023 |website=SportStar |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529215521/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-man-of-the-match-award-winners-csk-vs-gt-ipl-2023-final/article66903628.ece |url-status=live }}</ref>
+
+The broadcasts of the match on [[JioCinema]] peaked at over 32 million concurrent viewers, overtaking the [[2019 Cricket World Cup]] semi-final between India and New Zealand on [[Disney+ Hotstar|Hotstar]]<ref>{{cite web |last=Dixon |first=Ed |date=17 July 2019 |title=Hotstar sets global streaming record during India-New Zealand semi-final |url=http://www.sportspromedia.com/news/hotstar-global-streaming-record-india-new-zealand-semi-final |url-status=live |archive-url=https://web.archive.org/web/20190718183201/http://www.sportspromedia.com/news/hotstar-global-streaming-record-india-new-zealand-semi-final |archive-date=18 July 2019 |access-date=18 July 2019 |work=[[SportsPro]]}}</ref> as India's most-watched [[livestreaming]] broadcast of all time.<ref>{{Cite web |date=30 May 2023 |title=IPL 2023 Finals: JioCinema breaks world record with over 3.2 crore viewers during CSK vs GT final |url=https://www.businesstoday.in/technology/news/story/ipl-2023-finals-jiocinema-breaks-world-record-with-over-32-crore-viewers-during-csk-vs-gt-final-383398-2023-05-30 |access-date=31 May 2023 |website=Business Today |language= |archive-date=31 May 2023 |archive-url=https://web.archive.org/web/20230531090204/https://www.businesstoday.in/technology/news/story/ipl-2023-finals-jiocinema-breaks-world-record-with-over-32-crore-viewers-during-csk-vs-gt-final-383398-2023-05-30 |url-status=live }}</ref>
+
+==Background==
+On 17 February 2023, the [[Board of Control for Cricket in India|BCCI]] announced the schedule for the 2023 season of the [[Indian Premier League]].<ref>{{cite web |access-date=17 February 2023 |title=BCCI Announces Schedule For TATA IPL 2023 |url=https://www.iplt20.com/news/3860/bcci-announces-schedule-for-tata-ipl-2023 |website=IPLT20.com. |publisher=Indian Premier League. |archive-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217132838/https://www.iplt20.com/news/3860/bcci-announces-schedule-for-tata-ipl-2023 |url-status=live }}</ref> 12 venues were scheduled to host the group stage. The schedule for the playoffs was announced on 21 April. [[M. A. Chidambaram Stadium]] in [[Chennai]] was chosen to host qualifier 1 and the eliminator whereas the [[Narendra Modi Stadium]]  was chosen to host qualifier 2 and the final.<ref>{{cite web |access-date=17 February 2023 |title=IPL schedule 2023: Full matches list in league stage, start date and time, teams, home-away venues |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-schedule-2023-start-date-time-teams-group-stage-home-away-matches-fixtures-final-playoffs-timings-venues/article66520952.ece |website=SportStar |date=17 February 2023 |archive-date=18 February 2023 |archive-url=https://web.archive.org/web/20230218002815/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-schedule-2023-start-date-time-teams-group-stage-home-away-matches-fixtures-final-playoffs-timings-venues/article66520952.ece |url-status=live }}</ref><ref>{{cite news |access-date=21 April 2023 |title=IPL 2023 final in Ahmedabad on May 28, Chennai gets Qualifier 1 and Eliminator |url=https://www.thehindu.com/sport/cricket/ipl-2023-final-in-ahmedabad-on-may-28-chennai-gets-qualifier-1-and-eliminator/article66764677.ece |website=The Hindu |date=21 April 2023 |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421154515/https://www.thehindu.com/sport/cricket/ipl-2023-final-in-ahmedabad-on-may-28-chennai-gets-qualifier-1-and-eliminator/article66764677.ece |url-status=live }}</ref> Chennai Super Kings and Gujarat Titans played the final on 29 May 2023.<ref>{{cite web |access-date=29 May 2023 |title=IPL 2023 Final, Ahmedabad Weather updates: CSK vs GT IPL final moves to reserve day due to rain |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/csk-vs-gt-ipl-2023-final-live-score-chennai-super-kings-vs-gujarat-titans-ahmedabad-may-29/liveblog/100589595.cms |website=Times of India |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529103022/https://timesofindia.indiatimes.com/sports/cricket/ipl/csk-vs-gt-ipl-2023-final-live-score-chennai-super-kings-vs-gujarat-titans-ahmedabad-may-29/liveblog/100589595.cms |url-status=live }}</ref> The Super Kings won the match by five wickets (DLS method).
+
+==Road to the final ==
+{{stack begin|float=left}}
+{{#invoke: IndianPremierLeagueProgression
+|create
+
+|W1, W7, L13, W18, L23, W30, W35, W39, L44, W48, W51, L57, W62, W70
+<!-- Gujarat League Stage -->
+
+|L71, W73, L74
+<!-- Gujarat Playoffs -->
+
+|L1, W6, W12, L17, W24, W29, W33, L37, L41, N45, W49, W55, L61, W67
+<!-- Chennai League Stage -->
+
+|W71, U, W74
+<!-- Chennai Playoffs -->
+
+|caption=League progression
+|teams=Gujarat Titans, Chennai Super Kings
+|knockoutType=2
+|matchesPerTeam=14
+|matchReportArticle=2023 Indian Premier League}}
+{{stack end}}
+{| style="width:100%;text-align:center"
+|- style="vertical-align:top;background:#99CCFF"
+| colspan="4" |'''[[Gujarat Titans]]'''
+! colspan="3" |[[Chennai Super Kings]]
+|- style="vertical-align:top;background:#C1E0FF"
+| colspan="7" |'''League Stage'''
+|- style="vertical-align:top;background:#C1E0FF"
+|Opponent
+|Scorecard
+|Result
+|Titles
+|Opponent
+|Scorecard
+|Result
+|-
+| style="text-align:left" |[[Chennai Super Kings]]
+|31 March 2023
+| Won
+| style="background:#C1E0FF" |Match 1
+| style="text-align:left" |[[Gujarat Titans]]
+|31 March 2023
+| Lost
+|-
+| style="text-align:left" |[[Delhi Capitals]]
+|4 April 2023
+| Won
+| style="background:#C1E0FF" |Match 2
+| style="text-align:left" |[[Lucknow Super Giants]]
+|3 April 2023
+|Won
+|-
+| style="text-align:left" |[[Kolkata Knight Riders]]
+|9 April 2023
+|Lost
+| style="background:#C1E0FF" |Match 3
+| style="text-align:left" |[[Mumbai Indians]]
+|8 April 2023
+|Won
+|-
+| style="text-align:left" |[[Punjab Kings]]
+|13 April 2023
+|Won
+| style="background:#C1E0FF" |Match 4
+| style="text-align:left" |[[Rajasthan Royals]]
+|12 April 2023
+|Lost
+|-
+| style="text-align:left" |[[Rajasthan Royals]]
+|16 April 2023
+|Lost
+| style="background:#C1E0FF" |Match 5
+| style="text-align:left" |[[Royal Challengers Bangalore]]
+|17 April 2023
+|Won
+|-
+| style="text-align:left" |[[Lucknow Super Giants]]
+|22 April 2023
+|Won
+| style="background:#C1E0FF" |Match 6
+| style="text-align:left" |[[Sunrisers Hyderabad]]
+|21 April 2023
+|Won
+|-
+| style="text-align:left" |[[Mumbai Indians]]
+|25 April 2023
+|Won
+| style="background:#C1E0FF" |Match 7
+| style="text-align:left" |[[Kolkata Knight Riders]]
+|23 April 2023
+|Won
+|-
+| style="text-align:left" |[[Kolkata Knight Riders]]
+|29 April 2023
+|Won
+| style="background:#C1E0FF" |Match 8
+| style="text-align:left" |[[Rajasthan Royals]]
+|27 April 2023
+|Lost
+|-
+| style="text-align:left" |[[Delhi Capitals]]
+|2 May 2023
+|Lost
+| style="background:#C1E0FF" |Match 9
+| style="text-align:left" |[[Punjab Kings]]
+| 30 April 2023
+| Lost
+|-
+| style="text-align:left" |[[Rajasthan Royals]]
+|5 May 2023
+|Won
+| style="background:#C1E0FF" |Match 10
+| style="text-align:left" |[[Lucknow Super Giants]]
+| 3 May 2023
+| No result
+|-
+| style="text-align:left" |[[Lucknow Super Giants]]
+|7 May 2023
+|Won
+| style="background:#C1E0FF" |Match 11
+| style="text-align:left" |[[Mumbai Indians]]
+| 6 May 2023
+| Won
+|-
+| style="text-align:left" |[[Mumbai Indians]]
+|12 May 2023
+|Lost
+| style="background:#C1E0FF" |Match 12
+| style="text-align:left" |[[Delhi Capitals]]
+| 10 May 2023
+| Won
+|-
+| style="text-align:left" |[[Sunrisers Hyderabad]]
+|15 May 2023
+|Won
+| style="background:#C1E0FF" |Match 13
+| style="text-align:left" |[[Kolkata Knight Riders]]
+|14 May 2023
+| Lost
+|-
+| style="text-align:left" |[[Royal Challengers Bangalore]]
+|21 May 2023
+|Won
+| style="background:#C1E0FF" |Match 14
+| style="text-align:left" |[[Delhi Capitals]]
+|20 May 2023
+| Won
+|-
+|- style="vertical-align:top;background:#C1E0FF"
+| colspan="7" |'''Playoff stage'''
+|- style="vertical-align:top;background:#99CCFF"
+| colspan="7" |'''Qualifier 1'''
+|- style="vertical-align:top;background:#C1E0FF"
+|Opponent
+|Scorecard
+|Result
+|Titles
+|Opponent
+|Scorecard
+|Result
+|-
+| style="text-align:left" |[[Chennai Super Kings]]
+| 23 May 2023
+|Lost
+| style="background:#C1E0FF" |Match 15
+| style="text-align:left" |[[Gujarat Titans]]
+| 23 May 2023
+|Won
+|- style="vertical-align:top;background:#99CCFF"
+|
+|
+|
+|
+! colspan="3" |
+|- style="vertical-align:top;background:#C1E0FF"
+|Opponent
+|Scorecard
+|Result
+|Titles
+|
+|
+|
+|-
+| style="text-align:left" |[[Mumbai Indians]]
+| 26 May 2023
+| Won
+| style="background:#C1E0FF" |Match 16
+|
+|
+|
+|- style="vertical-align:top;background:#C1E0FF"
+! colspan="7" |2023 Indian Premier League final
+|}
+{{small|Source: Firstpost<ref>{{cite web |access-date=27 May 2023 |title=IPL 2023: Chennai Super Kings' Road to Final |url=https://www.firstpost.com/firstcricket/sports-news/csk-road-to-ipl-final-12654622.html/amp |website=Firstpost |date=27 May 2023 |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527164347/https://www.firstpost.com/firstcricket/sports-news/csk-road-to-ipl-final-12654622.html/amp |url-status=live }}</ref>}}
+{{small|India Today<ref>{{cite web |access-date=27 May 2023 |title=Gujarat Titans: Road to IPL 2023 Final |url=https://www.indiatoday.in/visualstories/sports/gujarat-titans-road-to-ipl-2023-final-38863-27-05-2023 |website=India Today |date=27 May 2023 |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527213232/https://www.indiatoday.in/visualstories/sports/gujarat-titans-road-to-ipl-2023-final-38863-27-05-2023 |url-status=live }}</ref>}}
+
+===Group stage===
+[[Gujarat Titans]] started their season with a 5 wicket win over [[Chennai Super Kings]] at the [[Narendra Modi Stadium]] in [[Ahmedabad]].<ref>{{cite web |access-date=31 March 2023 |title=GT vs CSK IPL 2023 Highlights: Gujarat Titans defeat Chennai Super Kings by 5 wickets |url=https://indianexpress.com/article/sports/ipl/ipl-2023-gt-vs-csk-live-cricket-score-gujarat-titans-vs-chennai-super-kings-match-1-latest-scorecard-updates-at-narendra-modi-stadium-8529768/ |website=The Indian Express |date=31 March 2023 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331121153/https://indianexpress.com/article/sports/ipl/ipl-2023-gt-vs-csk-live-cricket-score-gujarat-titans-vs-chennai-super-kings-match-1-latest-scorecard-updates-at-narendra-modi-stadium-8529768/ |url-status=live }}</ref> After a victory over [[Delhi Capitals]] they were defeated by [[Kolkata Knight Riders]].<ref>{{cite news |access-date=10 April 2023 |title=GT vs KKR Highlights: Sensational Rinku Singh whacks five sixes in final over to hand KKR a thrilling win over Gujarat Titans |url=https://m.timesofindia.com/sports/cricket/ipl/top-stories/gt-vs-kkr-highlights-sensational-rinku-singh-whacks-five-sixes-in-final-over-to-hand-kkr-a-thrilling-win-over-gujarat-titans/articleshow/99360530.cms?from=mdr |website=Times of India|date=10 April 2023 }}</ref> Then Titans defeated the [[Punjab Kings]] before they were defeated by the [[Rajasthan Royals]].<ref>{{cite news |access-date=16 April 2023 |title=IPL 2023: Rajasthan Royals defeat Gujarat Titans by three wickets |url=https://m.economictimes.com/news/sports/ipl-2023-rajasthan-royals-defeat-gujarat-titans-by-three-wickets/articleshow/99540146.cms |website=Economic Times |date=16 April 2023 |archive-date=30 April 2023 |archive-url=https://web.archive.org/web/20230430181014/https://m.economictimes.com/news/sports/ipl-2023-rajasthan-royals-defeat-gujarat-titans-by-three-wickets/articleshow/99540146.cms |url-status=live }}</ref> They went on a three match winning streak after that loss but lost three of their last five matches. They ended the group stage with 10 wins and 4 losses, finishing first on the points table for the second consecutive season.<ref>{{cite web |title=IPL 2023 Points Table: IPL 2023 Team Rankings, Net Run Rate |url=https://sports.ndtv.com/ipl-2023/points-table |website=NDTV Sports |access-date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529115304/https://sports.ndtv.com/ipl-2023/points-table |url-status=live }}</ref>
+
+[[Chennai Super Kings]] started their season with a loss of 5 wickets against [[Gujarat Titans]] at the [[Narendra Modi Stadium]] in [[Ahmedabad]].<ref>{{cite web |access-date=31 March 2023 |title=IPL 2023: Shubman Gill stars as defending champions Gujarat Titans outclass Chennai Super Kings in opening match |url=https://www.indiatoday.in/sports/ipl-2023/story/ipl-gujarat-titans-vs-chennai-super-kings-score-shubman-gill-ruturaj-opening-match-2354218-2023-03-31 |website=India Today |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331183703/https://www.indiatoday.in/sports/ipl-2023/story/ipl-gujarat-titans-vs-chennai-super-kings-score-shubman-gill-ruturaj-opening-match-2354218-2023-03-31 |url-status=live }}</ref> After a winning streak of 2 matches they were defeated by [[Rajasthan Royals]] in their fourth fixture.<ref>{{cite web |access-date=13 April 2023 |title=IPL 2023: RR Beat CSK by 3 Runs Despite Dhoni-Jadeja Late Blitz |url=https://www.news18.com/cricketnext/ipl-2023-csk-vs-rr-match-report-rajasthan-royals-beat-chennai-super-kings-3-runs-7531855.html |website=News18 |archive-date=12 April 2023 |archive-url=https://web.archive.org/web/20230412210247/https://www.news18.com/cricketnext/ipl-2023-csk-vs-rr-match-report-rajasthan-royals-beat-chennai-super-kings-3-runs-7531855.html |url-status=live }}</ref> Then after a three match winning streak they were again defeated by [[Rajasthan Royals]].<ref>{{cite web |access-date=27 April 2023 |title=Rajasthan Royals defeated Chennai Super Kings by 32 runs, dethrone them from top spot |url=https://www.livemint.com/sports/cricket-news/jaiswals-fiery-fifty-guide-rr-to-202-5-against-csk-11682610494360.html |website=Livemint |date=27 April 2023 |archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427172026/http://www.livemint.com/sports/cricket-news/jaiswals-fiery-fifty-guide-rr-to-202-5-against-csk-11682610494360.html |url-status=live }}</ref> They won three of their last five matches. They ended the group stage with 8 wins and 5 losses excluding a washed out match against the [[Lucknow Super Giants]]<ref>{{cite web |access-date=3 May 2023 |title=IPL 2023 CSK vs LSG: Match called off amid rains, both teams to share points |url=https://www.livemint.com/sports/news/ipl-2023-csk-vs-lsg-match-called-off-amid-rains-both-teams-to-share-points-11683115960853.html |website=Livemint |date=3 May 2023 |archive-date=3 May 2023 |archive-url=https://web.archive.org/web/20230503141942/https://www.livemint.com/sports/news/ipl-2023-csk-vs-lsg-match-called-off-amid-rains-both-teams-to-share-points-11683115960853.html |url-status=live }}</ref> thus, securing second position on the points table.<ref>{{cite web|title=IPL 2023 Points Table. IPL 2023 Standings|url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/points-table-standings|work=ESPNcricinfo|access-date=29 May 2023|archive-date=29 May 2023|archive-url=https://web.archive.org/web/20230529235729/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/points-table-standings|url-status=live}}</ref>
+
+===League stage matches between finalists===
+{{Single-innings cricket match
+| date = 31 March 2023
+| time = 19:30
+| night = y
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 178/7 (20 overs)
+| score2 = 182/5 (19.2 overs)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| report = [https://www.espncricinfo.com/ci/engine/match/1359475.html Scorecard]
+| result = Gujarat Titans won by 5 wickets
+}}
+
+Gujarat won the only fixture between the two teams by 5 wickets on 31 March in Ahmedabad. [[Rashid Khan]] took 2 wickets for 26 runs and was the player of the match.<ref>{{cite web |access-date=31 March 2023 |title=IPL 2023, Gujarat Titans Vs Chennai Super Kings: Shubman Gill Powers GT To 5-Wicket Win Over CSK In Opening Match |url=https://www.outlookindia.com/sports/ipl-2023-gujarat-titans-vs-chennai-super-kings-shubman-gill-powers-gt-to-5-wicket-win-over-csk-in-opening-match-news-275138 |website=Outlook |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331182434/https://www.outlookindia.com/sports/ipl-2023-gujarat-titans-vs-chennai-super-kings-shubman-gill-powers-gt-to-5-wicket-win-over-csk-in-opening-match-news-275138 |url-status=live }}</ref><ref>{{cite web |access-date=31 March 2023 |title=Full Scorecard of Super Kings vs Titans 1st Match 2023 - Score Report |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-chennai-super-kings-1st-match-1359475/full-scorecard |work=ESPNcricinfo |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330164340/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-chennai-super-kings-1st-match-1359475/full-scorecard |url-status=live }}</ref>
+
+===Playoffs===
+The playoff stage of IPL was played according to the [[Page playoff]] system and provided Gujarat and Chennai, being the top and second-ranked teams, with two chances for qualifying for the Final. These teams first faced each other in Qualifier 1, with Chennai, as the winners, qualifying directly for the final; Gujarat, as the loser of Qualifier 1, played against the winner of the Eliminator in Qualifier 2, with the winner of that match qualifying for the final.<ref>{{cite web |access-date=24 May 2023 |title=IPL 2023 Qualifier 1 Highlights, CSK vs GT: Chennai beat Gujarat by 15 runs to enter 10th final |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2023-qualifier-live-scorecard-csk-chennai-super-kings-vs-gt-gujarat-titans/liveblog/100451139.cms |website=Times of India |date=24 May 2023 |archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524005345/https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2023-qualifier-live-scorecard-csk-chennai-super-kings-vs-gt-gujarat-titans/liveblog/100451139.cms |url-status=live }}</ref>
+
+{{Limited overs matches
+| date =  23 May 2023
+| round = '''Qualifier 1'''
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Gujarat Titans]]
+| score1 = 172/7 (20 overs)
+| score2 = 157 (20 overs)
+| report =
+[https://www.espncricinfo.com/ci/engine/match/1370350.html Scorecard]
+| motm = [[Ruturaj Gaikwad]] (Chennai Super Kings)
+| result = Chennai Super Kings won by 15 runs
+}}
+
+In Qualifier 1, Gujarat won the toss and chose to field. Chennai Super Kings scored 172/7 in their 20 overs with [[Ruturaj Gaikwad]] top scored for Chennai with 60 runs in 44 balls. [[Mohammed Shami]] was Gujarat's best bowler and took 2 wickets for 28 runs. In reply, Gujarat was only able to score 157 in 19.5 overs and was all out. [[Shubman Gill]] scored 42 runs in 38 balls while [[Ravindra Jadeja]], [[Deepak Chahar]], [[Maheesh Theekshana]] and [[Matheesha Pathirana]] took 2 wickets each for Chennai. As a result, Chennai qualified for the 10th time in the IPL Final.<ref>{{Cite web |date=23 May 2023 |title=CSK squeeze the Titans to enter their tenth IPL final |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-gujarat-titans-qualifier-1-1370350/match-report |access-date=24 May 2023 |work=ESPNcricinfo |language=en |archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524044429/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-gujarat-titans-qualifier-1-1370350/match-report |url-status=live }}</ref>
+
+[[Mumbai Indians]] won against [[Lucknow Super Giants]] in the Eliminator to set up a match against Gujarat to decide the second finalist.<ref>{{cite web |access-date=26 May 2023 |title=MI vs LSG Highlights, IPL 2023 Eliminator: Mumbai demolish Lucknow in Eliminator, to play Gujarat in Qualifier 2 |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/lucknow-super-giants-vs-mumbai-indians-lsg-vs-mi-ipl-2023-eliminator-live-score-updates/liveblog/100475333.cms |website=Times of India |date=24 May 2023 |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526024630/https://timesofindia.indiatimes.com/sports/cricket/ipl/lucknow-super-giants-vs-mumbai-indians-lsg-vs-mi-ipl-2023-eliminator-live-score-updates/liveblog/100475333.cms |url-status=live }}</ref> 
+----
+
+{{Limited overs matches
+| date = 26 May 2023
+| round = '''Qualifier 2'''
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Mumbai Indians]]
+| score1 = 233/3 (20 overs)
+| score2 = 171 (18.2 overs)
+| report = [https://www.espncricinfo.com/ci/engine/match/1370352.html Scorecard]
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| result = Gujarat Titans won by 62 runs
+}}
+
+In Qualifier 2, Mumbai won the toss and chose to field. Gujarat scored a record 233/3 runs in their 20 overs. [[Shubman Gill]] scored 129 runs in 60 balls. Though expensive, [[Piyush Chawla]] was best bowler for Mumbai as he took 1 wicket for 45 runs in 3 overs. In response, Mumbai was only able to score 171 runs in 18.2 overs and got all out. [[Suryakumar Yadav]] scored 61 runs from 38 balls while [[Mohit Sharma]] took 5 wickets for just 10 runs in 2.2 overs. Thus, Gujarat qualified for their second IPL final.<ref>{{cite web |access-date=27 May 2023 |title=GT vs MI Highlights, IPL 2023, Qualifier 2: Shubman Gill Shines With Third Century As GT Beat MI By 62 Runs, Set To Face CSK In Final |url=https://sports.ndtv.com/ipl-2023/gt-vs-mi-live-score-ipl-2023-qualifier-2-gujarat-titans-vs-mumbai-indians-live-score-updates-4068513 |website=NDTV Sports |date=27 May 2023 |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526222538/https://sports.ndtv.com/ipl-2023/gt-vs-mi-live-score-ipl-2023-qualifier-2-gujarat-titans-vs-mumbai-indians-live-score-updates-4068513/amp/1 |url-status=live }}</ref>
+
+==Match==
+
+===Match officials===
+* '''On-field [[umpire (cricket)|umpires]]''': [[Nitin Menon]] (Ind) and [[Rod Tucker]] (Aus)
+* '''[[Third umpire]]''': [[K. N. Ananthapadmanabhan]] (Ind)
+* '''[[Fourth umpire|Reserve umpire]]''': [[Jayaraman Madanagopal]] (Ind)
+* '''[[Match referee]]''': [[Javagal Srinath]] (Ind)
+* '''[[Toss (cricket)|Toss]]''': Chennai Super Kings won the toss and elected to field.
+
+===Summary===
+In a rain delayed match, Chennai Super Kings won the toss and elected to field. The game was rained out on day 1 and moved over to the reserve day. Batting first, Gujarat Titans scored 214 runs for the loss of 4 wickets in their 20 overs. Left-handed batsman [[Sai Sudharsan]] top scored with 96 runs while Indian wicketkeeper [[Wriddhiman Saha]] scored 54 runs. Sri Lankan fast bowler [[Matheesha Pathirana]] took 2 wickets while conceding 44 runs for the Super Kings. In response, Chennai Super Kings chased the revised target of 171 runs from 15 overs. [[Devon Conway]] scored 47 runs from 25 balls while [[Mohit Sharma]] took 3 wickets from 36 runs in 3 overs. Thus, Super Kings won their 5th title and Conway was named as the player of the match<ref name=":0">{{Cite web |title=Titans vs Super Kings Scorecard 2023. Cricket Scorecard |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-chennai-super-kings-final-1370353/full-scorecard |access-date=29 May 2023 |work=ESPNcricinfo |language=en |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529193357/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-chennai-super-kings-final-1370353/full-scorecard |url-status=live }}</ref><ref>{{cite web |access-date=30 May 2023 |title=CSK vs GT, IPL 2023 Final Highlights: Jadeja's last ball boundary helps Chennai win 5th title in thriller |url=https://www.hindustantimes.com/cricket/csk-vs-gt-live-score-ipl-2023-final-chennai-super-kings-vs-gujarat-titans-reserve-day-ahmedabad-latest-scorecard-updates-101685349753890.html |website=Hindustan Times |date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529223251/https://www.hindustantimes.com/cricket/csk-vs-gt-live-score-ipl-2023-final-chennai-super-kings-vs-gujarat-titans-reserve-day-ahmedabad-latest-scorecard-updates-101685349753890.html |url-status=live }}</ref>
+
+=== Gujarat Titans innings ===
+Having been asked to bat, the Titans got off to a healthy start with openers [[Wriddhiman Saha]] and [[Shubman Gill]] helping the team get to 50 runs in 5.2 overs and went on to score 62 runs for the loss of no wickets at the end of the first power play at 6 overs. Gill was the first to fall, dismissed off a stumping by [[MS Dhoni]] off the bowling of [[Ravindra Jadeja]]. He scored 39 runs off 20 balls.<ref name=":0" /> Indian batsman [[Sai Sudharsan]] joined Saha, and the duo put on 64 runs before Saha was out caught by Dhoni off the  bowling of [[Deepak Chahar]]. The score was 131 runs for the loss of 2 wickets at the end of 14 overs. Sudharsan was joined by captain [[Hardik Pandya]], and the duo put on a quickfire 81 runs off 5 overs before Sudharsan was out [[leg before wicket]] off the bowling of Pathirana for 96 runs, his highest score, in the twentieth over. The Titans wrapped their innings scoring 214 runs having lost 4 wickets in their 20 overs. Sri Lankan fast bowler [[Matheesha Pathirana]] took 2 wickets while conceding 11 runs for the Super Kings.<ref name=":0" /><ref>{{cite web |access-date=29 May 2023 |title=IPL 2023 Final: Sai Sudharsan helps Gujarat Titans post highest-ever total in IPL final |url=https://indianexpress.com/article/sports/ipl/ipl-2023-final-sai-sudharsan-helps-gujarat-titans-post-highest-ever-total-in-ipl-final-8635513/ |website=The Indian Express |date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529180116/https://indianexpress.com/article/sports/ipl/ipl-2023-final-sai-sudharsan-helps-gujarat-titans-post-highest-ever-total-in-ipl-final-8635513/ |url-status=live }}</ref>
+
+=== Chennai Super Kings innings ===
+The Super Kings innings was delayed by rain with the game being reduced to 15 overs and a revised target of 171 runs to win the finals and the championship.<ref name=":0" /> Indian batter [[Ruturaj Gaikwad]] and New Zealand batter [[Devon Conway]] opened the innings for Super Kings and got the team to a healthy start scoring 52 runs off 4 overs from the first power play. Gaikwad was the first to be dismissed when he was out for 26 runs caught at backward point by Afghan allrounder [[Rashid Khan]] off the bowling of fellow Afghan spinner [[Noor Ahmad]].<ref name=":0" /> Conway was out the very same over dismissed caught by Mohit Sharma off Ahmad.<ref name=":0" /> [[Substitute (cricket)|Impact substitute]] [[Shivam Dube]] was joined by Indian batter [[Ajinkya Rahane]] and the duo took the score to 117 runs off 10.5 overs before Rahane was out caught by [[Vijay Shankar]] off the bowling of Sharma. Captain [[MS Dhoni]] came-in to bat when the team was down four wickets with [[Ambati Rayudu]]{{Efn|This was the last IPL game of Rayudu, earlier in the day he announced his retirement from IPL and Indian cricket.}} dismissed caught and bowled off Sharma. Dhoni was out for a [[Duck (cricket)|duck]] the very first ball caught by [[David Miller (South African cricketer)|David Miller]] at [[extra cover]] off the bowling of Sharma.<ref name=":0" />
+
+The game came down to the last two deliveries with the Super Kings needing 10 runs to win. Indian batter [[Ravindra Jadeja]] was on strike facing [[Mohit Sharma]]. Jadeja hoisted the penultimate delivery for a six over long off before finishing the innings by scoring a boundary behind the leg stump. The Super Kings won the game and the championship off the last ball of the rain reduced innings of 15 overs. This was the Super Kings' fifth IPL title.<ref name=":0" /><ref>{{cite web |access-date=30 May 2023 |title=CSK vs GT highlights, IPL 2023 Final: Chennai Super Kings beat defending champions Gujarat Titans in rain-marred final to clinch 5th title |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/csk-vs-gt-ipl-2023-final-live-score-chennai-super-kings-vs-gujarat-titans-ahmedabad-may-29/liveblog/100589595.cms |website=Times of India |date=30 May 2023 |archive-date=30 May 2023 |archive-url=https://web.archive.org/web/20230530023738/https://timesofindia.indiatimes.com/sports/cricket/ipl/csk-vs-gt-ipl-2023-final-live-score-chennai-super-kings-vs-gujarat-titans-ahmedabad-may-29/liveblog/100589595.cms |url-status=live }}</ref>
+<section begin="match74" />
+{{Single-innings cricket match
+| date = 29 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 214/4 (20 overs)
+| runs1 = [[Sai Sudharsan]] 96 (47)
+| wickets1 = [[Matheesha Pathirana]] 2/44 (4 overs)
+| score2 = 171/5 (15 overs)
+| runs2 = [[Devon Conway]] 47 (25)
+| wickets2 = [[Mohit Sharma]] 3/36 (3 overs)
+| result = Chennai Super Kings won by 5 wickets ([[Duckworth-Lewis-Stern method|DLS]] method)
+| report =[https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-tba-final-1370353/live-cricket-score Scorecard] 
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Devon Conway]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| round = {{anchor|match74}}
+| rain = The match was originally scheduled to be held on 28 May 2023, but it was shifted due to rain.<ref>{{cite web |access-date=28 May 2023 |title=CSK vs GT IPL 2023 final moved to reserve day; title winner to be decided on Monday |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-vs-gt-ipl-2023-final-moved-reserve-day-rain-no-play-possible-chennai-super-kings-gujarat-titans-ahmedabad/article66905080.ece/ |website=SportStar |date=28 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529101132/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-vs-gt-ipl-2023-final-moved-reserve-day-rain-no-play-possible-chennai-super-kings-gujarat-titans-ahmedabad/article66905080.ece/amp/ |url-status=live }}</ref> 
+* Chennai Super Kings were set a revised target of 171 runs from 15 overs due to rain.
+| notes = By winning in the final, Chennai Super Kings equaled Mumbai Indians for winning the most IPL trophies (5).<ref>{{cite web |access-date=30 May 2023 |title=CSK vs GT: Chennai Super Kings wins IPL 2023 final with Jadeja's last ball four, equals MI with fifth title; Dhoni equals Rohit |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |website=SportStar |date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529213445/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |url-status=live }}</ref>
+}}
+
+===Scorecard===
+{| class="wikitable"
+|+Key
+|-
+|
+*(IMP) indicates an [[2023 Indian Premier League#Impact player rule|impact player]]
+|}
+
+{{Cricket match batting box begin|title=Gujarat Titans innings}}
+{{Cricket match batsman status|player=[[Wriddhiman Saha]] |status=c †Dhoni b Chahar |runs=54 |balls=39 |4s=5 |6s=1 |strike_rate=138.46}}
+{{Cricket match batsman status|player=[[Shubman Gill]] |status=st †Dhoni b Jadeja |runs=39 |balls=20 |4s=7 |6s=0 |strike_rate=195.00}}
+{{Cricket match batsman status|player=[[Sai Sudharsan]] |status=lbw Pathirana |runs=96 |balls=47 |4s=8 |6s=6 |strike_rate=204.25}}
+{{Cricket match batsman status|player=[[Hardik Pandya]] |status=not out |runs=21 |balls=12 |4s=0 |6s=2 |strike_rate=175.00}}
+{{Cricket match batsman status|player=[[Rashid Khan]] |status=c Gaikwad b Pathirana |runs=0 |balls=2 |4s=0 |6s=0 |strike_rate=0.00}}
+{{Cricket match batsman status|player=[[Vijay Shankar]] |status=did not bat |runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player=[[David Miller (South African cricketer)|David Miller]] |status=did not bat |runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player=[[Rahul Tewatia]] |status=did not bat |runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player=[[Mohit Sharma]] |status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player= [[Noor Ahmad]]|status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player= [[Mohammed Shami]]|status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+|colspan="4"| Extras 4 (b 1, lb 1, wd 2) <br> '''Total 214/4 (20 overs)'''
+| 20
+| 9
+| 10.70 RR
+{{Cricket match box end}}
+'''Fall of wickets:''' 67/1 (S. Gill, 6.6 ov), 131/2 (W. Saha, 13.6 ov), 212/3 (S. Sudharsan, 19.3 ov), 214/4 (R. Khan, 19.6 ov)
+
+{{Cricket match bowling box begin|title=Chennai Super Kings bowling}}
+{{Cricket match bowler status|bowler=[[Deepak Chahar]] |overs=4 |maiden=0 |runs=38 |wickets=1 |econ=9.50 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Tushar Deshpande]] |overs=4 |maiden=0 |runs=56 |wickets=0 |econ=14.00 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Maheesh Theekshana]] |overs=4 |maiden=0 |runs=36 |wickets=0 |econ=9.00 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Ravindra Jadeja]] |overs=4 |maiden=0 |runs=38 |wickets=1 |econ=9.50 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Matheesha Pathirana]] |overs=4 |maiden=0 |runs=44 |wickets=2 |econ=11.00 |wides=2 |no-balls=0}}
+{{Cricket match box end}}
+
+{| class="wikitable"
+|+Impact players
+! Team
+! Out
+! In
+|-
+![[Chennai Super Kings]]
+|[[Matheesha Pathirana]]
+|[[Shivam Dube]]
+|-
+![[Gujarat Titans]]
+|[[Sai Sudharsan]]
+|[[Josh Little]]
+|}
+----
+{{Cricket match batting box begin|title=Chennai Super Kings innings}}
+{{Cricket match batsman status|player=[[Ruturaj Gaikwad]] |status=c Khan b Ahmad |runs=26 |balls=16 |4s=3 |6s=1 |strike_rate=162.50}}
+{{Cricket match batsman status|player=[[Devon Conway]] |status=c Sharma b Ahmad |runs=47 |balls=25 |4s=4 |6s=2 |strike_rate=188.00}}
+{{Cricket match batsman status|player=[[Shivam Dube]] (IMP) |status=not out |runs=32 |balls=21 |4s=0 |6s=2 |strike_rate=152.38}}
+{{Cricket match batsman status|player=[[Ajinkya Rahane]] |status=c Shankar b Sharma |runs=27 |balls=13 |4s=2 |6s=2 |strike_rate=207.69}}
+{{Cricket match batsman status|player=[[Ambati Rayudu]] |status=c & b Sharma |runs=19 |balls=8 |4s=1 |6s=2 |strike_rate=237.50}}
+{{Cricket match batsman status|player=[[MS Dhoni]] |status=c Miller b Sharma |runs=0 |balls=1 |4s=0 |6s=0 |strike_rate=0.00}}
+{{Cricket match batsman status|player=[[Ravindra Jadeja]] |status=not out |runs=15 |balls=6 |4s=1 |6s=1 |strike_rate=250.00}}
+{{Cricket match batsman status|player=[[Moeen Ali]] |status=did not bat |runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player=[[Deepak Chahar]] |status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player= [[Tushar Deshpande]]|status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+{{Cricket match batsman status|player= [[Maheesh Theekshana]]|status=did not bat|runs=|balls=|4s=|6s=|strike_rate=}}
+|colspan="4"| Extras 5 (lb 1, wd 4) <br> '''Total 171/5 (15 overs)'''
+| 11
+| 10
+| 11.40 RR
+{{Cricket match box end}}
+'''Fall of wickets:''' 74/1 (R. Gaikwad, 6.3 ov), 78/2 (D. Conway, 6.6 ov), 117/3 (A. Rahane, 10.5 ov), 149/4 (A. Rayudu, 12.4 ov), 149/5 (M. Dhoni, 12.5 ov)
+
+{{Cricket match bowling box begin|title=Gujarat Titans bowling}}
+{{Cricket match bowler status|bowler=[[Mohammed Shami]] |overs=3 |maiden=0 |runs=29 |wickets=0 |econ=9.66 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Hardik Pandya]] |overs=1 |maiden=0 |runs=14 |wickets=0 |econ=14.00 |wides=1 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Rashid Khan]] |overs=3 |maiden=0 |runs=44 |wickets=0 |econ=14.66 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Noor Ahmad]] |overs=3 |maiden=0 |runs=17 |wickets=2 |econ=5.66 |wides=3 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Josh Little]] (IMP)|overs=2 |maiden=0 |runs=30 |wickets=0 |econ=15.00 |wides=0 |no-balls=0}}
+{{Cricket match bowler status|bowler=[[Mohit Sharma]] |overs=3 |maiden=0 |runs=36 |wickets=3 |econ=12.00 |wides=0 |no-balls=0}}
+{{Cricket match box end}}
+
+==References==
+{{Reflist}}
+
+==Note== 
+{{reflist|group=lower-alpha}}
+
+==External links==
+* [https://www.iplt20.com/match/2022/1046 Match Centre] at IPLT20.com
+*[https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-tba-final-1370353/live-cricket-score Series home] at ''[[ESPNcricinfo]]''
+
+{{2023 Indian Premier League}}
+{{Indian Premier League}}{{Chennai Super Kings}}{{Gujarat Titans}}
+
+[[Category:2023 Indian Premier League]]
+[[Category:2023 in Indian cricket]]
+[[Category:Indian Premier League finals]]
+[[Category:Twenty20 cricket matches]]

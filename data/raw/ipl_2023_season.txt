@@ -1,0 +1,2296 @@
+{{short description|Cricket tournament}}
+{{pp|small=yes}} 
+{{Use dmy dates|date=November 2022}}
+{{Use Indian English|date=November 2022}}
+{{Infobox cricket tournament
+| name                 = 2023 Indian Premier League 
+| image                = TATA IPL 2023 Logo.png
+| fromdate             = 31 March 2023
+| todate               = 30 May 2023
+| administrator        = [[Board of Control for Cricket in India]] (BCCI)
+| cricket format       = [[Twenty20]]
+| tournament format    = Group stage and playoffs
+| participants         = 10
+| matches              = 74
+| champions            = [[Chennai Super Kings]]
+| count                = 5
+| runner up            = [[Gujarat Titans]]
+| previous_year        = 2022
+| previous_tournament  = 2022 Indian Premier League 
+| next_year            = [[2024 Indian Premier League|2024]]
+| next_tournament      =
+| most valuable player = Shubman Gill (Gujarat Titans)
+| most runs            = Shubman Gill (Gujarat Titans) (890)
+| most wickets         = [[Mohammed Shami]] ([[Gujarat Titans]]) (28)
+| website              = {{URL|iplt20.com}}
+}}
+
+The '''2023 Indian Premier League''' (also known as '''Tata IPL 2023''' for sponsorship reasons and sometimes referred to as '''IPL 2023''' or '''IPL 16''') was the 16th season of the [[Indian Premier League]], a franchise [[Twenty20 cricket]] league in [[India]]. It is organised by the [[Board of Control for Cricket in India]].<ref>{{cite web|title=IPL Auction Set for December 23 in Kochi|url=https://www.espncricinfo.com/story/ipl-auction-set-for-december-23-in-kochi-1344093|work=ESPN|access-date=11 November 2022|archive-date=11 November 2022|archive-url=https://web.archive.org/web/20221111075859/https://www.espncricinfo.com/story/ipl-auction-set-for-december-23-in-kochi-1344093|url-status=live}}</ref>
+
+In the [[2023 Indian Premier League final|final]], [[Chennai Super Kings]] defeated [[Gujarat Titans]], by five wickets ([[Duckworth-Lewis-Stern method|DLS]] method) to win their fifth league title.<ref>{{cite web |access-date=30 May 2023 |title=CSK vs GT: Chennai Super Kings wins IPL 2023 final with Jadeja's last ball four, equals MI with fifth league title; Dhoni equals Rohit |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |website=SportStar |date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529213445/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |url-status=live }}</ref>
+
+== Background ==
+The league returned to its original home-and-away format after a four year hiatus.<ref>{{Cite web |last=Verma |first=Karan |date=20 March 2023 |title=After 4 Years Gap, IPL Back To Home And Away Format |url=https://youriplnews.com/after-4-years-gap-ipl-back-to-home-and-away-format/ |url-status=live |access-date=23 March 2023 |website=Your IPL News |archive-date=23 March 2023 |archive-url=https://web.archive.org/web/20230323221306/https://youriplnews.com/after-4-years-gap-ipl-back-to-home-and-away-format/ }}</ref> Due to the [[COVID-19 pandemic in India|COVID-19 pandemic]], the previous three seasons were held at neutral venues.<ref>{{Cite news |title=IPL to return to home-away format in 2023: Ganguly - The Hindu |url=https://www.thehindu.com/sport/cricket/ipl-to-return-to-home-away-format-in-2023-ganguly/article65921805.ece |url-status=live |access-date=6 March 2023 |website=The Hindu |date=22 September 2022 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331114146/https://www.thehindu.com/sport/cricket/ipl-to-return-to-home-away-format-in-2023-ganguly/article65921805.ece }}</ref> "Fan parks" were organised in 45 cities, events which last occurred in 2019,<ref>{{Cite web |title=IPL fan parks set to return after 2019... |url=https://www.iplt20.com/news/3865/ipl-fan-parks-return-after-2019-set-to-cover-over-20-states-2-union-territories-45-cities |url-status=live |website=IPLT20 |access-date=31 March 2023 |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330160950/https://www.iplt20.com/news/3865/ipl-fan-parks-return-after-2019-set-to-cover-over-20-states-2-union-territories-45-cities }}</ref>{{efn|In fan parks, the league installs a large screen where audiences can watch matches.}} and an opening ceremony took place for the first time with performances from [[Arijit Singh]], [[Tamannaah Bhatia]], and [[Rashmika Mandanna]].<ref>{{Cite news |title=IPL 2023 Opening Ceremony: When And Where To Watch Live Telecast, Live Streaming. Cricket News |url=https://sports.ndtv.com/ipl-2023/ipl-2023-opening-ceremony-when-and-where-to-watch-live-telecast-live-streaming-3908127 |access-date=2023-04-04 |website=NDTVSports.com |language=en |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404014115/https://sports.ndtv.com/ipl-2023/ipl-2023-opening-ceremony-when-and-where-to-watch-live-telecast-live-streaming-3908127 |url-status=live }}</ref><ref>{{Cite web |date=2023-03-31 |title=IPL 2023 Opening Ceremony Highlights: Tamanna, Rashmika sizzle as Arijit enthralls Ahmedabad crowd in dazzling event |url=https://www.hindustantimes.com/cricket/ipl-2023-opening-ceremony-live-updates-rashmika-tamanna-arijit-singh-to-sizzle-in-star-studded-event-101680238789195.html |access-date=2023-04-04 |website=Hindustan Times |language=en |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404014115/https://www.hindustantimes.com/cricket/ipl-2023-opening-ceremony-live-updates-rashmika-tamanna-arijit-singh-to-sizzle-in-star-studded-event-101680238789195.html |url-status=live }}</ref>
+
+=== Format ===
+The teams are divided into two groups (A and B) of five teams. Each team plays twice against all five teams in the other group (home and away), and once against all four of the teams in its own group. All teams play seven home and seven away games.<ref>{{cite news| url=https://www.timesofsports.com/cricket/ipl/2023-format-new-rules/| title=IPL 2023 Format and New Rules – All Exclusive Details| work=Times of Sport| access-date=6 April 2023| archive-date=8 February 2023| archive-url=https://web.archive.org/web/20230208060451/https://www.timesofsports.com/cricket/ipl/2023-format-new-rules/| url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+! style="width:50%;"| Group A !! style="width:50%;"| Group B
+|-
+| [[Mumbai Indians]] || [[Chennai Super Kings]] 
+|-
+|[[Kolkata Knight Riders]]
+|[[Sunrisers Hyderabad]]
+|-
+| [[Rajasthan Royals]] || [[Gujarat Titans]]
+|-
+| [[Delhi Capitals]] || [[Royal Challengers Bangalore]] 
+|-
+|  [[Lucknow Super Giants]] || [[Punjab Kings]]
+|}
+
+=== Rules ===
+{{Main|Indian Premier League#Rules|}}
+A number of new laws have been introduced in this season:
+* A penalty of five runs if unfair movement by a fielder or wicketkeeper occurs as a ball being delivered and before it is received by the batsman. The dead ball will also be declared.<ref name=":2" />
+* Teams can be declared after the toss.
+* An "Impact Player" rule allowing teams to substitute a player during a match from four named substitutes.{{Efn|The Impact Player can only be an Indian player unless there are less than 4 overseas players in the Playing XI.}}<ref name=":3">{{Cite web|title=IPL Impact Player to be Indian unless the team starts with less than four foreigners|url=http://www.cricbuzz.com/cricket-news/124905/impact-player-in-ipl-can-only-be-an-indian-confirms-bcci|access-date=1 January 2023|website=Cricbuzz|date=21 December 2022 |archive-date=1 January 2023|archive-url=https://web.archive.org/web/20230101123632/https://www.cricbuzz.com/cricket-news/124905/impact-player-in-ipl-can-only-be-an-indian-confirms-bcci|url-status=live}}</ref>
+* If a team fails to bowl their 20 overs in the allocated time, only four fielders will be allowed outside of the fielding restrictions circle for the remainder of the innings.<ref name=":2">{{Cite web |date=2023-03-22 |title=IPL 2023 new rules: Playing XI, Impact Player to be revealed after toss; penalties for an unfair keeper, fielder movement |url=https://www.hindustantimes.com/cricket/ipl-2023-new-rules-playing-xi-impact-player-to-be-revealed-after-toss-penalties-for-unfair-keeper-fielder-movement-101679487255661.html |access-date=2023-03-22 |website=Hindustan Times |language=en |archive-date=23 March 2023 |archive-url=https://web.archive.org/web/20230323061508/https://www.hindustantimes.com/cricket/ipl-2023-new-rules-playing-xi-impact-player-to-be-revealed-after-toss-penalties-for-unfair-keeper-fielder-movement-101679487255661.html |url-status=live }}</ref>
+* Teams can review balls for wides and no-balls using the [[Decision Review System]] (DRS). This change was first used during the [[2023 Women's Premier League (cricket)|2023 Women's Premier League]].<ref>{{Cite web |date=2023-03-29 |title=Players can review wides and no-balls using DRS in WPL and IPL |url=https://www.timesnownews.com/sports/cricket/after-womens-premier-league-players-to-be-eligible-to-take-drs-for-wide-and-no-ball-calls-in-ipl-report-article-98440249 |access-date=29 March 2023 |archive-date=29 March 2023 |archive-url=https://web.archive.org/web/20230329142714/https://www.timesnownews.com/sports/cricket/after-womens-premier-league-players-to-be-eligible-to-take-drs-for-wide-and-no-ball-calls-in-ipl-report-article-98440249 |url-status=live }}</ref>
+
+==Participating teams==
+The same 10 teams from the [[2022 Indian Premier League|previous season]] returned with few changes to the team personnel.<ref>{{Cite web |title=IPL 2023 Teams and Squads. IPL 2023 teams & players list |url=https://www.crictracker.com/indian-premier-league-ipl-teams-and-squads/ |access-date=2023-04-04 |website=CricTracker |language=en |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404015617/https://www.crictracker.com/indian-premier-league-ipl-teams-and-squads/ |url-status=live }}</ref><ref>{{Cite web |last=Sports |first=Times of |date=2023-04-02 |title=IPL 2023 Squad of All Teams - 10 Teams Updated List |url=https://www.timesofsports.com/cricket/ipl/squad-2023/ |access-date=2023-04-04 |language=en-US |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404014119/https://www.timesofsports.com/cricket/ipl/squad-2023/ |url-status=live }}</ref>
+{| class="wikitable"
+|-
+! Franchise
+!Head coach<ref>{{cite web |access-date=17 March 2023 |title=IPL 2023 Coaches – List of all coaches in IPL |url=https://www.sportskeeda.com/cricket/ipl-coach |website=Sportskeeda |archive-date=14 April 2023 |archive-url=https://web.archive.org/web/20230414143031/https://www.sportskeeda.com/cricket/ipl-coach |url-status=live }}</ref>
+!Captain
+|-
+| [[Chennai Super Kings]]
+| [[Stephen Fleming]]
+| [[MS Dhoni]]
+|-
+| [[Delhi Capitals]]
+| [[Ricky Ponting]]
+| [[David Warner (cricketer)|David Warner]]
+|-
+| [[Gujarat Titans]]
+| [[Ashish Nehra]]
+| [[Hardik Pandya]]{{efn|[[Rashid Khan (cricketer)|Rashid Khan]] captained GT for their match vs. KKR when Hardik Pandya was ruled out.}}
+|-
+| [[Kolkata Knight Riders]]
+| [[Chandrakant Pandit]]
+| [[Nitish Rana]] 
+|-
+| [[Lucknow Super Giants]]
+| [[Andy Flower]]
+| [[KL Rahul]]{{efn|[[Krunal Pandya]] captained LSG after KL Rahul was ruled out due to injury in the match against RCB}}
+|-
+| [[Mumbai Indians]]
+| [[Mark Boucher]]
+| [[Rohit Sharma]]{{efn|[[Suryakumar Yadav]] captained MI for their match vs. KKR in which Sharma was added as an Impact Player due to injury.}}
+|-
+| [[Punjab Kings]]
+| [[Trevor Bayliss]]
+| [[Shikhar Dhawan]]{{efn|[[Sam Curran]] captained PBKS for two matches in which Dhawan was injured.}}
+|-
+| [[Rajasthan Royals]]
+| [[Kumar Sangakkara]]
+| [[Sanju Samson]]
+|-
+| [[Royal Challengers Bangalore]]
+| [[Sanjay Bangar]]
+| [[Faf du Plessis]]{{efn|[[Virat Kohli]] captained RCB for two matches in which Du Plessis was added as an Impact Player due to injury.}}
+|-
+| [[Sunrisers Hyderabad]]
+| [[Brian Lara]]
+| [[Aiden Markram]]{{efn|[[Bhuvneshwar Kumar]] captained SRH for their first match as Markram was unavailable.}}
+|}
+
+== Personnel changes ==
+{{Main|List of 2023 Indian Premier League personnel changes}}
+
+In August 2022, [[Chandrakant Pandit]] replaced [[Brendon McCullum]] as head coach of [[Kolkata Knight Riders]].<ref name=":6">{{cite web |title=KKR appoint Chandrakant Pandit as Head Coach |url=http://www.cricbuzz.com/cricket-news/123481/kkr-appoint-chandrakant-pandit-as-head-coach |url-status=live |archive-url=https://web.archive.org/web/20221111090302/https://www.cricbuzz.com/cricket-news/123481/kkr-appoint-chandrakant-pandit-as-head-coach |archive-date=11 November 2022 |access-date=11 November 2022 |work=Cricbuzz|date=17 August 2022 }}</ref> In September [[Mumbai Indians]] promoted [[Mahela Jayawardene]] to a strategic role in the franchise and recruited [[Mark Boucher]] as head coach for 2023.<ref>{{cite web |title='Boucher unveiled as new Mumbai Indians headcoach |url=https://www.espncricinfo.com/story/ipl-mumbai-indians-mark-boucher-takes-over-from-mahela-jayawardene-as-head-coach-1334885 |url-status=live |archive-url=https://web.archive.org/web/20220917082458/https://www.espncricinfo.com/story/ipl-mumbai-indians-mark-boucher-takes-over-from-mahela-jayawardene-as-head-coach-1334885 |archive-date=17 September 2022 |access-date=17 September 2022 |work=espncricinfo}}</ref> In November, [[Tom Moody]] was replaced by [[Brian Lara]] as head coach of [[Sunrisers Hyderabad]].<ref>{{cite web |title='Wish them well' - Moody after being replaced by Lara as SRH head coach |url=http://www.cricbuzz.com/cricket-news/123696/wish-them-well-tom-moody-after-being-replaced-by-brian-lara-as-srh-head-coach |url-status=live |archive-url=https://web.archive.org/web/20221112133526/https://www.cricbuzz.com/cricket-news/123696/wish-them-well-tom-moody-after-being-replaced-by-brian-lara-as-srh-head-coach |archive-date=12 November 2022 |access-date=11 November 2022 |work=cricbuzz|date=3 September 2022 }}</ref> On 16 September 2022 [[Anil Kumble]] was also replaced by [[Trevor Bayliss]] as head coach of [[Punjab Kings]].<ref>{{cite web |title=Trevor Bayliss replaces Anil Kumble as Punjab Kings head coach |url=https://indianexpress.com/article/sports/cricket/trevor-bayliss-replaces-anil-kumble-punjab-kings-head-coach-8154829/ |url-status=live |archive-url=https://web.archive.org/web/20221003040456/https://indianexpress.com/article/sports/cricket/trevor-bayliss-replaces-anil-kumble-punjab-kings-head-coach-8154829/ |archive-date=3 October 2022 |access-date=2 May 2023 |work=indianexpress|date=16 September 2022 }}</ref>
+
+In November 2022, [[Shikhar Dhawan]] replaced [[Mayank Agarwal]] as the captain of Punjab Kings.<ref>{{cite web |title=Dhawan replaces Mayank as Punjab Kings captain |url=http://www.cricbuzz.com/cricket-news/124379/dhawan-replaces-mayank-as-punjab-kings-captain |url-status=live |archive-url=https://web.archive.org/web/20221112155200/https://www.cricbuzz.com/cricket-news/124379/dhawan-replaces-mayank-as-punjab-kings-captain |archive-date=12 November 2022 |access-date=11 November 2022 |work=Cricbuzz|date=2 November 2022 }}</ref>
+
+The IPL auction took place on 23 December 2022 in [[Kochi]].<ref name="DNA1312">[https://www.dnaindia.com/cricket/report-ipl-2023-auction-list-released-273-indian-132-overseas-players-check-full-list-here-3010451 IPL 2023: Auction list RELEASED, 273 Indian, 132 overseas players; check full list here.] {{Webarchive|url=https://web.archive.org/web/20221223012910/https://www.dnaindia.com/cricket/report-ipl-2023-auction-list-released-273-indian-132-overseas-players-check-full-list-here-3010451|date=23 December 2022}} DNA India. 13 December 2022.</ref> The most expensive player was [[Sam Curran]], bought by [[Punjab Kings]] for {{INRConvert|18.50|c|lk=on}}, the most paid for a player in the history of the league.<ref>{{cite web |title=Punjab Kings sign Sam Curran for an IPL record INR 18.50 crores |url=http://www.cricbuzz.com/cricket-news/124937/ipl-2023-auction-sam-curran-ben-stokes-cameron-green |url-status=live |archive-url=https://web.archive.org/web/20221223102129/https://www.cricbuzz.com/cricket-news/124937/ipl-2023-auction-sam-curran-ben-stokes-cameron-green |archive-date=23 December 2022 |access-date=23 December 2022 |website=Cricbuzz |language=en}}</ref>
+
+==Venues==
+The league stage was played at 12 stadiums in India.
+
+In the playoffs phase, the first qualifier and eliminator matches were played at [[M.A. Chidambaram Stadium|Chennai]] and the second qualifier and the final were played at [[Narendra Modi Stadium|Ahmedabad]].
+
+{{location map+ |India |caption=Cities where teams that participated in the 16th season are based.|places=
+{{Location map~ |India |lat=18.97 |long=72.82 |label=[[Mumbai]] |position=top}}
+{{Location map~ |India |lat=22.56 |long=88.36 |label=[[Kolkata]] |position=bottom}}
+{{Location map~ |India |lat=30.78 |long=76.69 |label=[[Mohali]] |position=right}}
+{{Location map~ |India |lat=12.96 |long=77.56 |label=[[Bengaluru]] |position=left}}
+{{location map~ |India |lat=26.92 |long=75.82 |label=[[Jaipur]] |position=left}}
+{{Location map~ |India |lat=28.61 |long=77.23 |label=[[Delhi]] |position=left}}
+{{Location map~ |India |lat=17.40 |long=78.45 |label=[[Hyderabad]] |position=top}}
+{{location map~ |India |lat=13.08 |long=80.27 |label=[[Chennai]] |position=right}}
+{{location map~ |India |lat=23.05 |long=72.35 |label=[[Ahmedabad]] |position=right}}
+{{location map~ |India |lat=32.22 |long=76.31 |label=[[Dharmashala]] |position=top}}
+{{location map~ |India |lat=26.84 |long=80.94 |label=[[Lucknow]] |position=bottom}}
+{{location map~ |India |lat=26.11 |long=91.70 |label=[[Guwahati]] |position=top}}
+|default_width=300|float=right}}
+{| class="wikitable sortable"
+!Team
+!Stadium
+!Location
+!Capacity
+|-
+|[[Chennai Super Kings]]
+|[[M. A. Chidambaram Stadium]]
+|[[Chennai]]
+|50,000
+|-
+|[[Delhi Capitals]]
+|[[Arun Jaitley Stadium]]
+|[[Delhi]]
+|35,200
+|-
+|[[Gujarat Titans]] 
+|[[Narendra Modi Stadium]]
+|[[Ahmedabad]]
+|132,000
+|-
+|[[Kolkata Knight Riders]]
+|[[Eden Gardens]]
+|[[Kolkata]]
+|68,000
+|-
+|[[Lucknow Super Giants]]
+|[[BRSABV Ekana Cricket Stadium]]
+|[[Lucknow]]
+|50,000
+|-
+|[[Mumbai Indians]]
+|[[Wankhede Stadium]]
+|[[Mumbai]]
+|33,000
+|-
+| rowspan="2" |[[Punjab Kings]]
+|[[Himachal Pradesh Cricket Association Stadium]]
+|[[Dharamshala]]
+|23,000
+|-
+|[[Inderjit Singh Bindra Stadium]]
+|[[Mohali]]
+|27,000
+|-
+| rowspan="2" |[[Rajasthan Royals]]
+|[[Assam Cricket Association Stadium, Guwahati|Assam Cricket Association Stadium]]
+|[[Guwahati]]
+|46,000
+|-
+|[[Sawai Mansingh Stadium]]
+|[[Jaipur]]
+|30,000
+|-
+|[[Royal Challengers Bangalore]]
+|[[M. Chinnaswamy Stadium]]
+|[[Bengaluru]]
+|40,000
+|-
+|[[Sunrisers Hyderabad]]
+|[[Rajiv Gandhi International Cricket Stadium]]
+|[[Hyderabad]]
+|55,000
+|}
+
+==Points table==
+ 
+{{2023 Indian Premier League Points table}}
+
+== Match summary ==
+{{Indian Premier League results summary|mode = progression/summary|dls=Y
+<!--| Home team | Away team | result | margin | DLS method? -->
+
+| GT | CSK | H | 5W |
+| PBKS | KKR | H | 7R | Y
+|  LSG | DC | H | 50R |
+| SRH | RR | A | 72R  |
+| RCB | MI | H | 8W |
+|  CSK | LSG | H | 12R |
+|  DC | GT | A | 6W |
+|  RR  | PBKS | A | 5R |
+| KKR | RCB | H | 81R  |
+| LSG | SRH | H | 5W |
+
+| RR | DC | H | 57R  |
+| MI | CSK | A | 7W |
+| GT | KKR | A | 3W |
+| SRH | PBKS | H | 8W |
+| RCB | LSG | A | 1W |
+| DC | MI | A | 6W |
+| CSK | RR | A | 3R |
+| PBKS | GT | A | 6W |
+| KKR | SRH | A | 23R |
+| RCB | DC | H | 23R |
+
+| LSG | PBKS | A | 2W |
+| MI | KKR | H | 5W |
+| GT | RR | A | 3W |
+| RCB | CSK | A | 8R |
+| SRH | MI | A | 14R |
+| RR | LSG | A | 10R |
+| PBKS | RCB | A | 24R |
+| DC | KKR | H | 4W |
+| CSK | SRH | H | 7W |
+| LSG | GT | A | 7R |
+
+| MI | PBKS | A | 13R |
+| RCB | RR | H | 7R |
+| KKR | CSK | A | 49R |
+| SRH | DC | A | 7R |
+| GT | MI | H | 55R |
+| RCB | KKR | A | 21R |
+| RR | CSK | H | 32R |
+| PBKS | LSG | A | 56R |
+| KKR | GT | A | 7W |
+| DC | SRH | A | 9R |
+
+| CSK | PBKS | A | 4W |
+| MI | RR | H | 6W |
+| LSG | RCB | A | 18R | 
+| GT | DC | A | 5R |
+| LSG | CSK | N | N |
+| PBKS | MI | A | 6W |
+| SRH | KKR | A | 5R |
+| RR | GT | A | 9W |
+| CSK | MI | H | 6W |
+| DC | RCB | H | 7W |
+
+| GT | LSG | H | 56R |
+| RR | SRH | A | 4W |
+| KKR | PBKS | H | 5W | 
+| MI | RCB | H | 6W |
+| CSK | DC | H | 27R |
+| KKR | RR | A | 9W |
+| MI | GT | H | 27R |
+| SRH | LSG | A | 7W |
+| DC | PBKS | A | 31R |
+| RR | RCB | A | 112R |
+
+| CSK | KKR | A | 6W |
+| GT | SRH | H | 34R |
+| LSG | MI | H | 5R | 
+| PBKS | DC | A | 15R |
+| SRH | RCB | A | 8W |
+| PBKS | RR | A | 4W |
+| DC | CSK | A | 77R |
+| KKR | LSG | A | 1R |
+| MI | SRH | H | 8W |
+| RCB | GT | A | 6W |
+
+| P1W = CSK | P1L = GT
+| P2W = MI  | P2L = LSG
+| P3W = GT  | P3L = MI
+| P4W = CSK | P4L = GT
+}}
+
+== League stage ==
+{{hatnote|All times are in [[Indian Standard Time]] ([[UTC+05:30]]).}}
+The schedule for the group stages was published on 17 February 2023.<ref>{{cite web |access-date=17 February 2023 |title=BCCI Announces Schedule For TATA IPL 2023 |url=https://www.iplt20.com/news/3860/bcci-announces-schedule-for-tata-ipl-2023 |website=IPLT20.com. |publisher=Indian Premier League. |archive-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217132838/https://www.iplt20.com/news/3860/bcci-announces-schedule-for-tata-ipl-2023 |url-status=live }}</ref>
+<!-- Please do not edit when the match is going on -->
+{{Single-innings cricket match
+| date = 31 March 2023
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 178/7 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 92 (50)
+| wickets1 = [[Rashid Khan]] 2/26 (4 overs)
+| score2 = 182/5 (19.2 overs)
+| runs2 = [[Shubman Gill]] 63 (36)
+| wickets2 = [[Rajvardhan Hangargekar]] 3/36 (4 overs)
+| result = Gujarat Titans won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359475.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes = [[Tushar Deshpande]] for [[Ambati Rayudu]] (Chennai Super Kings) and [[Sai Sudharsan]] for [[Kane Williamson]] (Gujarat Titans) were the first Impact Players to be used in the IPL.
+| round = {{anchor|match1}}'''Match 1'''
+}}
+----
+{{Single-innings cricket match
+| date = 1 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 191/5 (20 overs)
+| runs1 = [[Bhanuka Rajapaksa]] 50 (32)
+| wickets1 = [[Tim Southee]] 2/54 (4 overs)
+| score2 = 146/7 (16 overs)
+| runs2 = [[Andre Russell]] 35 (19)
+| wickets2 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 3/19 (3 overs)
+| result = Punjab Kings won by 7 runs ([[Duckworth-Lewis-Stern method|DLS method]])
+| report = [https://www.espncricinfo.com/ci/engine/match/1359476.html Scorecard]
+| venue = [[Inderjit Singh Bindra Stadium]], [[Mohali]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Bruce Oxenford]] (Aus)
+| motm = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] (Punjab Kings)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| rain =
+| notes = The start of the second innings was delayed for more than 30 minutes due to malfunctioning floodlights.<ref>{{Cite web |title=Floodlights failure at Mohali's PCA Stadium delays Punjab Kings vs Kolkata Knight Riders game |url=https://indianexpress.com/article/sports/ipl/ipl-2023-floodlights-failure-at-mohalis-pca-stadium-delays-punjab-kings-vs-kolkata-knight-riders-game-8532498/ |url-status=live |archive-url=https://web.archive.org/web/20230402071222/https://indianexpress.com/article/sports/ipl/ipl-2023-floodlights-failure-at-mohalis-pca-stadium-delays-punjab-kings-vs-kolkata-knight-riders-game-8532498/ |archive-date=2 April 2023 |access-date=2 April 2023 |website=IE|date=April 2023 }}</ref>
+* Kolkata Knight Riders innings curtailed at 16 overs due to rain; DLS par score was 153.
+| round = {{anchor|match2}} '''Match 2'''
+}}
+----
+{{Single-innings cricket match
+| date = 1 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Delhi Capitals]]
+| score1 = 193/6 (20 overs)
+| runs1 = [[Kyle Mayers]] 73 (38)
+| wickets1 = [[Khaleel Ahmed]] 2/30 (4 overs)
+| score2 = 143/9 (20 overs)
+| runs2 =  [[David Warner (cricketer)|David Warner]] 56 (48)
+| wickets2 = [[Mark Wood (cricketer)|Mark Wood]] 5/14 (4 overs)
+| result = Lucknow Super Giants won by 50 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359477.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Mark Wood (cricketer)|Mark Wood]] (Lucknow Super Giants)
+| toss = Delhi Capitals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match3}} '''Match 3'''
+}}
+----
+{{Single-innings cricket match
+| date = 2 April 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 203/5 (20 overs)
+| runs1 = [[Sanju Samson]] 55 (32)
+| wickets1 = [[T. Natarajan]] 2/23 (3 overs)
+| score2 = 131/8 (20 overs)
+| runs2 = [[Abdul Samad (Indian cricketer)|Abdul Samad]] 32[[not out|*]] (32)
+| wickets2 = [[Yuzvendra Chahal]] 4/17 (4 overs)
+| result = Rajasthan Royals won by 72 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359478.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Jos Buttler]] (Rajasthan Royals)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| rain =
+| notes = 
+| round = {{anchor|match4}} '''Match 4'''
+}}
+----
+{{Single-innings cricket match
+| date = 2 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Royal Challengers Bangalore]] (H)
+| score1 = 171/7 (20 overs)
+| runs1 = [[Tilak Varma]] 84[[not out|*]] (46)
+| wickets1 = [[Karn Sharma]] 2/32 (4 overs)
+| score2 = 172/2 (16.2 overs)
+| runs2 = [[Virat Kohli]] 82[[not out|*]] (49)
+| wickets2 = [[Arshad Khan (Indian cricketer)|Arshad Khan]] 1/28 (2.2 overs)
+| result = Royal Challengers Bangalore won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359479.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Faf du Plessis]] (Royal Challengers Bangalore)
+| toss = Royal Challengers Bangalore won the toss and elected to field.
+| rain =
+| notes = [[Arshad Khan (Indian cricketer)|Arshad Khan]] and [[Nehal Wadhera]] (Mumbai Indians) both made their T20 debuts.
+| round = {{anchor|match5}} '''Match 5'''
+}}
+----
+{{Single-innings cricket match
+| date = 3 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 217/7 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 57 (31)
+| wickets1 = [[Ravi Bishnoi]] 3/28 (4 overs)
+| score2 = 205/7 (20 overs)
+| runs2 = [[Kyle Mayers]] 53 (22)
+| wickets2 = [[Moeen Ali]] 4/26 (4 overs)
+| result = Chennai Super Kings won by 12 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359480.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Bruce Oxenford]] (Aus) and Akshay Totre (Ind)
+| motm = [[Moeen Ali]] (Chennai Super Kings)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match6}} '''Match 6'''
+}}
+----
+{{Single-innings cricket match
+| date = 4 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Gujarat Titans]]
+| score1 = 162/8 (20 overs)
+| runs1 = [[David Warner (cricketer)|David Warner]] 37 (32)
+| wickets1 = [[Rashid Khan]] 3/31 (4 overs)
+| score2 = 163/4 (18.1 overs)
+| runs2 = [[Sai Sudharsan]] 62[[not out|*]] (48)
+| wickets2 = [[Anrich Nortje]] 2/39 (4 overs)
+| result = Gujarat Titans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359481.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Sadashiv Iyer]] (Ind) and [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind)
+| motm = [[Sai Sudharsan]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match7}} '''Match 7'''
+}}
+----
+{{Single-innings cricket match
+| date = 5 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 197/4 (20 overs)
+| runs1 = [[Shikhar Dhawan]] 86[[not out|*]] (56)
+| wickets1 = [[Jason Holder]] 2/29 (4 overs)
+| score2 = 192/7 (20 overs)
+| runs2 = [[Sanju Samson]] 42 (25)
+| wickets2 = [[Nathan Ellis]] 4/30 (4 overs)
+| result = Punjab Kings won by 5 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359482.html Scorecard]
+| venue = [[Assam Cricket Association Stadium, Guwahati]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Nathan Ellis]] (Punjab Kings)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match8}} '''Match 8'''
+}}
+----
+{{Single-innings cricket match
+| date = 6 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]] (H)
+| team2 = [[Royal Challengers Bangalore]]
+| score1 = 204/7 (20 overs)
+| runs1 = [[Shardul Thakur]] 68 (29) 
+| wickets1 = [[David Willey (cricketer)|David Willey]] 2/16 (4 overs) 
+| score2 = 123 (17.4 overs)
+| runs2 = [[Faf du Plessis]] 23 (12)
+| wickets2 = [[Varun Chakaravarthy]] 4/15 (3.4 overs)
+| result = Kolkata Knight Riders won by 81 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359483.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Virender Sharma]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Shardul Thakur]] (Kolkata Knight Riders)
+| toss = Royal Challengers Bangalore won the toss and elected to field.
+| rain =
+| notes = [[Suyash Sharma]] (Kolkata Knight Riders) made his T20 debut.
+| round = {{anchor|match9}} '''Match 9'''
+}}
+----
+{{Single-innings cricket match
+| date = 7 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 121/8 (20 overs)
+| runs1 = [[Rahul Tripathi]] 34 (41)
+| wickets1 = [[Krunal Pandya]] 3/18 (4 overs)
+| score2 = 127/5 (16 overs)
+| runs2 = [[KL Rahul]] 35 (31)
+| wickets2 = [[Adil Rashid]] 2/23 (3 overs)
+| result = Lucknow Super Giants won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359484.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Krunal Pandya]] (Lucknow Super Giants)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match10}} '''Match 10'''
+}}
+----
+{{Single-innings cricket match
+| date = 8 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Delhi Capitals]]
+| score1 = 199/4 (20 overs)
+| runs1 = [[Jos Buttler]] 79 (51)
+| wickets1 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 2/36 (4 overs)
+| score2 = 142/9 (20 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 65 (55)
+| wickets2 = [[Yuzvendra Chahal]] 3/27 (4 overs)
+| result = Rajasthan Royals won by 57 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359485.html Scorecard]
+| venue = [[Assam Cricket Association Stadium, Guwahati]]
+| umpires = Saidharshan Kumar (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Yashasvi Jaiswal]] (Rajasthan Royals)
+| toss = Delhi Capitals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match11}} '''Match 11'''
+}}
+----
+{{Single-innings cricket match
+| date = 8 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Mumbai Indians]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 157/8 (20 overs)
+| runs1 = [[Ishan Kishan]] 32 (21)
+| wickets1 = [[Ravindra Jadeja]] 3/20 (4 overs)
+| score2 = 159/3 (18.1 overs)
+| runs2 = [[Ajinkya Rahane]] 61 (27)
+| wickets2 = [[Kumar Kartikeya]] 1/24 (4 overs)
+| result = Chennai Super Kings won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359486.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Ravindra Jadeja]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain =
+| notes = 
+| round = {{anchor|match12}} '''Match 12'''
+}}
+----
+{{Single-innings cricket match
+| date = 9 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 204/4 (20 overs)
+| runs1 = [[Vijay Shankar]] 63[[not out|*]] (24)
+| wickets1 = [[Sunil Narine]] 3/33 (4 overs)
+| score2 = 207/7 (20 overs)
+| runs2 = [[Venkatesh Iyer]] 83 (40)
+| wickets2 = [[Rashid Khan]] 3/37 (4 overs)
+| result = Kolkata Knight Riders won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359487.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Rinku Singh (cricketer)|Rinku Singh]] (Kolkata Knight Riders)
+| toss = Gujarat Titans won the toss and elected to bat.
+| rain =
+| notes = [[Rashid Khan]] (Gujarat Titans) took a [[Hat-trick (cricket)|hat-trick]].<ref>{{cite web |access-date=10 April 2023 |title=IPL 2023: Rashid hat-trick against KKR marks spinner's return to wicket-taking ways |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/rashid-khan-hattrick-gt-vs-kkr-ipl-2023-stand-in-captain-performance-stats-analysis/article66720710.ece |website=SportStar |date=10 April 2023 |archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410135038/https://sportstar.thehindu.com/cricket/ipl/ipl-news/rashid-khan-hattrick-gt-vs-kkr-ipl-2023-stand-in-captain-performance-stats-analysis/article66720710.ece |url-status=live }}</ref>
+| round = {{anchor|match13}} '''Match 13'''
+}}
+----
+{{Single-innings cricket match
+| date = 9 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 143/9 (20 overs)
+| runs1 = [[Shikhar Dhawan]] 99[[not out|*]] (66)
+| wickets1 = [[Mayank Markande]] 4/15 (4 overs)
+| score2 = 145/2 (17.1 overs) 
+| runs2 = [[Rahul Tripathi]] 74[[not out|*]] (48) 
+| wickets2 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 1/20 (3 overs) 
+| result = Sunrisers Hyderabad won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359488.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Bruce Oxenford]] (Aus)
+| motm = [[Shikhar Dhawan]] (Punjab Kings)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| rain =
+| notes = [[Mohit Rathee]] (Punjab Kings) made his T20 debut.
+| round = {{anchor|match14}} '''Match 14'''
+}}
+----
+{{Single-innings cricket match
+| date = 10 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Royal Challengers Bangalore]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 212/2 (20 overs)
+| runs1 = [[Faf du Plessis]] 79[[not out|*]] (46)
+| wickets1 = [[Amit Mishra]] 1/18 (2 overs)
+| score2 = 213/9 (20 overs)
+| runs2 = [[Marcus Stoinis]] 65 (30)
+| wickets2 = [[Mohammed Siraj]] 3/22 (4 overs)
+| result = Lucknow Super Giants won by 1 wicket
+| report = [https://www.espncricinfo.com/ci/engine/match/1359489.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind)
+| motm = [[Nicholas Pooran]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match15}} '''Match 15'''
+}}
+----
+{{Single-innings cricket match
+| date = 11 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Mumbai Indians]]
+| score1 = 172 (19.4 overs)
+| runs1 = [[Axar Patel]] 54 (25)
+| wickets1 = [[Piyush Chawla]] 3/22 (4 overs)
+| score2 = 173/4 (20 overs)
+| runs2 = [[Rohit Sharma]] 65 (45)
+| wickets2 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 2/30 (2 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359490.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] (Eng) and [[Rohan Pandit]] (Ind)
+| motm = [[Rohit Sharma]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes = 
+| round = {{anchor|match16}} '''Match 16'''
+}}
+----
+{{Single-innings cricket match
+| date = 12 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 175/8 (20 overs)
+| runs1 = [[Jos Buttler]] 52 (36)
+| wickets1 = [[Ravindra Jadeja]] 2/21 (4 overs)
+| score2 = 172/6 (20 overs)
+| runs2 = [[Devon Conway]] 50 (38)
+| wickets2 = [[Ravichandran Ashwin]] 2/25 (4 overs)
+| result = Rajasthan Royals won by 3 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359491.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Virender Sharma]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Ravichandran Ashwin]] (Rajasthan Royals)
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain =
+| notes = 
+| round = {{anchor|match17}} '''Match 17'''
+}}
+----
+{{Single-innings cricket match
+| date = 13 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Gujarat Titans]]
+| score1 = 153/8 (20 overs)
+| runs1 = [[Matthew Short]] 36 (24)
+| wickets1 = [[Mohit Sharma]] 2/18 (4 overs)
+| score2 = 154/4 (19.5 overs)
+| runs2 = [[Shubman Gill]] 67 (49)
+| wickets2 = [[Harpreet Brar]] 1/20 (4 overs)
+| result = Gujarat Titans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359492.html Scorecard]
+| venue = [[Inderjit Singh Bindra Stadium]], [[Mohali]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and Akshay Totre (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes = [[Kagiso Rabada]] (Punjab Kings) became the fastest bowler, in terms of matches, to take 100 wickets in the [[Indian Premier League]].<ref>{{cite web | url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/rabada-100-wickets-ipl-fastest-record-milestone-pbks-vs-gt-ipl-2023/article66733532.ece | title=Rabada becomes fastest to pick 100 IPL wickets (64) | work=The Hindu | date=13 April 2023 | access-date=13 April 2023 | archive-date=13 April 2023 | archive-url=https://web.archive.org/web/20230413165428/https://sportstar.thehindu.com/cricket/ipl/ipl-news/rabada-100-wickets-ipl-fastest-record-milestone-pbks-vs-gt-ipl-2023/article66733532.ece | url-status=live }}</ref>
+| round = {{anchor|match18}} '''Match 18'''
+}}
+----
+{{Single-innings cricket match
+| date = 14 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 228/4 (20 overs)
+| runs1 = [[Harry Brook]] 100[[not out|*]] (55)
+| wickets1 = [[Andre Russell]] 3/22 (2.1 overs)
+| score2 = 205/7 (20 overs)
+| runs2 = [[Nitish Rana]] 75 (41)
+| wickets2 = [[Mayank Markande]] 2/27 (4 overs)
+| result = Sunrisers Hyderabad won by 23 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359493.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Sadashiv Iyer]] (Ind)
+| motm = [[Harry Brook]] (Sunrisers Hyderabad)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| rain =
+| notes = [[Harry Brook]] (Sunrisers Hyderabad) scored his maiden IPL [[Century (cricket)|century]].<ref>{{cite web | url=https://www.thenationalnews.com/sport/cricket/2023/04/14/harry-brook-smashes-maiden-ipl-century-against-kolkata-at-eden-gardens/ | title=Harry Brook smashes maiden IPL century against Kolkata at Eden Gardens | work=The National News | date=14 April 2023 | access-date=15 April 2023 | archive-date=15 April 2023 | archive-url=https://web.archive.org/web/20230415053556/https://www.thenationalnews.com/sport/cricket/2023/04/14/harry-brook-smashes-maiden-ipl-century-against-kolkata-at-eden-gardens/ | url-status=live }}</ref>
+| round = {{anchor|match19}} '''Match 19'''
+}}
+----
+{{Single-innings cricket match
+| date = 15 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Royal Challengers Bangalore]]
+| team2 = [[Delhi Capitals]]
+| score1 = 174/6 (20 overs)
+| runs1 = [[Virat Kohli]] 50 (34)
+| wickets1 = [[Mitchell Marsh]] 2/18 (2 overs)
+| score2 = 151/9 (20 overs)
+| runs2 = [[Manish Pandey]] 50 (38)
+| wickets2 = [[Vijaykumar Vyshak]] 3/20 (4 overs)
+| result = Royal Challengers Bangalore won by 23 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359494.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bangalore)
+| toss = Delhi Capitals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match20}} '''Match 20'''
+}}
+----
+{{Single-innings cricket match
+| date = 15 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Punjab Kings]]
+| score1 = 159/8 (20 overs)
+| runs1 = [[KL Rahul]] 74 (56)
+| wickets1 = [[Sam Curran]] 3/31 (4 overs)
+| score2 = 161/8 (19.3 overs)
+| runs2 = [[Sikandar Raza]] 57 (41)
+| wickets2 = [[Ravi Bishnoi]] 2/18 (2.3 overs)
+| result = Punjab Kings won by 2 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359495.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Sikandar Raza]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match21}} '''Match 21'''
+}}
+----
+{{Single-innings cricket match
+| date = 16 April 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 185/6 (20 overs)
+| runs1 = [[Venkatesh Iyer]] 104 (51)
+| wickets1 = [[Hrithik Shokeen]] 2/34 (4 overs)
+| score2 = 186/5 (17.4 overs)
+| runs2 = [[Ishan Kishan]] 58 (25)
+| wickets2 = [[Suyash Sharma]] 2/27 (4 overs)
+| result = Mumbai Indians won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359496.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Bruce Oxenford]] (Aus)
+| motm = [[Venkatesh Iyer]] (Kolkata Knight Riders)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes = [[Venkatesh Iyer]] (Kolkata Knight Riders) scored his maiden IPL [[century (cricket)|century]].<ref>{{cite web |title=Venkatesh Iyer smashes his maiden IPL century, finishes 15 years of long wait for KKR |url=https://www.indiatvnews.com/sports/cricket/venkatesh-iyer-smashes-his-maiden-ipl-century-in-kolkata-knight-riders-match-against-mumbai-indians-mi-vs-kkr-2023-04-16-864051 |work=India Tv |date=16 April 2023 |access-date=16 April 2023 |archive-date=16 April 2023 |archive-url=https://web.archive.org/web/20230416114843/https://www.indiatvnews.com/sports/cricket/venkatesh-iyer-smashes-his-maiden-ipl-century-in-kolkata-knight-riders-match-against-mumbai-indians-mi-vs-kkr-2023-04-16-864051 |url-status=live }}</ref>
+| round = {{anchor|match22}} '''Match 22'''
+}}
+----
+{{Single-innings cricket match
+| date = 16 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 177/7 (20 overs)
+| runs1 = [[David Miller (South African cricketer)|David Miller]] 46 (30)
+| wickets1 = [[Sandeep Sharma]] 2/25 (4 overs)
+| score2 = 179/7 (19.2 overs)
+| runs2 = [[Sanju Samson]] 60 (32)
+| wickets2 = [[Mohammad Shami]] 3/25 (4 overs)
+| result = Rajasthan Royals won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359497.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Chris Gaffaney]] (NZ)
+| motm = [[Shimron Hetmyer]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match23}} '''Match 23'''
+}}
+----
+{{Single-innings cricket match
+| date = 17 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Royal Challengers Bangalore]] (H)
+| score1 = 226/6 (20 overs)
+| runs1 = [[Devon Conway]] 83 (45)
+| wickets1 = [[Wanindu Hasaranga]] 1/21 (2 overs)
+| score2 = 218/8 (20 overs)
+| runs2 = [[Glenn Maxwell]] 76 (36)
+| wickets2 = [[Tushar Deshpande]] 3/45 (4 overs)
+| result = Chennai Super Kings won by 8 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359498.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Devon Conway]] (Chennai Super Kings)
+| toss = Royal Challengers Bangalore won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match24}} '''Match 24'''
+}}
+----
+{{Single-innings cricket match
+| date = 18 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 192/5 (20 overs)
+| runs1 = [[Cameron Green]] 64[[not out|*]] (40)
+| wickets1 = [[Marco Jansen]] 2/43 (4 overs)
+| score2 = 178 (19.5 overs) 
+| runs2 = [[Mayank Agarwal]] 48 (41) 
+| wickets2 = [[Riley Meredith]] 2/33 (4 overs) 
+| result = Mumbai Indians won by 14 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359499.html Scorecard]
+| venue = [[Rajiv Gandhi International Stadium]], [[Hyderabad]]
+| umpires = [[Nitin Menon]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Cameron Green]] (Mumbai Indians)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match25}} '''Match 25'''
+}}
+----
+{{Single-innings cricket match
+| date = 19 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 154/7 (20 overs)
+| runs1 = [[Kyle Mayers]] 51 (42)
+| wickets1 = [[Ravichandran Ashwin]] 2/23 (4 overs)
+| score2 = 144/6 (20 overs)
+| runs2 = [[Yashasvi Jaiswal]] 44 (35)
+| wickets2 = [[Avesh Khan]] 3/25 (4 overs)
+| result = Lucknow Super Giants won by 10 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359500.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Marcus Stoinis]] (Lucknow Super Giants)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match26}} '''Match 26'''
+}}
+----
+{{Single-innings cricket match
+| date = 20 April 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Royal Challengers Bangalore]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 174/4 (20 overs)
+| runs1 = [[Faf du Plessis]] 84 (56)
+| wickets1 = [[Harpreet Brar]] 2/31 (3 overs)
+| score2 = 150 (18.2 overs)
+| runs2 = [[Prabhsimran Singh]] 46 (30)
+| wickets2 = [[Mohammed Siraj]] 4/21 (4 overs)
+| result = Royal Challengers Bangalore won by 24 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359501.html Scorecard]
+| venue = [[Inderjit Singh Bindra Stadium]], [[Mohali]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Sadashiv Iyer]] (Ind)
+| motm = [[Faf du Plessis]] (Royal Challengers Bangalore)
+| toss = Punjab Kings won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match27}} '''Match 27'''
+}}
+----
+{{Single-innings cricket match
+| date = 20 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 127 (20 overs)
+| runs1 = [[Jason Roy]] 43 (39)
+| wickets1 = [[Axar Patel]] 2/13 (3 overs)
+| score2 = 128/6 (19.2 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 57 (41)
+| wickets2 = [[Varun Chakravarthy]] 2/16 (4 overs)
+| result = Delhi Capitals won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359502.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] (Eng) and [[Rohan Pandit]] (Ind)
+| motm = [[Ishant Sharma]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match28}} '''Match 28'''
+}}
+----
+{{Single-innings cricket match
+| date = 21 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 134/7 (20 overs)
+| runs1 = [[Abhishek Sharma (cricketer, born 2000)|Abhishek Sharma]] 34 (26)
+| wickets1 = [[Ravindra Jadeja]] 3/22 (4 overs)
+| score2 = 138/3 (18.4 overs) 
+| runs2 = [[Devon Conway]] 77[[not out|*]] (57) 
+| wickets2 = [[Mayank Markande]] 2/23 (4 overs) 
+| result = Chennai Super Kings won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359503.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Ravindra Jadeja]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match29}} '''Match 29'''
+}}
+----
+{{Single-innings cricket match
+| date = 22 April 2023
+| time = 15:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 135/6 (20 overs)
+| runs1 = [[Hardik Pandya]] 66 (50)
+| wickets1 = [[Krunal Pandya]] 2/16 (4 overs)
+| score2 = 128/7 (20 overs)
+| runs2 = [[KL Rahul]] 68 (61)
+| wickets2 = [[Mohit Sharma]] 2/17 (3 overs)
+| result = Gujarat Titans won by 7 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359504.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = Akshay Totre (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Mohit Sharma]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match30}} '''Match 30'''
+}}
+----
+{{Single-innings cricket match
+| date = 22 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 214/8 (20 overs)
+| runs1 = [[Sam Curran]] 55 (29)
+| wickets1 = [[Piyush Chawla]] 2/15 (3 overs)
+| score2 = 201/6 (20 overs)
+| runs2 = [[Cameron Green]] 67 (43)
+| wickets2 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 4/29 (4 overs)
+| result = Punjab Kings won by 13 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359505.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Sadashiv Iyer]] (Ind)
+| motm = [[Sam Curran]] (Punjab Kings)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match31}} '''Match 31'''
+}}
+----
+{{Single-innings cricket match
+| date = 23 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Royal Challengers Bangalore]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 189/9 (20 overs)
+| runs1 = [[Glenn Maxwell]] 77 (44)
+| wickets1 = [[Trent Boult]] 2/41 (4 overs)
+| score2 = 182/6 (20 overs)
+| runs2 = [[Devdutt Padikkal]] 52 (34)
+| wickets2 = [[Harshal Patel]] 3/32 (4 overs)
+| result = Royal Challengers Bangalore won by 7 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359506.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bangalore]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] (Eng) and Saidharshan Kumar (Ind)
+| motm = [[Glenn Maxwell]] (Royal Challengers Bangalore)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match32}} '''Match 32'''
+}}
+----
+{{Single-innings cricket match
+| date = 23 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 235/4 (20 overs)
+| runs1 = [[Ajinkya Rahane]] 71[[not out|*]] (29)
+| wickets1 = [[Kulwant Khejroliya]] 2/44 (3 overs)
+| score2 = 186/8 (20 overs)
+| runs2 = [[Jason Roy]] 61 (26)
+| wickets2 = [[Maheesh Theekshana]] 2/32 (4 overs)
+| result = Chennai Super Kings won by 49 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359507.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Ajinkya Rahane]] (Chennai Super Kings)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match33}} '''Match 33'''
+}}
+----
+{{Single-innings cricket match
+| date = 24 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 144/9 (20 overs)
+| runs1 = [[Manish Pandey]] 34 (27)
+| wickets1 = [[Washington Sundar]] 3/28 (4 overs)
+| score2 = 137/6 (20 overs)
+| runs2 = [[Mayank Agarwal]] 49 (39)
+| wickets2 = [[Axar Patel]] 2/21 (4 overs)
+| result = Delhi Capitals won by 7 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359508.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Axar Patel]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match34}} '''Match 34'''
+}}
+----
+{{Single-innings cricket match
+| date = 25 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Mumbai Indians]]
+| score1 = 207/6 (20 overs)
+| runs1 = [[Shubman Gill]] 56 (34)
+| wickets1 = [[Piyush Chawla]] 2/34 (4 overs)
+| score2 = 152/9 (20 overs)
+| runs2 = [[Nehal Wadhera]] 40 (21)
+| wickets2 = [[Noor Ahmad]] 3/37 (4 overs)
+| result = Gujarat Titans won by 55 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359509.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind)
+| motm = [[Abhinav Manohar]] (Gujarat Titans)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match35}} '''Match 35'''
+}}
+----
+{{Single-innings cricket match
+| date = 26 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Royal Challengers Bangalore]] (H)
+| score1 = 200/5 (20 overs)
+| runs1 = [[Jason Roy]] 56 (29)
+| wickets1 = [[Wanindu Hasaranga]] 2/24 (4 overs)
+| score2 = 179/8 (20 overs) 
+| runs2 = [[Virat Kohli]] 54 (37)
+| wickets2 = [[Varun Chakravarthy]] 3/27 (4 overs) 
+| result = Kolkata Knight Riders won by 21 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359510.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Royal Challengers Bangalore won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match36}} '''Match 36'''
+}}
+----
+{{Single-innings cricket match
+| date = 27 April 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 202/5 (20 overs)
+| runs1 = [[Yashasvi Jaiswal]] 77 (43)
+| wickets1 = [[Tushar Deshpande]] 2/42 (4 overs)
+| score2 = 170/6 (20 overs)
+| runs2 = [[Shivam Dube]] 52 (33)
+| wickets2 = [[Adam Zampa]] 3/22 (3 overs)
+| result = Rajasthan Royals won by 32 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359511.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Yeshwant Barde]] (Ind) and Akshay Totre (Ind)
+| motm = [[Yashasvi Jaiswal]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match37}} '''Match 37'''
+}}
+----
+{{Single-innings cricket match
+| date = 28 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 257/5 (20 overs)
+| runs1 = [[Marcus Stoinis]] 72 (40)
+| wickets1 = [[Kagiso Rabada]] 2/52 (4 overs)
+| score2 = 201 (19.5 overs)
+| runs2 = [[Atharva Taide]] 66 (36) 
+| wickets2 = [[Yash Thakur]] 4/37 (3.5 overs) 
+| result = Lucknow Super Giants won by 56 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359512.html Scorecard]
+| venue = [[Inderjit Singh Bindra Stadium]], [[Mohali]]
+| umpires = [[Nitin Menon]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Marcus Stoinis]] (Lucknow Super Giants)
+| toss = Punjab Kings won the toss and elected to field.
+| rain =
+| notes = [[Gurnoor Brar]] (Punjab Kings) made his T20 debut.
+| round = {{anchor|match38}} '''Match 38'''
+}}
+----
+{{Single-innings cricket match
+| date = 29 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Gujarat Titans]]
+| score1 = 179/7 (20 overs)
+| runs1 = [[Rahmanullah Gurbaz]] 81 (39)
+| wickets1 = [[Mohammed Shami]] 3/33 (4 overs)
+| score2 = 180/3 (17.5 overs)
+| runs2 = [[Vijay Shankar]] 51[[not out|*]] (24)
+| wickets2 = [[Sunil Narine]] 1/24 (3 overs)
+| result = Gujarat Titans won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359513.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Sadashiv Iyer]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Josh Little]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match39}} '''Match 39'''
+}}
+----
+{{Single-innings cricket match
+| date = 29 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 197/6 (20 overs)
+| runs1 = [[Abhishek Sharma (cricketer, born 2000)|Abhishek Sharma]] 67 (36)
+| wickets1 = [[Mitchell Marsh]] 4/27 (4 overs)
+| score2 = 188/6 (20 overs)
+| runs2 = [[Mitchell Marsh]] 63 (39)
+| wickets2 = [[Mayank Markande]] 2/20 (4 overs)
+| result = Sunrisers Hyderabad won by 9 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359514.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] (Eng) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Mitchell Marsh]] (Delhi Capitals)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match40}} '''Match 40'''
+}}
+----
+{{Single-innings cricket match
+| date = 30 April 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Punjab Kings]]
+| score1 = 200/4 (20 overs)
+| runs1 = [[Devon Conway]] 92[[not out|*]] (52)
+| wickets1 = [[Sikandar Raza]] 1/31 (3 overs)
+| score2 = 201/6 (20 overs)
+| runs2 = [[Prabhsimran Singh]] 42 (24)
+| wickets2 = [[Tushar Deshpande]] 3/49 (4 overs)
+| result = Punjab Kings won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359515.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Devon Conway]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match41}} '''Match 41'''
+}}
+----
+{{Single-innings cricket match
+| date = 30 April 2023
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 212/7 (20 overs)
+| runs1 = [[Yashasvi Jaiswal]] 124 (62)
+| wickets1 = [[Arshad Khan (Indian cricketer)|Arshad Khan]] 3/39 (3 overs)
+| score2 = 214/4 (19.3 overs)
+| runs2 = [[Suryakumar Yadav]] 55 (29)
+| wickets2 = [[Ravichandran Ashwin]] 2/27 (4 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359516.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Virender Sharma]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Yashasvi Jaiswal]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| rain =
+| notes = [[Yashasvi Jaiswal]] (Rajasthan Royals) scored his maiden IPL [[century (cricket)|century]].<ref>{{cite web |title=Yashasvi Jaiswal smashes maiden IPL hundred in MI vs RR match |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/yashasvi-jaiswal-hundred-ipl-2023-mi-vs-rr-mumbai-indians-rajasthan-royals-youngest-players-to-score-century/article66797667.ece |work=Sportstar |date=30 April 2023 |access-date=30 April 2023 |archive-date=30 April 2023 |archive-url=https://web.archive.org/web/20230430155816/https://sportstar.thehindu.com/cricket/ipl/ipl-news/yashasvi-jaiswal-hundred-ipl-2023-mi-vs-rr-mumbai-indians-rajasthan-royals-youngest-players-to-score-century/article66797667.ece/amp/ |url-status=live }}</ref>
+| round = {{anchor|match42}} '''Match 42'''
+}}
+----
+{{Single-innings cricket match
+| date = 1 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bangalore]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 126/9 (20 overs)
+| runs1 = [[Faf du Plessis]] 44 (40)
+| wickets1 = [[Naveen-ul-Haq]] 3/30 (4 overs)
+| score2 = 108 (19.5 overs)
+| runs2 = [[Krishnappa Gowtham]] 23 (13)
+| wickets2 = [[Josh Hazlewood]] 2/15 (3 overs)
+| result = Royal Challengers Bangalore won by 18 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359517.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Sadashiv Iyer]] (Ind)
+| motm = [[Faf du Plessis]] (Royal Challengers Bangalore)
+| toss = Royal Challengers Bangalore won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match43}} '''Match 43'''
+}}
+----
+{{Single-innings cricket match
+| date = 2 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 130/8 (20 overs)
+| runs1 = [[Aman Hakim Khan]] 51 (44)
+| wickets1 = [[Mohammed Shami]] 4/11 (4 overs)
+| score2 = 125/6 (20 overs)
+| runs2 = [[Hardik Pandya]] 59[[not out|*]] (53)
+| wickets2 = [[Ishant Sharma]] 2/23 (4 overs)
+| result = Delhi Capitals won by 5 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359518.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Mohammed Shami]] (Gujarat Titans)
+| toss = Delhi Capitals won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match44}} '''Match 44'''
+}}
+----
+{{Single-innings cricket match
+| date = 3 May 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 125/7 (19.2 overs)
+| runs1 = [[Ayush Badoni]] 59[[not out|*]] (33)
+| wickets1 = [[Moeen Ali]] 2/13 (4 overs)
+| score2 =
+| runs2 =
+| wickets2 =
+| result = No result
+| report = [https://www.espncricinfo.com/ci/engine/match/1359519.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm =
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain = No further play was possible due to rain.
+| notes = The match was shifted from 4 May to 3 May due to the Lucknow Municipal Corporation elections.<ref>{{cite news |title=Change in fixture – Match 46: LSG vs CSK |url=https://www.iplt20.com/news/3903/change-in-fixture-match-46-lsg-vs-csk |access-date=18 April 2023 |work=[[Indian Premier League|IPLT20]] |language=en |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418065913/https://www.iplt20.com/news/3903/change-in-fixture-match-46-lsg-vs-csk |url-status=live }}</ref>
+| round = {{anchor|match45}} '''Match 45'''
+}}
+----
+{{Single-innings cricket match
+| date = 3 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Mumbai Indians]]
+| score1 = 214/3 (20 overs)
+| runs1 = [[Liam Livingstone]] 82[[not out|*]] (42)
+| wickets1 = [[Piyush Chawla]] 2/29 (4 overs)
+| score2 = 216/4 (18.5 overs)
+| runs2 = [[Ishan Kishan]] 75 (41)
+| wickets2 = [[Nathan Ellis]] 2/34 (4 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359520.html Scorecard]
+| venue = [[Inderjit Singh Bindra Stadium]], [[Mohali]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Ishan Kishan]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match46}} '''Match 46'''
+}}
+----
+{{Single-innings cricket match
+| date = 4 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 171/9 (20 overs)
+| runs1 = [[Rinku Singh (cricketer)|Rinku Singh]] 46 (35)
+| wickets1 = [[Marco Jansen]] 2/24 (3 overs)
+| score2 = 166/8 (20 overs)
+| runs2 = [[Aiden Markram]] 41 (40)
+| wickets2 = [[Shardul Thakur]] 2/23 (3 overs)
+| result = Kolkata Knight Riders won by 5 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359521.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Michael Gough (cricketer)|Michael Gough]] (Eng)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match47}} '''Match 47'''
+}}
+----
+{{Single-innings cricket match
+| date = 5 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Gujarat Titans]]
+| score1 = 118 (17.5 overs)
+| runs1 = [[Sanju Samson]] 30 (20)
+| wickets1 = [[Rashid Khan]] 3/14 (4 overs)
+| score2 = 119/1 (13.5 overs) 
+| runs2 = [[Wriddhiman Saha]] 41[[not out|*]]  (34) 
+| wickets2 = [[Yuzvendra Chahal]] 1/22 (3.5 overs) 
+| result = Gujarat Titans won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359522.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match48}} '''Match 48'''
+}}
+----
+{{Single-innings cricket match
+| date = 6 May 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 139/8 (20 overs)
+| runs1 = [[Nehal Wadhera]] 64 (51)
+| wickets1 = [[Matheesha Pathirana]] 3/15 (4 overs)
+| score2 = 140/4 (17.4 overs)
+| runs2 = [[Devon Conway]] 44 (42)
+| wickets2 = [[Piyush Chawla]] 2/25 (4 overs)
+| result = Chennai Super Kings won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359523.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Bruce Oxenford]] (Aus) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Matheesha Pathirana]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain =
+| notes = [[Raghav Goyal]] (Mumbai Indians) made his T20 debut.
+| round = {{anchor|match49}} '''Match 49'''
+}}
+----
+{{Single-innings cricket match
+| date = 6 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bangalore]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 181/4 (20 overs)
+| runs1 = [[Virat Kohli]] 55 (46)
+| wickets1 = [[Mitchell Marsh]] 2/21 (3 overs)
+| score2 = 187/3 (16.4 overs)
+| runs2 = [[Phil Salt]] 87 (45)
+| wickets2 = [[Josh Hazlewood]] 1/29 (3 overs)
+| result = Delhi Capitals won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359524.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Phil Salt]] (Delhi Capitals)
+| toss = Royal Challengers Bangalore won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match50}} '''Match 50'''
+}}
+----
+{{Single-innings cricket match
+| date = 7 May 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 227/2 (20 overs)
+| runs1 = [[Shubman Gill]] 94[[not out|*]] (51)
+| wickets1 = [[Avesh Khan]] 1/34 (4 overs)
+| score2 = 171/7 (20 overs)
+| runs2 = [[Quinton de Kock]] 70 (41)
+| wickets2 = [[Mohit Sharma]] 4/29 (4 overs)
+| result = Gujarat Titans won by 56 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359525.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match51}} '''Match 51'''
+}}
+----
+{{Single-innings cricket match
+| date = 7 May 2023
+| time = 19:30
+| daynight = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 214/2 (20 overs)
+| runs1 = [[Jos Buttler]] 95 (59)
+| wickets1 = [[Marco Jansen]] 1/44 (4 overs)<br/>[[Bhuvneshwar Kumar]] 1/44 (4 overs)
+| score2 = 217/6 (20 overs)
+| runs2 = [[Abhishek Sharma (cricketer, born 2000)|Abhishek Sharma]] 55 (34)
+| wickets2 = [[Yuzvendra Chahal]] 4/29 (4 overs)
+| result = Sunrisers Hyderabad won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359526.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Nitin Menon]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Glenn Phillips (cricketer)|Glenn Phillips]] (Sunrisers Hyderabad)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match52}} '''Match 52'''
+}}
+----
+{{Single-innings cricket match
+| date = 8 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 179/7 (20 overs)
+| runs1 = [[Shikhar Dhawan]] 57 (47)
+| wickets1 = [[Varun Chakravarthy]] 3/26 (4 overs)
+| score2 = 182/5 (20 overs)
+| runs2 = [[Nitish Rana]] 51 (38)
+| wickets2 = [[Rahul Chahar]] 2/23 (4 overs)
+| result = Kolkata Knight Riders won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359527.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and Akshay Totre (Ind)
+| motm = [[Andre Russell]] (Kolkata Knight Riders)
+| toss = Punjab Kings won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match53}} '''Match 53'''
+}}
+----
+{{Single-innings cricket match
+| date = 9 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bangalore]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 199/6 (20 overs)
+| runs1 = [[Glenn Maxwell]] 68 (33)
+| wickets1 = [[Jason Behrendorff]] 3/36 (4 overs)
+| score2 = 200/4 (16.3 overs)
+| runs2 = [[Suryakumar Yadav]] 83 (35)
+| wickets2 = [[Vijaykumar Vyshak]] 2/37 (3 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359528.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Suryakumar Yadav]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match54}} '''Match 54'''
+}}
+----
+{{Single-innings cricket match
+| date = 10 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Delhi Capitals]]
+| score1 = 167/8 (20 overs)
+| runs1 = [[Shivam Dube]] 25 (12)
+| wickets1 = [[Mitchell Marsh]] 3/18 (3 overs)
+| score2 = 140/8 (20 overs)
+| runs2 = [[Rilee Rossouw]] 35 (37)
+| wickets2 = [[Matheesha Pathirana]] 3/37 (4 overs)
+| result = Chennai Super Kings won by 27 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359529.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Ravindra Jadeja]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match55}} '''Match 55'''
+}}
+----
+{{Single-innings cricket match
+| date = 11 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 149/8 (20 overs)
+| runs1 = [[Venkatesh Iyer]] 57 (42)
+| wickets1 = [[Yuzvendra Chahal]] 4/25 (4 overs)
+| score2 = 151/1 (13.1 overs)
+| runs2 = [[Yashasvi Jaiswal]] 98[[not out|*]] (47)
+| wickets2 =
+| result = Rajasthan Royals won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359530.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = Saidharshan Kumar (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Yashasvi Jaiswal]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes = [[Yashasvi Jaiswal]] (Rajasthan Royals) scored the fastest fifty in IPL history (13 balls).<ref>{{cite news |access-date=11 May 2023 |title=Yashasvi Jaiswal smashes fastest fifty in IPL history |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/yashasvi-jaiswal-smashes-fastest-fifty-in-ipl-history/articleshow/100167962.cms |website=Times of India |date=11 May 2023 |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511184523/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/yashasvi-jaiswal-smashes-fastest-fifty-in-ipl-history/articleshow/100167962.cms |url-status=live }}</ref><ref>{{cite news |access-date=11 May 2023 |title=Fastest Fifty in IPL History: Yashasvi Jaiswal Breaks KL Rahul's Record of Fastest Half-century |url=https://www.probatsman.com/cricket-news/fastest-fifty-in-ipl-history-yashasvi-jaiswal-breaks-kl-rahuls-record-of-fastest-half-century |website=ProBatsman |date=11 May 2023 |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217090320/https://www.probatsman.com/cricket-news/fastest-fifty-in-ipl-history-yashasvi-jaiswal-breaks-kl-rahuls-record-of-fastest-half-century |url-status=live }}</ref>
+| round = {{anchor|match56}} '''Match 56'''
+}}
+----
+{{Single-innings cricket match
+| date = 12 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Mumbai Indians]]
+| team2 = [[Gujarat Titans]]
+| score1 = 218/5 (20 overs)
+| runs1 = [[Suryakumar Yadav]] 103[[not out|*]] (49)
+| wickets1 = [[Rashid Khan]] 4/30 (4 overs)
+| score2 = 191/8 (20 overs)
+| runs2 = [[Rashid Khan]] 79[[not out|*]] (32) 
+| wickets2 = [[Akash Madhwal]] 3/31 (4 overs)
+| result = Mumbai Indians won by 27 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359531.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Suryakumar Yadav]] (Mumbai Indians)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes =[[Suryakumar Yadav]] (Mumbai Indians) scored his maiden IPL century.<ref>{{Cite web |date=12 May 2023 |title=Suryakumar's first IPL ton, Mumbai scoring 200s for fun |url=https://www.espncricinfo.com/story/mi-vs-gt-suryakumars-first-ipl-ton-mumbai-scoring-200s-for-fun-1375186 |access-date=15 May 2023 |website=ESPN |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515010023/https://www.espncricinfo.com/story/mi-vs-gt-suryakumars-first-ipl-ton-mumbai-scoring-200s-for-fun-1375186 |url-status=live }}</ref>
+| round = {{anchor|match57}} '''Match 57'''
+}}
+----
+{{Single-innings cricket match
+| date = 13 May 2023
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Sunrisers Hyderabad]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 182/6 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 47 (29)
+| wickets1 = [[Krunal Pandya]] 2/24 (4 overs)
+| score2 = 185/3 (19.2 overs)
+| runs2 = [[Prerak Mankad]] 64[[not out|*]] (45)
+| wickets2 = [[Glenn Phillips (cricketer)|Glenn Phillips]] 1/10 (2 overs)
+| result = Lucknow Super Giants won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359532.html Scorecard]
+| venue = [[Rajiv Gandhi International Stadium]], [[Hyderabad]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and Akshay Totre (Ind)
+| motm = [[Prerak Mankad]] (Lucknow Super Giants)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match58}} '''Match 58'''
+}}
+----
+{{Single-innings cricket match
+| date = 13 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 167/7 (20 overs)
+| runs1 = [[Prabhsimran Singh]] 103 (65)
+| wickets1 = [[Ishant Sharma]] 2/27 (3 overs)
+| score2 = 136/8 (20 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 54 (27)
+| wickets2 = [[Harpreet Brar]] 4/30 (4 overs)
+| result = Punjab Kings won by 31 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359533.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Prabhsimran Singh]] (Punjab Kings)
+| toss = Delhi Capitals won the toss and elected to field.
+| rain =
+| notes = Delhi Capitals were eliminated as a result of this match.
+* [[Prabhsimran Singh]] (Punjab Kings) scored his first IPL century.<ref>{{cite web|access-date=13 May 2023|title=Prabhsimran, Brar knock Delhi Capitals out of IPL 2023|url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/delhi-capitals-vs-punjab-kings-59th-match-1359533/match-report|work=ESPNcricinfo|date=13 May 2023|archive-date=13 May 2023|archive-url=https://web.archive.org/web/20230513180500/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/delhi-capitals-vs-punjab-kings-59th-match-1359533/match-report|url-status=live}}</ref>
+| round = {{anchor|match59}} '''Match 59'''
+}}
+----
+{{Single-innings cricket match
+| date = 14 May 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Royal Challengers Bangalore]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 171/5 (20 overs)
+| runs1 = [[Faf du Plessis]] 55 (44)
+| wickets1 = [[Adam Zampa]] 2/25 (4 overs)
+| score2 = 59 (10.3 overs)
+| runs2 = [[Shimron Hetmyer]] 35 (19)
+| wickets2 = [[Wayne Parnell]] 3/10 (3 overs)
+| result = Royal Challengers Bangalore won by 112 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359534.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Wayne Parnell]] (Royal Challengers Bangalore)
+| toss = Royal Challengers Bangalore won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match60}} '''Match 60'''
+}}
+----
+{{Single-innings cricket match
+| date = 14 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 144/6 (20 overs)
+| runs1 = [[Shivam Dubey]] 48[[not out|*]] (34)
+| wickets1 = [[Sunil Narine]] 2/15 (4 overs)
+| score2 = 147/4 (18.3 overs)
+| runs2 = [[Nitish Rana]] 57[[not out|*]] (44)
+| wickets2 = [[Deepak Chahar]] 3/27 (3 overs)
+| result = Kolkata Knight Riders won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359535.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Tapan Sharma]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Rinku Singh (cricketer)|Rinku Singh]] (Kolkata Knight Riders)
+| toss = Chennai Super Kings won the toss and elected to bat.
+| rain =
+| notes =
+| round = {{anchor|match61}} '''Match 61'''
+}}
+----
+{{Single-innings cricket match
+| date = 15 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 188/9 (20 overs)
+| runs1 = [[Shubman Gill]] 101 (58)
+| wickets1 = [[Bhuvneshwar Kumar]] 5/30 (4 overs)
+| score2 = 154/9 (20 overs)
+| runs2 = [[Heinrich Klaasen]] 64 (44)
+| wickets2 = [[Mohammed Shami]] 4/21 (4 overs)
+| result = Gujarat Titans won by 34 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359536.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| rain =
+| notes =Gujarat Titans qualified for the playoffs and Sunrisers Hyderabad were eliminated as a result of this match<ref>{{cite web |access-date=16 May 2023 |title=Gill and Shami seal top-two finish for Titans |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-sunrisers-hyderabad-62nd-match-1359536/match-report |work=ESPNcricinfo |date=15 May 2023 |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515212103/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-vs-sunrisers-hyderabad-62nd-match-1359536/match-report |url-status=live }}</ref>
+* [[Shubman Gill]] scored his maiden IPL century.<ref>{{cite web|access-date=16 May 2023|title=Stats - Gill beats Tendulkar's record to a six-less IPL fifty|url=https://www.espncricinfo.com/story/gt-vs-srh-stats-shubman-gill-beats-sachin-tendulkar-s-record-to-a-six-less-ipl-fifty-1376016|work=ESPNcricinfo|archive-date=15 May 2023|archive-url=https://web.archive.org/web/20230515221849/https://www.espncricinfo.com/story/gt-vs-srh-stats-shubman-gill-beats-sachin-tendulkar-s-record-to-a-six-less-ipl-fifty-1376016|url-status=live}}</ref>
+| round = {{anchor|match62}} '''Match 62'''
+}}
+----
+{{Single-innings cricket match
+| date = 16 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Mumbai Indians]]
+| score1 = 177/3 (20 overs)
+| runs1 = [[Marcus Stoinis]] 89[[not out|*]] (47)
+| wickets1 = [[Jason Behrendorff]] 2/30 (4 overs)
+| score2 = 172/5 (20 overs)
+| runs2 = [[Ishan Kishan]] 59 (39)
+| wickets2 = [[Ravi Bishnoi]] 2/26 (4 overs)
+| result = Lucknow Super Giants won by 5 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359537.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind)
+| motm = [[Marcus Stoinis]] (Lucknow Super Giants)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match63}} '''Match 63'''
+}}
+----
+{{Single-innings cricket match
+| date = 17 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 213/2 (20 overs)
+| runs1 = [[Rilee Rossouw]] 82[[not out|*]] (37)
+| wickets1 = [[Sam Curran]] 2/36 (4 overs)
+| score2 = 198/8 (20 overs)
+| runs2 = [[Liam Livingstone]] 94 (48)
+| wickets2 = [[Anrich Nortje]] 2/36 (4 overs)
+| result = Delhi Capitals won by 15 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359538.html Scorecard]
+| venue = [[HPCA Stadium]], [[Dharamshala]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Rilee Rossouw]] (Delhi Capitals)
+| toss = Punjab Kings won the toss and elected to field.
+| rain =
+| notes =
+| round = {{anchor|match64}} '''Match 64'''
+}}
+----
+{{Single-innings cricket match
+| date = 18 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Sunrisers Hyderabad]]
+| team2 = [[Royal Challengers Bangalore]]
+| score1 = 186/5 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 104 (51)
+| wickets1 = [[Michael Bracewell (cricketer)|Michael Bracewell]] 2/13 (2 overs)
+| score2 = 187/2 (19.2 overs)
+| runs2 = [[Virat Kohli]] 100 (63)
+| wickets2 = [[T. Natarajan]] 1/34 (4 overs)
+| result = Royal Challengers Bangalore won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359539.html Scorecard]
+| venue = [[Rajiv Gandhi International Stadium]], [[Hyderabad]]
+| umpires = [[Bruce Oxenford]] (Aus) and [[Virender Sharma]] (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bangalore)
+| toss = Royal Challengers Bangalore won the toss and elected to field.
+| rain =
+| notes = [[Heinrich Klaasen]] (Sunrisers Hyderabad) scored his maiden IPL century.<ref>{{cite news |access-date=18 May 2023 |title=Heinrich Klaasen slams maiden IPL ton, fires SRH to 186/5 against RCB |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/heinrich-klaasen-slams-maiden-ipl-ton-fires-srh-to-186/5-against-rcb/articleshow/100336425.cms#amp_tf=From%20%251%24s&aoh=16844325455722&referrer=https%3A%2F%2Fwww.google.com |website=Times of India |date=18 May 2023 |archive-date=18 May 2023 |archive-url=https://web.archive.org/web/20230518175802/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/heinrich-klaasen-slams-maiden-ipl-ton-fires-srh-to-186/5-against-rcb/articleshow/100336425.cms#amp_tf=From%20%251%24s&aoh=16844325455722&referrer=https%3A%2F%2Fwww.google.com |url-status=live }}</ref>
+| round = {{anchor|match65}} '''Match 65'''
+}}
+----
+{{Single-innings cricket match
+| date = 19 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 187/5 (20 overs)
+| runs1 = [[Sam Curran]] 49[[not out|*]] (31)
+| wickets1 = [[Navdeep Saini]] 3/40 (4 overs)
+| score2 = 189/6 (19.4 overs)
+| runs2 = [[Devdutt Padikkal]] 51 (30)
+| wickets2 = [[Kagiso Rabada]] 2/40 (4 overs)
+| result = Rajasthan Royals won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359540.html Scorecard]
+| venue = [[HPCA Stadium]], [[Dharamshala]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Devdutt Padikkal]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| rain =
+| notes = Punjab Kings were eliminated as a result of this match.
+| round = {{anchor|match66}} '''Match 66'''
+}}
+----
+{{Single-innings cricket match
+| date = 20 May 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 223/3 (20 overs)
+| runs1 = [[Devon Conway]]&nbsp;87 (52) 
+| wickets1 = [[Chetan Sakariya]] 1/36 (4 overs)
+| score2 = 146/9 (20 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 86 (58) 
+| wickets2 = [[Deepak Chahar]] 3/22 (4 overs)
+| result = Chennai Super Kings won by 77 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1359541.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Devon Conway]] (Chennai Super Kings) 
+| toss = Chennai Super Kings won the toss and elected to bat.
+| rain =
+| notes = Chennai Super Kings qualified for the playoffs as a result of this match.
+| round = {{anchor|match67}} '''Match 67'''
+}}
+----
+{{Single-innings cricket match
+| date = 20 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 176/8 (20 overs)
+| runs1 = [[Nicholas Pooran]] 58 (30)
+| wickets1 = [[Shardul Thakur]] 2/27 (2 overs)
+| score2 = 175/7 (20 overs)
+| runs2 = [[Rinku Singh (cricketer)|Rinku Singh]] 67[[not out|*]] (33)
+| wickets2 = [[Ravi Bishnoi]] 2/23 (4 overs)
+| result = Lucknow Super Giants won by 1 run
+| report = [https://www.espncricinfo.com/ci/engine/match/1359542.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Nicholas Pooran]] (Lucknow Super Giants)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| rain =
+| notes = Lucknow Super Giants qualified for the playoffs and Kolkata Knight Riders were eliminated as a result of this match.
+| round = {{anchor|match68}} '''Match 68'''
+}}
+----
+{{Single-innings cricket match
+| date = 21 May 2023
+| time = 15:30
+| daynight = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 200/5 (20 overs)
+| runs1 = [[Mayank Agarwal]] 83 (46)
+| wickets1 = [[Akash Madhwal]] 4/37 (4 overs)
+| score2 = 201/2 (18 overs)
+| runs2 = [[Cameron Green]] 100[[not out|*]] (47)
+| wickets2 = [[Bhuvneshwar Kumar]] 1/26 (4 overs)
+| result = Mumbai Indians won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359543.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Cameron Green]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain =
+| notes = [[Cameron Green]] (Mumbai Indians) scored his maiden IPL century.<ref>{{cite web |access-date=21 May 2023 |title=Cameron Green scores maiden IPL hundred in debut season |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/cameron-green-100-century-ipl-maiden-hundred-mi-vs-srh-mumbai-indians/article66877822.ece |website=SportStar |date=21 May 2023 |archive-date=21 May 2023 |archive-url=https://web.archive.org/web/20230521142355/https://sportstar.thehindu.com/cricket/ipl/ipl-news/cameron-green-100-century-ipl-maiden-hundred-mi-vs-srh-mumbai-indians/article66877822.ece |url-status=live }}</ref>
+* Rajasthan Royals were eliminated as a result of this match.
+| round = {{anchor|match69}} '''Match 69'''
+}}
+----
+{{Single-innings cricket match
+| date = 21 May 2023
+| time = 19:30
+| night = y
+| team1 = (H) [[Royal Challengers Bangalore]]
+| team2 = [[Gujarat Titans]]
+| score1 = 197/5 (20 overs)
+| runs1 = [[Virat Kohli]] 101[[not out|*]] (61)
+| wickets1 = [[Noor Ahmad]] 2/39 (4 overs)
+| score2 = 198/4 (19.1 overs)
+| runs2 = [[Shubman Gill]] 104[[not out|*]] (52)
+| wickets2 = [[Mohammed Siraj]] 2/32 (4 overs)
+| result = Gujarat Titans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1359544.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Nitin Menon]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain =
+| notes = [[Himanshu Sharma (cricketer)|Himanshu Sharma]] (Royal Challengers Bangalore) made his T20 debut.
+* Mumbai Indians qualified for the playoffs and Royal Challengers Bangalore were eliminated as a result of this match.
+| round = {{anchor|match70}} '''Match 70'''
+}}
+
+== Playoffs ==
+<!-- Please do not edit when the match is going on -->
+The full schedule for the playoffs was announced on 21 April 2023.<ref>{{cite web |access-date=21 April 2023 |title=BCCI announces schedule and venue details for TATA IPL 2023 Playoffs and Final |url=https://www.iplt20.com/news/3911/bcci-announces-schedule-and-venue-details-for-tata-ipl-2023-playoffs-and-final |website=iplt20.com |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421135929/https://www.iplt20.com/news/3911/bcci-announces-schedule-and-venue-details-for-tata-ipl-2023-playoffs-and-final |url-status=live }}</ref>
+{{4TeamBracket-PagePlayoff
+| team-width=150px
+| score-width=150px
+
+| RD1 = '''[[#match71|Qualifier 1]] / [[#match72|Eliminator]]'''
+| RD1-text1 =  23 May 2023 - [[MA Chidambaram Stadium|Chennai]]
+| RD1-seed1 = 1
+| RD1-team1 = [[Gujarat Titans]]
+| RD1-score1 = 157 (20 overs)
+| RD1-seed2 = '''2'''
+| RD1-team2 = '''[[Chennai Super Kings]]'''
+| RD1-score2 = '''172/7 (20 overs)'''
+| P1Winner = Chennai
+| P1Margin = 15 runs
+| P1Matchno = 71
+ 
+| RD1-text2 = 24 May 2023 - [[MA Chidambaram Stadium|Chennai]]
+| RD1-seed3 = 3
+| RD1-team3 = [[Lucknow Super Giants]]
+| RD1-score3 = 101 (16.3 overs)
+| RD1-seed4 = '''4'''
+| RD1-team4 = '''[[Mumbai Indians]]'''
+| RD1-score4 = '''182/8 (20 overs)'''
+| P2Winner = Mumbai
+| P2Margin = 81 runs
+| P2Matchno= 72
+
+| RD2 = '''[[#match73|Qualifier 2]]'''
+| RD2-text1 = 26 May 2023 - [[Narendra Modi Stadium|Ahmedabad]]
+| RD2-seed1 = '''Q1L'''
+| RD2-team1 = '''[[Gujarat Titans]]'''
+| RD2-score1 = '''233/3 (20 overs)'''
+| RD2-seed2 = EW
+| RD2-team2 = [[Mumbai Indians]]
+| RD2-score2 = 171 (18.2 overs)
+| P3Winner = Gujarat
+| P3Margin = 62 runs
+| P3Matchno= 73
+
+| RD3 = '''[[#match74|Final]]'''
+| RD3-text1 = 29 May 2023 - [[Narendra Modi Stadium|Ahmedabad]]
+| RD3-seed1 = Q1W
+| RD3-team1 = '''[[Chennai Super Kings]]'''
+| RD3-score1 = '''171/5 (15 overs)'''
+| RD3-seed2 = Q2W
+| RD3-team2 = [[Gujarat Titans]]
+| RD3-score2 = 214/4 (20 overs)
+| FinalWinner = Chennai 
+| FinalMargin = 5 wickets ([[Duckworth-Lewis-Stern method|DLS]] method)
+| FinalMatchno= 74
+}}
+
+=== Qualifier 1 ===
+<section begin="match71" />{{Single-innings cricket match
+| date =  23 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Gujarat Titans]]
+| score1 = 172/7 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 60 (44)
+| wickets1 = [[Mohammed Shami]] 2/28 (4 overs)
+| score2 = 157 (20 overs)
+| runs2 = [[Shubman Gill]] 42 (38)
+| wickets2 = [[Ravindra Jadeja]] 2/18 (4 overs)
+| result = Chennai Super Kings won by 15 runs
+| report =
+[https://www.espncricinfo.com/ci/engine/match/1370350.html Scorecard]
+| venue = [[MA Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Chris Gaffaney]] (NZ)
+| motm = [[Ruturaj Gaikwad]] (Chennai Super Kings)
+| toss = Gujarat Titans won the toss and elected to field.
+| rain = 
+| notes = Chennai Super Kings qualified for the final for the 10th time in IPL history.<ref>{{Cite web |date=2023-05-23 |title=CSK squeeze the Titans to enter their tenth IPL final |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-gujarat-titans-qualifier-1-1370350/match-report |access-date=2023-05-24 |work=ESPNcricinfo |language=en |archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524044429/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-vs-gujarat-titans-qualifier-1-1370350/match-report |url-status=live }}</ref>
+| round = {{anchor|match71}}
+}}<section end="match71" />
+----
+
+=== Eliminator ===
+<section begin="match72" />{{Single-innings cricket match
+| date = 24 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 182/8 (20 overs)
+| runs1 = [[Cameron Green]] 41 (23)
+| wickets1 = [[Naveen-ul-Haq]] 4/38 (4 overs)
+| score2 = 101 (16.3 overs)
+| runs2 = [[Marcus Stoinis]] 40 (27)
+| wickets2 = [[Akash Madhwal]] 5/5 (3.3 overs)
+| result = Mumbai Indians won by 81 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1370351.html Scorecard]
+| venue =  [[MA Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Bruce Oxenford]] (Aus) and [[Virender Sharma]] (Ind)
+| motm = [[Akash Madhwal]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to bat.
+| rain = 
+| notes = 
+| round = {{anchor|match72}}
+}}<section end="match72" />
+----
+
+=== Qualifier 2 ===
+<section begin="match73" />{{Single-innings cricket match
+| date = 26 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Mumbai Indians]]
+| score1 = 233/3 (20 overs)
+| runs1 = [[Shubman Gill]] 129 (60)
+| wickets1 = [[Piyush Chawla]] 1/45 (3 overs)
+| score2 = 171 (18.2 overs)
+| runs2 = [[Suryakumar Yadav]] 61 (38)
+| wickets2 = [[Mohit Sharma]] 5/10 (2.2 overs)
+| result = Gujarat Titans won by 62 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1370352.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain = 
+| notes = [[Shubman Gill]] (Gujarat Titans) made the highest individual score of 129 runs from 60 balls in IPL Playoffs.
+* Gujarat Titans's total was the highest score in IPL Playoffs.
+| round = {{anchor|match73}}
+}}<section end="match73" />
+----
+
+=== Final ===
+{{main|2023 Indian Premier League final}}
+
+<section begin="match74" />{{Single-innings cricket match
+| date = 29 May 2023
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 214/4 (20 overs)
+| runs1 = [[Sai Sudharsan]] 96 (47)
+| wickets1 = [[Matheesha Pathirana]] 2/44 (4 overs)
+| score2 = 171/5 (15 overs)
+| runs2 = [[Devon Conway]] 47 (25)
+| wickets2 = [[Mohit Sharma]] 3/36 (3 overs)
+| result = Chennai Super Kings won by 5 wickets ([[Duckworth-Lewis-Stern method|DLS]] method)
+| report = [https://www.espncricinfo.com/ci/engine/match/1370353.html Scorecard]
+| venue =
+[[Narendra Modi Stadium]]
+, [[Ahmedabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Rod Tucker]] (Aus)
+| motm = [[Devon Conway]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| rain = The match was originally scheduled to be held on 28 May 2023, but it was not held due to rain and was instead played on the reserve day on 29 May 2023 and ended on 30 May 2023 at 01:35 IST, thus, becoming the longest ever IPL final.{{efn | It was the first IPL in history which had a reserved day and the game was held on it.}}<ref>{{cite web |access-date=28 May 2023 |title=CSK vs GT IPL 2023 final moved to reserve day; title winner to be decided on Monday |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-vs-gt-ipl-2023-final-moved-reserve-day-rain-no-play-possible-chennai-super-kings-gujarat-titans-ahmedabad/article66905080.ece |website=SportStar |date=28 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529101132/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-vs-gt-ipl-2023-final-moved-reserve-day-rain-no-play-possible-chennai-super-kings-gujarat-titans-ahmedabad/article66905080.ece/amp/ |url-status=live }}</ref><ref>{{Cite web |date=2023-05-30 |title='Longest Ever IPL Final' Fans React As Rain 'Stretches' CSK vs GT IPL 2023 Final to 'Three Days' |url=https://www.latestly.com/socially/sports/cricket/longest-ever-ipl-final-fans-react-as-rain-stretches-csk-vs-gt-ipl-2023-final-to-three-days-5163383.html |access-date=2023-05-30 |website=LatestLY |language=en |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529193152/https://www.latestly.com/socially/sports/cricket/longest-ever-ipl-final-fans-react-as-rain-stretches-csk-vs-gt-ipl-2023-final-to-three-days-5163383.html |url-status=live }}</ref>
+* Chennai Super Kings were set a revised target of 171 runs from 15 overs due to rain.
+| notes = By winning in the final, Chennai Super Kings equalled Mumbai Indians for winning the most IPL trophies (5).<ref>{{Cite web |title=Stats - Dhoni equals Rohit, CSK level with Mumbai Indians |url=https://www.espncricinfo.com/story/ipl-2023-final-stats-ms-dhoni-equals-rohit-sharma-and-csk-level-with-mumbai-indians-1379035 |access-date=2023-05-30 |work=ESPNcricinfo |language=en |archive-date=30 May 2023 |archive-url=https://web.archive.org/web/20230530115702/https://www.espncricinfo.com/story/ipl-2023-final-stats-ms-dhoni-equals-rohit-sharma-and-csk-level-with-mumbai-indians-1379035 |url-status=live }}</ref><ref>{{Cite web |title=Chennai Super Kings Crowned IPL 2023 Champions, MS Dhoni Joins Mumbai Indians in Trophy Count |url=https://www.probatsman.com/cricket-news/chennai-super-kings-csk-crowned-ipl-2023-champions-ms-dhoni-joins-mumbai-indians-mi-in-trophy-count |access-date=2023-05-30 |work=ProBatsman |date=30 May 2023 |language=en |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217041456/https://www.probatsman.com/cricket-news/chennai-super-kings-csk-crowned-ipl-2023-champions-ms-dhoni-joins-mumbai-indians-mi-in-trophy-count |url-status=live }}</ref>
+| round = {{anchor|match74}}
+}}<section end="match74" />
+
+==Broadcasting==
+{{Further information|IPL#Broadcasting}}
+In June 2022, the broadcasting rights for the league between 2023 and 2027 were sold for {{INRConvert|48390|c|lk=on}}, establishing the league as the second most expensive tournament in the world after the [[National Football League]], overtaking the [[English Premier League]].<ref name=":1">{{cite web|title=It's a big deal The IPL 2023-2027 Indian subcontinent Tv and digital rights sold for 5 Billion Dollars|work=ESPN|access-date=11 November 2022|url=https://www.espncricinfo.com/story/ipl-2023-27-india-subcontinent-tv-and-digital-rights-sold-for-us-5-1-billion-1319721|archive-date=11 November 2022|archive-url=https://web.archive.org/web/20221111152203/https://www.espncricinfo.com/story/ipl-2023-27-india-subcontinent-tv-and-digital-rights-sold-for-us-5-1-billion-1319721|url-status=live}}</ref> [[Star Sports (Indian TV network)|Star Sports]] renewed its television contract, and [[Viacom18]] acquired the digital rights within India; matches were streamed for free on [[JioCinema]].<ref>{{Cite web |title=IPL Media Rights: BCCI hits a six while Viacom18 and Star India scramble for the ball |url=https://www.financialexpress.com/brandwagon/ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball/2566141/ |access-date=2022-12-03 |website=Financialexpress |date=20 June 2022 |language=en |archive-date=3 November 2022 |archive-url=https://web.archive.org/web/20221103092653/https://www.financialexpress.com/brandwagon/ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball/2566141/ |url-status=live }}</ref><ref>{{Cite news |url=https://www.latestly.com/sports/cricket/ipl-2023-live-streaming-viacom18-to-merge-jiocinema-and-voot-for-indian-premier-league-online-viewing-option-4755445.html |title=IPL 2023 Live Streaming: Viacom18 To Merge JioCinema and Voot for Indian Premier League Online Viewing Option |date=25 January 2022 |work=Latestly |access-date=12 February 2022 |archive-date=25 January 2023 |archive-url=https://web.archive.org/web/20230125073615/https://www.latestly.com/sports/cricket/ipl-2023-live-streaming-viacom18-to-merge-jiocinema-and-voot-for-indian-premier-league-online-viewing-option-4755445.html |url-status=live }}</ref> The final peaked at over 32 million viewers on JioCinema, overtaking a match from the [[2019 Cricket World Cup]] as the most concurrent viewers on a live streaming event worldwide.<ref>{{Cite web |last=Singh |first=Manish |date=29 May 2023 |title=Reliance's JioCinema breaks world record with free cricket streaming |url=https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/ |access-date=30 May 2023 |website=TechCrunch |language=en-US |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529223637/https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/ |url-status=live }}</ref><ref>{{Cite web |date=17 July 2019 |title=Hotstar sets global streaming record during India-New Zealand semi-final |url=http://www.sportspromedia.com/news/hotstar-global-streaming-record-india-new-zealand-semi-final |url-status=live |archive-url=https://web.archive.org/web/20190718183201/http://www.sportspromedia.com/news/hotstar-global-streaming-record-india-new-zealand-semi-final |archive-date=18 July 2019 |access-date=18 July 2019 |website=SportsPro Media}}</ref>
+
+{| class="wikitable"
+
+!Country
+!Television channel
+!Internet streaming applications
+!Ref
+|-
+|[[Afghanistan]]
+|[[Ariana Television Network]]
+| -
+|<ref name=":5" />
+|-
+|[[Australia]]
+|[[Fox Sports]]
+|[[Kayo Sports]], [[Foxtel]]{{Efn|Kayo Sports and Fox tell offers [[video on demand]] service.}} and Fox Now<ref name=":4">{{Cite news |title=How to watch IPL 2023 in Australia... |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/live-streaming-full-schedule-how-to-watch-ipl-2023-live-action-in-australia/articleshow/99093952.cms |url-status=live |website=[[Times of India]] |date=April 2023 |access-date=1 April 2023 |archive-date=2 April 2023 |archive-url=https://web.archive.org/web/20230402174629/https://gum.criteo.com/syncframe?origin=publishertag&topUrl=timesofindia.indiatimes.com }}</ref>
+|<ref name=":4" />
+|-
+|[[Bangladesh]]
+|[[T Sports]], [[Gazi TV]]
+|[[T Sports]] App
+|<ref>{{Cite web |title=IPL 2023 Live Telecast Channel List: Where to Watch IPL Streaming? |url=https://www.timesofsports.com/cricket/ipl/2023-live-telecast-channel-list/amp/ |access-date=2023-05-11 |website=Times of Sports |language=en }}{{Dead link|date=June 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+|[[Caribbean]]
+|[[Rush TV]], Flow Sports 2 <ref name=":5">{{Cite web |title=Where and when to watch IPL 2023... |url=https://www.timesnownews.com/sports/cricket/ipl-2023-live-streaming-when-and-where-to-watch-t20-league-tv-and-online-in-india-usa-pakistan-uk-australia-canada-bangladesh-new-zealand-article-99123791 |url-status=live |website=Times Now |date=31 March 2023 |access-date=2 April 2023 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331092440/https://www.timesnownews.com/sports/cricket/ipl-2023-live-streaming-when-and-where-to-watch-t20-league-tv-and-online-in-india-usa-pakistan-uk-australia-canada-bangladesh-new-zealand-article-99123791 }}</ref>
+|[[Enet]]
+|<ref>{{Cite web |last=Sports |first=Times of |date=2023-03-28 |title=IPL 2023 Live Telecast Channel in Guyana |url=https://newsroom.gy/2023/03/28/enet-to-broadcast-ipl-2023-on-rush-from-friday/ |access-date=2023-03-28 |language=en |archive-date=29 March 2023 |archive-url=https://web.archive.org/web/20230329110001/https://newsroom.gy/2023/03/28/enet-to-broadcast-ipl-2023-on-rush-from-friday/ |url-status=live}}</ref>
+|-
+|[[India]]
+|[[Star Sports (Indian TV network)|Star Sports]]
+|[[JioCinema]]
+|{{citation needed|date=September 2025}}
+|-
+|[[Nepal]]
+|[[Star Sports (Indian TV network)|Star Sports]]
+|
+|{{citation needed|date=September 2025}}
+|-
+|[[New Zealand]]
+|[[Sky Sport (New Zealand)|Sky Sport]]
+|
+|<ref name=":5" />
+|-
+|[[Pakistan]]
+| -
+|tapmad tv, [[YuppTV]]
+|<ref>{{Cite web |url=https://www.tapmad.com/ |title=Live Cricket - Watch Live Sports, EPL, IPL 2023 Online Ad-Free - tapmad |access-date=6 April 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405054028/https://www.tapmad.com/ |url-status=live }}</ref>
+|-
+|[[South Africa]] & [[Sub-Saharan Africa|Sub-Saharian Africa]]
+|[[SuperSport (South African broadcaster)|Super Sport]]
+| -
+|<ref>{{Cite web |url=https://www.citizen.co.za/sport/cricket/ipl-back-on-as-supersport-secure-broadcast-deal/ |title=IPL back on as SuperSport secure broadcast deal |date=31 March 2023 |access-date=31 March 2023 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331133950/https://www.citizen.co.za/sport/cricket/ipl-back-on-as-supersport-secure-broadcast-deal/ |url-status=live }}</ref>
+|-
+|[[Sri Lanka]]
+|[[Supreme TV]], [[Dialog TV]], Peo TV
+|[[Dialog TV]], Peo TV
+|<ref>{{Cite web |last=CricketZine |title=IPL 2023 Live Streaming & TV Channels, Indian Premier League 2023 - CricketZine |url=https://www.cricketzine.com/ipl-2023-live-streaming-tv-channels/ |access-date=2023-04-04 |website=www.cricketzine.com |language=en-US |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404014116/https://www.cricketzine.com/ipl-2023-live-streaming-tv-channels/ |url-status=live }}</ref>{{Unreliable source?|date=April 2023}}
+|-
+|[[United Kingdom]]
+|[[DAZN]], [[Sky Sports Cricket]], [[Sky Sports Main Event]]
+| -
+|<ref name="X">{{Cite web |url=https://wisden.com/stories/ipl-2023-where-to-watch-live-in-usa-tv-channels-live-telecast-usa-match-timings-for-ipl |title=IPL 2023, Where to Watch Live in USA: TV Channels, Live Telecast and USA Match Timings for IPL |date=16 March 2023 |access-date=20 March 2023 |archive-date=20 March 2023 |archive-url=https://web.archive.org/web/20230320070110/https://wisden.com/stories/ipl-2023-where-to-watch-live-in-usa-tv-channels-live-telecast-usa-match-timings-for-ipl |url-status=live }}</ref>
+|-
+|[[United States]] & [[Canada]]
+|[[Willow (TV channel)|Willow TV]]
+| willow.tv
+|<ref name="X" />
+|}
+
+== Issues ==
+=== Slow over- rate ===
+In this IPL season, matches took longer time to finish due to teams bowling at a ''slow over-rate''. According to the IPL rules, an innings should be completed in 90 minutes, including two 5-minute strategic timeouts, and a complete match should be finished in stipulated 3 hours and 20 minutes. However, as of 5 April 2023, not a single innings had ended in the above-mentioned time frame. Despite penalizing team captains, the over rates have seen little improvement.<ref>{{Cite news|title=Explained: How the IPL slow-over-rate penalties work|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-how-the-ipl-slow-over-rate-penalties-work/articleshow/99755239.cms|access-date=26 April 2023|website=[[The Times Of India]]|date=25 April 2023|archive-date=21 May 2024|archive-url=https://web.archive.org/web/20240521104428/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-how-the-ipl-slow-over-rate-penalties-work/articleshow/99755239.cms|url-status=live}}</ref>
+<ref>{{Cite web|title=IPL 2023: DC captain David Warner fined for maintaining slow over-rate in match against SRH|url=https://www.bignewsnetwork.com/news/273784349/ipl-2023-dc-captain-david-warner-fined-for-maintaining-slow-over-rate-in-match-against-srh|access-date=26 April 2023|website=www.bignewsnetwork.com|archive-date=26 April 2023|archive-url=https://web.archive.org/web/20230426083738/https://www.bignewsnetwork.com/news/273784349/ipl-2023-dc-captain-david-warner-fined-for-maintaining-slow-over-rate-in-match-against-srh|url-status=live}}</ref>
+<ref>{{Cite web|title=IPL 2023: RCB stand-in skipper Virat Kohli fined Rs 24 lakh in a match against RR, here's why|url=https://www.dnaindia.com/cricket/report-ipl-2023-rcb-stand-in-skipper-virat-kohli-fined-rs-24-lakh-in-match-against-rr-for-slow-over-rate-rcb-vs-rr-3038445|access-date=26 April 2023|website=DNA India|archive-date=25 April 2023|archive-url=https://web.archive.org/web/20230425223657/https://www.dnaindia.com/cricket/report-ipl-2023-rcb-stand-in-skipper-virat-kohli-fined-rs-24-lakh-in-match-against-rr-for-slow-over-rate-rcb-vs-rr-3038445|url-status=live}}</ref>
+<ref>{{Cite web|title=IPL 2023: Suryakumar fined for MI's slow over-rate; Nitish Rana fined 25 pc of his match fee for Code of Conduct breach|url=https://www.devdiscourse.com/article/sports-games/2419186-ipl-2023-suryakumar-fined-for-mis-slow-over-rate-nitish-rana-fined-25-pc-of-his-match-fee-for-code-of-conduct-breach|access-date=27 April 2023|website=www.devdiscourse.com|archive-date=27 April 2023|archive-url=https://web.archive.org/web/20230427091915/https://www.devdiscourse.com/article/sports-games/2419186-ipl-2023-suryakumar-fined-for-mis-slow-over-rate-nitish-rana-fined-25-pc-of-his-match-fee-for-code-of-conduct-breach|url-status=live}}</ref>
+<ref>{{Cite web|title=IPL 2023: Sanju Samson fined Rs 12 lakh for slow over-rate|url=https://www.moneycontrol.com/news/trends/sports/ipl-2023-sanju-samson-fined-rs-12-lakh-for-slow-over-rate-10405881.html|access-date=27 April 2023|website=Money Control|date=13 April 2023|archive-date=27 April 2023|archive-url=https://web.archive.org/web/20230427045748/https://www.moneycontrol.com/news/trends/sports/ipl-2023-sanju-samson-fined-rs-12-lakh-for-slow-over-rate-10405881.html|url-status=live}}</ref>
+
+English cricketer [[Jos Buttler]] appealed on [[Twitter]] that the IPL matches should be sped up. Due to the ''slow over-rates'' of the various teams, this season's matches finished after 11:30 pm ([[Indian Standard Time|IST]]). IPL evening matches are scheduled to start at 7:30 pm and, therefore, should be concluded by 10:50 pm.<ref>{{Cite web |title=Time for the IPL to start keeping time better |url=https://www.espncricinfo.com/story/ipl-2023-time-for-the-ipl-to-start-keeping-time-better-1367068 |url-status=live |archive-url=https://web.archive.org/web/20230405163505/https://www.espncricinfo.com/story/ipl-2023-time-for-the-ipl-to-start-keeping-time-better-1367068 |archive-date=5 April 2023 |access-date=5 April 2023 |work=ESPNcricinfo}}</ref>
+
+=== Impact player rule ===
+The 2023 season saw the introduction of the impact player rule which allowed for each team to provide a list of 5 players along with the list of their playing 11. Of these 5 designated players, any impact player could then be bought on to feature in the match.<ref>{{cite web | url=https://www.hindustantimes.com/cricket/ipl-2023-impact-player-explained-what-is-the-new-rule-when-can-it-be-used-and-how-will-it-affect-the-season-101680169615194.html | title=IPL 2023 Impact Player explained: What is the new rule, when can it be used and how will it affect the season | date=30 March 2023 | access-date=23 October 2023 | archive-date=15 May 2023 | archive-url=https://web.archive.org/web/20230515083309/https://www.hindustantimes.com/cricket/ipl-2023-impact-player-explained-what-is-the-new-rule-when-can-it-be-used-and-how-will-it-affect-the-season-101680169615194.html | url-status=live }}</ref>
+
+Many cricket pundits criticised the new ''impact player'' rule because of the thought that this rule negates the role and involvement of all-rounders in the game.<ref>{{Cite web |date=2023-03-24 |title=Impact Player rule negates the role of all-rounders, bits and pieces players: Ricky Ponting |url=https://indianexpress.com/article/sports/cricket/impact-player-rule-negates-the-role-of-all-rounders-bits-and-pieces-players-ricky-ponting-8516863/ |access-date=2023-05-27 |website=The Indian Express |language=en |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527150540/https://indianexpress.com/article/sports/cricket/impact-player-rule-negates-the-role-of-all-rounders-bits-and-pieces-players-ricky-ponting-8516863/ |url-status=live }}</ref><ref>{{Cite web |title=The negatives of IPL Impact Player rule far outweigh the positives |url=https://www.dailyo.in/ground/the-negatives-of-ipl-impact-player-rule-far-outweigh-the-positives-39429 |url-status=live |archive-url=https://web.archive.org/web/20230527150547/https://www.dailyo.in/ground/the-negatives-of-ipl-impact-player-rule-far-outweigh-the-positives-39429 |archive-date=27 May 2023 |access-date=2023-05-27 |website=www.dailyo.in |language=en}}</ref>
+
+==Statistics and awards==
+
+=== Most runs ===
+{{see also|Orange Cap}}
+{| class="wikitable" style="text-align:center"
+|-
+!Player !! Team !! Innings !! Runs !! High score
+|-
+|- style="background:#FFAB0F"
+|style="text-align:left"| [[Shubman Gill]]
+|style="text-align:left"| [[Gujarat Titans]] || 17 || '''890''' || 129
+|-
+|style="text-align:left"| [[Faf du Plessis]]
+|style="text-align:left"| [[Royal Challengers Bangalore]] || 14 || '''730''' || 84
+|-
+|style="text-align:left"|[[Devon Conway]]
+|style="text-align:left"| [[Chennai Super Kings]] || 15 || '''672''' || 92[[not out|*]]
+|-
+|style="text-align:left"|  [[Virat Kohli]]
+|style="text-align:left"|  [[Royal Challengers Bangalore]] || 14 || '''639''' || 101[[not out|*]]
+|-
+|style="text-align:left"| [[Yashasvi Jaiswal]]
+|style="text-align:left"| [[Rajasthan Royals]] || 14 || '''625''' || 124
+|}
+* {{Color box|#FFAB0F|border=darkgray}} Orange Cap
+*Source: [https://www.iplt20.com/stats/2023/mostRuns?stats_type=&team= IPLT20.com]
+
+===Most wickets===
+{{see also|Purple Cap}}
+{| class="wikitable" style="text-align:center"
+|-
+!Player !! Team !! Matches !! Wickets !! Best bowling
+|- style="background:#D6ADFF"
+|style="text-align:left"| [[Mohammed Shami]] 
+|style="text-align:left"| [[Gujarat Titans]] || 17  || '''28''' || 4/11
+|-
+|style="text-align:left"| [[Mohit Sharma]]
+|style="text-align:left"| [[Gujarat Titans]] || 14 ||  rowspan=2|'''27''' || 5/10
+|- 
+|style="text-align:left"| [[Rashid Khan]]
+|style="text-align:left"| [[Gujarat Titans]] || 17 || 4/30
+|-
+|style="text-align:left"| [[Piyush Chawla]] 
+|style="text-align:left"| [[Mumbai Indians]] || 16 || '''22''' || 3/22
+|-
+|style="text-align:left"| [[Yuzvendra Chahal]]
+|style="text-align:left"| [[Rajasthan Royals]] || 14 || '''22''' || 4/17
+|}
+* {{Color box|#D6ADFF|border=darkgray}} Purple Cap
+*Source: [https://www.iplt20.com/stats/2023/mostWkts?stats_type=bowling&team= IPLT20.com]
+
+===End of season awards===
+{| class="wikitable"
+|-
+! Player
+! Team
+! Award
+! Prize
+|-
+|
+| [[Delhi Capitals]]
+| Team fairplay award
+|
+|-
+| [[Mohammed Shami]] 
+| [[Gujarat Titans]]
+| Purple cap (most wickets)
+| {{INR convert|10|l|lk=on}}
+|-
+| [[Rashid Khan]] 
+| [[Gujarat Titans]]
+| Catch of the season
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Shubman Gill]]
+| [[Gujarat Titans]] 
+| Gamechanger of the season
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Shubman Gill]]
+| [[Gujarat Titans]]
+| Most fours
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Shubman Gill]]
+| [[Gujarat Titans]]
+| Player of the season
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Shubman Gill]] 
+| [[Gujarat Titans]]
+| Orange cap (most runs)
+| {{INR convert|10|l|lk=on}}
+|-
+| [[Yashasvi Jaiswal]]
+| [[Rajasthan Royals]]
+| Emerging player of the season
+| {{INR convert|10|l|lk=on}}
+|-
+| [[Virat Kohli]]
+| [[Royal Challengers Bangalore]]
+| Most sixes
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Faf du Plessis]]
+| [[Royal Challengers Bangalore]]
+| Longest six
+| {{INR convert|10|l|lk=on}} and trophy
+|-
+| [[Glenn Maxwell]] 
+| [[Royal Challengers Bangalore]]
+| Super striker
+| {{INR convert|10|l|lk=on}}, trophy and a car
+|}
+*Source: Sportstar<ref>{{cite web |access-date=30 May 2023 |title=IPL 2023 Final CSK vs GT Presentation Ceremony: Full winners list; Conway Player of the Final; Gill gets Orange Cap, MVP; Shami Purple Cap |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-2023-full-list-of-award-winners-presentation-orange-purple-cap-mvp-sixes-fours-catch-emerging-player-fairplay/article66904093.ece |website=SportStar |date=29 May 2023 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529222529/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-2023-full-list-of-award-winners-presentation-orange-purple-cap-mvp-sixes-fours-catch-emerging-player-fairplay/article66904093.ece |url-status=live }}</ref>
+
+==Notes==
+{{notelist|30em}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Cricket}}
+* {{Official website|https://www.iplt20.com/}}
+* [https://www.espncricinfo.com/series/indian-premier-league-2023-1345038 IPL 16 on ESPNcricinfo]
+
+{{2023 Indian Premier League}}
+{{Indian Premier League}}
+
+{{DEFAULTSORT:Indian Premier League, 2023}}
+[[Category:2023 Indian Premier League]]
+[[Category:2023 in Indian cricket]]
+[[Category:Domestic cricket competitions in 2022–23]]

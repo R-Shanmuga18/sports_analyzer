@@ -1,0 +1,2042 @@
+{{short description|Cricket tournament}}
+{{good article}}
+{{Use dmy dates|date=November 2023}}
+{{Use Indian English|date=November 2023}}
+{{Infobox cricket tournament
+| name = 2024 Indian Premier League 
+| image = TATA_IPL_2024_Logo.png
+| fromdate = 22 March
+| todate = 26 May 2024
+| administrator = [[Board of Control for Cricket in India]] (BCCI)
+| cricket format = [[Twenty20]]
+| tournament format = [[Tournament#Group stage|Group stage]] and [[Playoffs]]
+| participants = 10
+| matches = 74
+| champions = [[Kolkata Knight Riders]]
+| count = 3
+| runner up = [[Sunrisers Hyderabad]]
+| most valuable player = [[Sunil Narine]] ([[Kolkata Knight Riders]])
+| most runs = [[Virat Kohli]] ([[Royal Challengers Bengaluru]]) (741)
+| most wickets = [[Harshal Patel]] ([[Punjab Kings]]) (24)
+| website = {{URL|iplt20.com}}
+| previous_year = 2023
+| previous_tournament = 2023 Indian Premier League 
+| next_year = 2025
+| next_tournament = 2025 Indian Premier League
+}}
+{{2024 Indian Premier League Teams|main=y}}
+The '''2024 Indian Premier League''' (also known as '''IPL 17''' and branded as '''TATA IPL 2024''') was the 17th edition of the [[Indian Premier League]]. The tournament featured ten teams competing in 74 matches from 22 March to 26 May 2024. It was held across 13 cities in India, with [[Chennai]] hosting the opening ceremony and the final as the defending champions.
+
+In the [[2024 Indian Premier League final|final]], [[Kolkata Knight Riders]] defeated [[Sunrisers Hyderabad]] by 8 wickets to win their third IPL title.
+
+== Background ==
+The [[Indian Premier League]] is a franchise [[Twenty20]] [[cricket]] league held in India, organized by the [[Board of Control for Cricket in India]]. It is held annually since the [[2008 Indian Premier League|first edition in 2008]]. [[Chennai Super Kings]] were the defending champions, having won their fifth title in the [[2023 Indian Premier League|previous season]] after beating [[Gujarat Titans]] in the [[2023 Indian Premier League final|final]].<ref>{{Cite web |last=Sportstar |first=Team |date=2023-05-29 |title=Gujarat Titans records highest team total in IPL final against CSK |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/gujarat-titans-highest-total-ipl-final-csk-vs-gt-ipl-2023-final-records-stats/article66909099.ece |access-date=2024-09-16 |publisher=[[Sportstar]] |language=en |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601005035/https://sportstar.thehindu.com/cricket/ipl/ipl-news/gujarat-titans-highest-total-ipl-final-csk-vs-gt-ipl-2023-final-records-stats/article66909099.ece |url-status=live }}</ref><ref>{{Cite web |last=Sportstar |first=Team |date=2023-05-29 |title=CSK vs GT: Chennai Super Kings wins IPL 2023 final with Jadeja's last ball four, equals MI with fifth title; Dhoni equals Rohit |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |access-date=2024-09-16 |publisher=[[Sportstar]] |language=en |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529213445/https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-wins-ipl-2023-final-vs-gt-chennai-super-kings-fifth-title-ms-dhoni-equals-mumbai-indians/article66909605.ece |url-status=live }}</ref>
+
+=== Format ===
+The format returned to the same as 2022, unlike 2023, with the group order being re-shuffled. Each team played twice against the teams in their group and the team in the same row in the other group, and once against the remaining four teams in the other group.<ref>{{Cite web |title=IPL unveils new format for 2022, with two groups and seedings |url=https://www.espncricinfo.com/story/ipl-2022-unveils-new-format-with-two-groups-and-seedings-1302674 |access-date=2024-05-03 |publisher=[[ESPNcricinfo]] |language=en |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204195821/https://www.espncricinfo.com/story/ipl-2022-unveils-new-format-with-two-groups-and-seedings-1302674 |url-status=live }}</ref><ref name="groups">{{Cite web |date=2023-10-07 |title=IPL 2024 Groups List: All Teams Matchup {{!}} Group A, Group B - ICC Cricket World Cup |url=https://icccworldcup.com/ipl-groups-list/ |access-date=2024-03-30 |language=en-US |archive-date=30 March 2024 |archive-url=https://web.archive.org/web/20240330073448/https://icccworldcup.com/ipl-groups-list/ |url-status=live }}</ref> After the [[Tournament#Group stage|group stage]], the top four teams based on aggregate points qualified for the [[Page playoff system|playoffs]]. In this stage, the top two teams competed with each other (in a match titled "[[2024 Indian Premier League#Qualifier 1|Qualifier 1]]"), as did the remaining two teams (in a match titled "[[2024 Indian Premier League#Eliminator|Eliminator]]"). While the winner of Qualifier 1 directly qualified for the final match, the losing team had another chance to qualify for the final match by competing against the winning team of the Eliminator match (in a match titled "[[2024 Indian Premier League#Qualifier 2|Qualifier 2]]"). The winner of this subsequent Qualifier 2 match advanced to the final match.<ref>{{cite news|url=https://www.financialexpress.com/sports/ipl/ipl-2024-whats-the-playoff-format-know-all-about-ipl-17-qualifiers-eliminators-and-grand-finale-bkg/3432883/|title=IPL 2024: What's the playoff format? Know all about IPL 17 qualifiers, eliminators and grand finale|date=21 March 2014|access-date=1 April 2024|work=Financial Express}}</ref>
+
+{| class="wikitable"
+|-
+! style="width:50%;"| Group A !! style="width:50%;"| Group B
+|-
+| [[Mumbai Indians]] || [[Sunrisers Hyderabad]]
+|-
+|[[Kolkata Knight Riders]] || [[Royal Challengers Bengaluru]] 
+|-
+| [[Rajasthan Royals]] || [[Punjab Kings]]
+|-
+| [[Delhi Capitals]] || [[Gujarat Titans]]
+|-
+| [[Lucknow Super Giants]] || [[Chennai Super Kings]]
+|}
+
+==== Rule changes ====
+Bowlers could now bowl two [[Bouncer (cricket)|bouncers]] per over, as trialled in India's domestic T20 tournament, the [[2023–24 Syed Mushtaq Ali Trophy]].<ref>{{cite news|title=IPL to allow two bouncers per over|url=https://www.espncricinfo.com/story/ipl-2024-to-allow-two-bouncers-per-over-1413422|access-date=1 April 2024|date=19 December 2023|work=ESPNcricinfo|archive-date=18 December 2023|archive-url=https://web.archive.org/web/20231218233215/https://www.espncricinfo.com/story/ipl-2024-to-allow-two-bouncers-per-over-1413422|url-status=live}}</ref>
+
+=== Schedule ===
+There was a possibility of the tournament being held abroad due to a possibility of inadequate security, as a result of a clash with [[2024 Indian general election|Lok Sabha Election 2024]]. On 14 February 2024, the chairman of the Indian Premier League announced that the tournament would take place in India and that the schedule would be finalized after a discussion with the [[Government of India|Indian government]] and other agencies, with the allocation of matches to states to depend on the election schedule to be released by the [[Election Commission of India]].<ref>{{cite news|title='IPL most likely to start from...': Chairman Arun Dhumal says BCCI to work with government over fixtures|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-most-likely-to-start-from-chairman-arun-dhumal-says-bcci-to-work-with-government-over-fixtures/articleshow/107691648.cms|access-date=15 February 2024|newspaper=[[The Times of India]]|date=14 February 2024}}</ref><ref>{{cite news|title=IPL 2024 to stay in India, assures IPL chairman Arun Dhumal|url=https://www.insidesport.in/cricket/ipl-2024-to-stay-in-india-confirms-ipl-chairman-arun-dhumal/|access-date=15 March 2024|work=InsideSport|date=14 February 2024|archive-date=24 February 2024|archive-url=https://web.archive.org/web/20240224185218/https://www.insidesport.in/cricket/ipl-2024-to-stay-in-india-confirms-ipl-chairman-arun-dhumal/|url-status=live}}</ref> On 21 February, it was announced that the schedule would be announced in two halves as the dates of the elections has not been confirmed till then.<ref>{{cite news|title="IPL 2024 schedule will be announced in 2 halves" - Chairman Arun Dhumal provides a crucial update regarding the upcoming season|url=https://www.sportskeeda.com/cricket/news-ipl-2024-schedule-will-announced-two-halves-chairman-arun-dhumal-provides-crucial|access-date=1 March 2024|date=21 February 2024|work=Sportskeeda|archive-date=21 February 2024|archive-url=https://web.archive.org/web/20240221174350/https://www.sportskeeda.com/cricket/news-ipl-2024-schedule-will-announced-two-halves-chairman-arun-dhumal-provides-crucial|url-status=live}}</ref>
+
+A part of the schedule of the season's fixtures was announced on 22 February 2024 which included the schedule for the first 17 days, consisting of 21 matches.<ref>{{cite news|title=IPL 2024 Schedule: Match Dates, Teams, Stadium, Venues and Other Details|url=https://www.jagranjosh.com/general-knowledge/ipl-2024-schedule-match-fixtures-teams-stadium-and-venue-1708589392-1|work=[[Jagran Josh]]|access-date=22 March 2024|date=21 February 2024|archive-date=21 March 2024|archive-url=https://web.archive.org/web/20240321115216/https://www.jagranjosh.com/general-knowledge/ipl-2024-schedule-match-fixtures-teams-stadium-and-venue-1708589392-1|url-status=live}}</ref> The opening match of the tournament was to be played on 22 March at the [[M. A. Chidambaram Stadium]] in [[Chennai]] between defending champions [[Chennai Super Kings]] and the [[Royal Challengers Bengaluru]].<ref name="Sched">{{cite news|title=IPL 2024 to kick off in Chennai on March 22|url=https://www.cricbuzz.com/cricket-news/129574/ipl-2024-to-kick-off-in-chennai-on-march-22|access-date=22 March 2024|work=[[Cricbuzz]]|date=21 February 2024|archive-date=25 February 2024|archive-url=https://web.archive.org/web/20240225073529/https://www.cricbuzz.com/cricket-news/129574/ipl-2024-to-kick-off-in-chennai-on-march-22|url-status=live}}</ref> The remaining fixtures were announced on 25 March with the last group match to be played between [[Rajasthan Royals]] and [[Kolkata Knight Riders]] on 19 May at [[Assam Cricket Association Stadium, Guwahati|ACA Stadium]], [[Guwahati]].<ref>{{cite news|title=IPL 2024 Full Schedule: Fixtures, date and time final in Chennai|url=https://www.indiatoday.in/sports/cricket/story/ipl-2024-full-schedule-phase-two-playoffs-final-chennai-chepauk-2519198-2024-03-25|access-date=25 March 2024|work=[[India Today]]|date=25 March 2024|archive-date=25 March 2024|archive-url=https://web.archive.org/web/20240325123242/https://www.indiatoday.in/sports/cricket/story/ipl-2024-full-schedule-phase-two-playoffs-final-chennai-chepauk-2519198-2024-03-25|url-status=live}}</ref> It was announced that both Qualifier 1 and Eliminator would be played at the [[Narendra Modi Stadium]], [[Ahmedabad]] from 21 to 22 May, and that Qualifier 2 and final would be played in Chennai, with the venue hosting its third IPL final after [[2011 Indian Premier League final|2011]] and [[2012 Indian Premier League final|2012]].<ref>{{cite news|title=IPL 2024 Schedule: Chennai to host Qualifier 2 and final on May 24 and 26; Qualifier 1 and Eliminator in Ahmedabad|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-schedule-chennai-to-host-qualifier-2-and-final-on-may-24-and-26-qualifier-1-and-eliminator-in-ahmedabad/articleshow/108767747.cms|access-date=25 March 2024|newspaper=[[The Times of India]]|date=25 March 2024|archive-date=25 March 2024|archive-url=https://web.archive.org/web/20240325122127/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-schedule-chennai-to-host-qualifier-2-and-final-on-may-24-and-26-qualifier-1-and-eliminator-in-ahmedabad/articleshow/108767747.cms|url-status=live}}</ref>
+
+=== Marketing ===
+The [[Tata Group]] renewed their contract as the title sponsors of the [[Indian Premier League]] for a tenure of 5 years (2024–28) for {{INRConvert|2500|c|lk=on}} — the highest-ever sponsorship amount in the history of the league. The TATA Group previously held the title sponsorship rights for the IPL in [[2022 Indian Premier League|2022]] and [[2023 Indian Premier League|2023]].<ref>{{cite news|title=TATA Group secures title sponsorship rights for IPL 2024-28|work=[[Indian Premier League]]|url=https://www.iplt20.com/news/3986/tata-group-secures-title-sponsorship-rights-for-ipl-2024-28|access-date=1 March 2024|date=20 January 2024|archive-date=21 February 2024|archive-url=https://web.archive.org/web/20240221053306/https://www.iplt20.com/news/3986/tata-group-secures-title-sponsorship-rights-for-ipl-2024-28|url-status=live}}</ref> The advertising campaign for the 2024 IPL consisted of 18 sponsors and 250 advertisers including most notably — [[Dream11]], [[Tata Motors]], [[HDFC Bank]], [[SBI Mutual Fund|SBI]], [[Thums Up]], [[Pepsi]], [[Parle Products]], [[Google Pixel]], [[Haier]], and [[Vodafone India|Vodafone]].<ref>{{Cite web |date=2024-03-21 |title=IPL 2024: JioCinema Ropes in 18 Sponsors & 250 Advertisers |url=https://www.thehindubusinessline.com/news/sports/jiocinema-ropes-in-18-sponsors-and-250-advertisers-for-ipl-2024/article67975169.ece |access-date=2024-10-19 |publisher=[[Business Line]] |language=en}}</ref><ref>{{Cite web |last=Samosa |first=Social |title=IPL 2024: A comprehensive list of sponsors |url=https://www.socialsamosa.com/samosa-snippets/ipl-2024-sponsors-list-4445778 |access-date=2024-10-19 |language=en |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418145038/https://www.socialsamosa.com/samosa-snippets/ipl-2024-sponsors-list-4445778 |url-status=live }}</ref><ref>{{Cite news |date=2024-03-21 |title=JioCinema ropes in 18 sponsors for IPL 2024 |url=https://economictimes.indiatimes.com/industry/media/entertainment/jiocinema-ropes-in-18-sponsors-for-ipl-2024/articleshow/108670782.cms?from=mdr |access-date=2024-10-19 |work=The Economic Times |issn=0013-0389}}</ref><ref>{{Cite web |last=Verma |first=Aman |date=2024-03-22 |title=Full List of IPL 2024 sponsors |url=https://www.insidesport.in/cricket/full-list-of-ipl-2024-sponsors/ |access-date=2024-10-19 |publisher=Inside Sport India |language=en}}</ref>
+
+=== Broadcasting ===
+{{Further information|Indian Premier League#Broadcasting}}
+The media rights for 2023 to 2027 seasons were acquired by [[Viacom18]] and [[Star Sports (Indian TV network)|Star Sports]] for {{INRConvert|48390|c}},<ref>{{Cite web |date=2022-06-20 |title=IPL Media Rights: BCCI hits a six while Viacom18 and Star India scramble for the ball |url=https://www.financialexpress.com/business/brandwagon-ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball-2566141/lite/ |access-date=2024-10-19 |publisher=[[The Financial Express (India)|The Financial Express]] |language=en |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520160243/https://www.financialexpress.com/business/brandwagon-ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball-2566141/lite/ |url-status=live }}</ref> giving a valuation of {{INRConvert|104|c}} for each IPL match.<ref>{{Cite news |date=2022-06-14 |title=IPL Media Rights: At Rs 104 crore, IPL overtakes EPL in per match value |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-at-rs-104-crore-ipl-overtakes-epl-in-per-match-value/articleshow/92169438.cms |access-date=2024-10-19 |work=The Times of India |issn=0971-8257 |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520155935/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-at-rs-104-crore-ipl-overtakes-epl-in-per-match-value/articleshow/92169438.cms |url-status=live }}</ref> [[Star Sports (Indian TV network)|Star Sports]] broadcast the season on TV, while [[Viacom18]] streamed it through [[JioCinema]].<ref>{{cite news|url=https://www.deccanherald.com/opinion/the-business-of-ipl-is-in-playing-the-long-game-2946154|title=The business of IPL is in playing the long game|newspaper=[[Hindustan Times]]|date=21 March 2024|access-date=31 March 2024|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407174741/https://www.deccanherald.com/opinion/the-business-of-ipl-is-in-playing-the-long-game-2946154|url-status=live}}</ref> Star Sports reported a 16.8 crore viewership on the opening day,<ref>{{Cite web |date=2024-03-28 |title=IPL 2024 opening day draws record TV viewership of 16.8 crore, highest watch time ever |url=https://www.thehindubusinessline.com/news/sports/ipl-2024-opening-day-draws-record-tv-viewership-of-168-crore-highest-watch-time-ever/article68001179.ece |access-date=2024-10-19 |publisher=[[Business Line]] |language=en}}</ref> highest-ever for the first day of any season.<ref>{{Cite news |last=PTI |date=2024-03-28 |title=IPL 2024's opening day registers record-breaking viewership: Broadcaster |url=https://www.thehindu.com/sport/cricket/ipl-17s-opening-day-registers-record-breaking-viewership-broadcaster/article68001489.ece |access-date=2024-10-19 |work=The Hindu |language=en-IN |issn=0971-751X |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403141709/https://www.thehindu.com/sport/cricket/ipl-17s-opening-day-registers-record-breaking-viewership-broadcaster/article68001489.ece |url-status=live }}</ref> The 2024 IPL season had a total viewership of 546 million in Star Sports<ref>{{Cite news |last=Farooqui |first=Javed |date=2024-05-27 |title=IPL 2024 audience reach on TV, digital platforms hits a record |url=https://economictimes.indiatimes.com/industry/media/entertainment/media/ipl-2024-audience-reach-on-tv-digital-platforms-hits-a-record/articleshow/110472200.cms?from=mdr |access-date=2024-10-19 |work=The Economic Times |issn=0013-0389}}</ref> and 620 million in JioCinema,<ref>{{Cite web |last=Sim |first=Josh |date=2024-05-30 |title=IPL 2024 scores 620m viewers for JioCinema |url=https://www.sportspromedia.com/news/ipl-2024-season-jiocinema-viacom-18-viewership-streaming/ |access-date=2024-10-19 |publisher=[[SportsPro]] |language=en-GB}}</ref> registering a 18% increase from the previous edition.<ref>{{Cite news |date=2024-04-25 |title=IPL 2024 TV viewership on an upward swing |url=https://www.hindustantimes.com/cricket/ipl-2024-tv-viewership-on-an-upward-swing-101714062632525.html |access-date=2024-10-19 |work=[[Hindustan Times]]}}</ref>
+
+== Teams ==
+The same 10 teams from the [[2023 Indian Premier League|previous season]] returned, with few changes to the team personnel.
+
+{| class="wikitable"
+! scope="col" | Group || Team || [[2023 Indian Premier League|2023]] performance<ref>{{Cite web |title=IPL {{!}} 2023 Indian Premier League {{!}} Live Score, Schedule, News |url=https://www.espncricinfo.com/series/indian-premier-league-2023-1345038 |access-date=2024-09-16 |publisher=[[ESPNcricinfo]] |language=en |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522175546/https://www.espncricinfo.com/series/indian-premier-league-2023-1345038 |url-status=live }}</ref> || Head coach<ref name="Cap">{{cite news|url=https://www.jagranjosh.com/general-knowledge/ipl-captains-list-2024-1708608615-1|title=IPL All Teams Captains 2024: Complete List of Indian Premier League Captains and Coaches|work=Jagran Josh|date=23 March 2024|access-date=1 April 2024|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322063920/https://www.jagranjosh.com/general-knowledge/ipl-captains-list-2024-1708608615-1|url-status=live}}</ref> || Captain<ref name="Cap"/>
+|-
+! scope="rowgroup" rowspan="5" | A
+| [[2024 Delhi Capitals season|Delhi Capitals]] || {{center|9th}} ||  [[Ricky Ponting]] ||  [[Rishabh Pant]]
+|-
+| [[2024 Kolkata Knight Riders season|Kolkata Knight Riders]] || {{center|7th}} ||  [[Chandrakant Pandit]] ||  [[Shreyas Iyer]]
+|-
+| [[2024 Lucknow Super Giants season|Lucknow Super Giants]] || {{center|4th}} ||  [[Justin Langer]] ||  [[KL Rahul]]
+|-
+| [[2024 Mumbai Indians season|Mumbai Indians]] || {{center|3rd}} ||  [[Mark Boucher]] ||  [[Hardik Pandya]]
+|-
+| [[2024 Rajasthan Royals season|Rajasthan Royals]] || {{center|5th}} ||  [[Kumar Sangakkara]] ||  [[Sanju Samson]]
+|-
+! scope="rowgroup" rowspan="5" | B
+| [[2024 Chennai Super Kings season|Chennai Super Kings]] || {{center|'''Champions'''}} ||  [[Stephen Fleming]] ||  [[Ruturaj Gaikwad]]
+|-
+| [[2024 Gujarat Titans season|Gujarat Titans]] || {{center|'''Runner-up'''}} ||  [[Ashish Nehra]] ||  [[Shubman Gill]]
+|-
+| [[2024 Punjab Kings season|Punjab Kings]] || {{center|8th}} ||  [[Trevor Bayliss]] ||  [[Shikhar Dhawan]]
+|-
+| [[2024 Royal Challengers Bengaluru season|Royal Challengers Bengaluru]]|| {{center|6th}} ||  [[Andy Flower]] ||  [[Faf du Plessis]]
+|-
+| [[2024 Sunrisers Hyderabad season|Sunrisers Hyderabad]] || {{center|10th}} ||  [[Daniel Vettori]] ||  [[Pat Cummins]]
+|}
+
+=== Personnel changes ===
+{{Main|List of 2024 Indian Premier League personnel changes}}
+The ten franchises retained 173 players for the 2024 IPL season, and seven players were traded across teams before the auction.<ref>{{cite news|title=IPL 2024 Player Retentions List|url=https://www.iplt20.com/news/3981/ipl-2024-player-retentions-list|work=[[Indian Premier League]]|access-date=1 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406112243/https://www.iplt20.com/news/3981/ipl-2024-player-retentions-list|url-status=live}}</ref> On 11 December 2023, the IPL governing council released a list of 333 players, including 214 Indian and 119 foreign players who were available for the auction.<ref>{{cite news|title=IPL 2024 Player Auction list announced|url=https://www.iplt20.com/news/3983/ipl-2024-player-auction-list-announced|work=[[Indian Premier League]]|access-date=1 April 2024|archive-date=31 March 2024|archive-url=https://web.archive.org/web/20240331170104/https://www.iplt20.com/news/3983/ipl-2024-player-auction-list-announced|url-status=live}}</ref> The auction was held outside India for the first time, at the [[Coca-Cola Arena]], [[Dubai]], [[United Arab Emirates]] on 19 December 2023.<ref>{{cite news|title=IPL 2024 auction scheduled for December 19 in Dubai|url=https://www.espncricinfo.com/story/ipl-2024-auction-scheduled-for-december-19-in-dubai-1405529|work=ESPNcricinfo|date=19 December 2023|access-date=1 April 2024|archive-date=16 December 2023|archive-url=https://web.archive.org/web/20231216154405/https://www.espncricinfo.com/story/ipl-2024-auction-scheduled-for-december-19-in-dubai-1405529|url-status=live}}</ref><ref>{{cite news|url=https://www.hindustantimes.com/cricket/ipl-auction-2024-live-streaming-star-sports-jio-cinema-for-tv-online-when-and-where-to-watch-ipl-2024-auction-live-101702918288253.html|title=IPL 2024 Auction Live Streaming: When and where to watch IPL Auction live on TV and online|newspaper=[[Hindustan Times]]|date=19 December 2023|access-date=1 April 2024|archive-date=11 January 2024|archive-url=https://web.archive.org/web/20240111143729/https://www.hindustantimes.com/cricket/ipl-auction-2024-live-streaming-star-sports-jio-cinema-for-tv-online-when-and-where-to-watch-ipl-2024-auction-live-101702918288253-amp.html|url-status=live}}</ref> 72 players were sold at the auction for a spend of {{INRconvert|230|c}} including 30 overseas players. [[Mitchell Starc]] became the most expensive player in the history of [[Indian Premier League|IPL]] when he was bought by [[Kolkata Knight Riders]] for {{INRConvert|24.75|c|lk=on}}, surpassing {{INRConvert|20.50|c|lk=on}} paid by [[Sunrisers Hyderabad]] for [[Pat Cummins]] earlier in the same auction, and {{INRConvert|18.50|c|lk=on}} paid by [[Punjab Kings]] for [[Sam Curran]] in the [[List of 2023 Indian Premier League personnel changes|2023 auction]].<ref>{{cite news|url=https://www.espncricinfo.com/story/ipl-2024-auction-mitchell-starc-travis-head-rachin-ravindra-shardul-thakur-go-under-the-hammer-1413456|title=Starc shatters Cummins' record for most expensive player at IPL auction|work=[[ESPNcricinfo]]|date=19 December 2023|access-date=1 April 2024|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407073450/https://www.espncricinfo.com/story/ipl-2024-auction-mitchell-starc-travis-head-rachin-ravindra-shardul-thakur-go-under-the-hammer-1413456|url-status=live}}</ref>
+
+== Venues ==
+The league stage was played at 13 stadiums across India. The opening match was played at [[M. A. Chidambaram Stadium|M.A. Chidambaram Stadium]], [[Chennai]]. [[Delhi Capitals]] played their first two home games at the [[ACA–VDCA Cricket Stadium|ACA-VDCA Cricket Stadium]] due to the [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]] in Delhi being unavailable immediately after hosting the [[2024 Women's Premier League (cricket)|2024 Women's Premier League]]. The [[Assam Cricket Association Stadium, Guwahati|ACA Cricket Stadium]] and the [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]] hosted two home matches each for [[Rajasthan Royals]] and [[Punjab Kings]] respectively.<ref>{{cite web|url=https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024/matches|access-date=1 April 2024|title=Fixtures and schedule, Indian Premier League 2024|work=[[Cricbuzz]]|archive-date=25 March 2024|archive-url=https://web.archive.org/web/20240325152953/https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024/matches|url-status=live}}</ref> The first two matches of the playoffs were played in [[Narendra Modi Stadium|Ahmedabad]] with Chennai hosting the final leg of the playoffs including the final.<ref name=playoffs>{{cite web|title=IPL playoffs in Ahmedabad and Chennai; Chepauk to host final on May 26|url=https://m.cricbuzz.com/cricket-news/129987/ipl-playoffs-in-ahmedabad-and-chennai-chepauk-to-host-final-on-may-26|access-date=1 April 2024|date=25 March 2024|work=[[Cricbuzz]]|archive-date=25 March 2024|archive-url=https://web.archive.org/web/20240325124104/https://m.cricbuzz.com/cricket-news/129987/ipl-playoffs-in-ahmedabad-and-chennai-chepauk-to-host-final-on-may-26|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:center;margin:auto;font-size:85%;"
+! [[Ahmedabad]] || [[Bengaluru]] || [[Chennai]] || [[Delhi]] || [[Dharamshala]]
+|-
+| [[Gujarat Titans]] || [[Royal Challengers Bengaluru]] || [[Chennai Super Kings]] || [[Delhi Capitals]] || [[Punjab Kings]]
+|-
+| [[Narendra Modi Stadium]] || [[M. Chinnaswamy Stadium]] || [[M. A. Chidambaram Stadium]] || [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]] || [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]]
+|-
+| Capacity: 132,000 || Capacity: 40,000 || Capacity: 39,000 || Capacity: 35,200 || Capacity: 21,200
+|-
+| [[File:Narendra Modi Stadium Border Gavaskar Trophy 2023.jpg|150px]] || [[File:Chinnaswamy Stadium.jpg|150px]] || [[File:M.A.Chidambaram Stadium before IND vs AUS 3rd ODI 2023.jpg|150px]] || [[File:India vs Afghanistan on 11th October 2023.jpg|150px]] || [[File:Dharamshala stadium,himachal pradesh.jpg|150px]]
+|-
+! [[Guwahati]] || colspan="3" rowspan="10" | {{location map+ |India |float=center|caption=|width=500|places=
+{{location map~ |India |lat=23.05 |long=72.35 |label=[[Ahmedabad]] |position=left}}
+{{Location map~ |India |lat=12.96 |long=77.56 |label=[[Bengaluru]] |position=left}}
+{{location map~ |India |lat=13.08 |long=80.27 |label=[[Chennai]] |position=right}}
+{{Location map~ |India |lat=28.61 |long=77.23 |label=[[Delhi]] |position=left}}
+{{Location map~ |India |lat=32.20 |long=76.33 |label=[[Dharamshala]] |position=left}}
+{{Location map~ |India |lat=26.13 |long=91.73 |label=[[Guwahati]] |position=right}}
+{{Location map~ |India |lat=17.40 |long=78.45 |label=[[Hyderabad]] |position=left}}
+{{location map~ |India |lat=26.92 |long=75.82 |label=[[Jaipur]] |position=left}}
+{{Location map~ |India |lat=22.5646 |long=88.3433 |label=[[Kolkata]] |position=right}}
+{{location map~ |India |lat=26.84 |long=80.94 |label=[[Lucknow]] |position=right}}
+{{Location map~ |India |lat=30.7789 |long=76.7242 |label=[[Mullanpur Garibdass|Mullanpur]] |position=right}}
+{{Location map~ |India |lat=18.97 |long=72.82 |label=[[Mumbai]] |position=left}}
+{{location map~ |India |lat=17.68 |long=83.21 |label=[[Visakhapatnam]] |position=right}}
+}} || [[Hyderabad]]
+|-
+| [[Rajasthan Royals]] || [[Sunrisers Hyderabad]]
+|-
+| [[Assam Cricket Association Stadium, Guwahati|ACA Cricket Stadium]] || [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]]
+|-
+| Capacity: 46,000 || Capacity: 55,000
+|-
+| [[File:Barsapara Cricket Stadium match under floodlights.jpg|150px]] || [[File:Uppal stadium Rajiv Gandhi International Cricket Stadium.jpg|150px]]
+|-
+! [[Jaipur]] || [[Kolkata]]
+|-
+| [[Rajasthan Royals]] || [[Kolkata Knight Riders]]
+|-
+| [[Sawai Mansingh Stadium]] || [[Eden Gardens]]
+|-
+| Capacity: 25,000 || Capacity: 68,000
+|-
+| [[File:Sawai-Mansingh-Stadium-Jaipur.jpg|150px]] || [[File:ইডেন গার্ডেনে বাংলাদেশ ও পাকিস্তানের খেলা ৫.jpg|150px]]
+|-
+! [[Lucknow]] || [[Mullanpur Garibdass|Mullanpur]] || [[Mumbai]] || colspan="2" | [[Visakhapatnam]]
+|-
+| [[Lucknow Super Giants]] || [[Punjab Kings]] || [[Mumbai Indians]] || colspan="2" | [[Delhi Capitals]]
+|-
+| [[Ekana Cricket Stadium|BRSABV Ekana Cricket Stadium]] || [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]] || [[Wankhede Stadium]] || colspan="2" | [[ACA–VDCA Cricket Stadium]]
+|-
+| Capacity: 50,000 || Capacity: 38,000<ref>{{cite news|date=26 February 2024|title=IPL 2024: Punjab Kings to play home games at newly-developed stadium in Mullanpur|url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/punjab-kings-home-games-ipl-2024-new-stadium-mullanpur-mohali-inauguration-march-23-pbks/article67888549.ece|access-date=27 February 2024|work=[[Sportstar]]|archive-date=27 February 2024|archive-url=https://web.archive.org/web/20240227023030/https://sportstar.thehindu.com/cricket/ipl/ipl-news/punjab-kings-home-games-ipl-2024-new-stadium-mullanpur-mohali-inauguration-march-23-pbks/article67888549.ece|url-status=live}}</ref> || Capacity: 33,108 || colspan="2" | Capacity: 27,500
+|-
+| [[File:Ekana cricket stadium .jpg|150px]] ||  || [[File:Wankhede ICC WCF.jpg|150px]] || colspan="2" | [[File:Vizag2ndInnings-2016Nov21.jpg|150px]]
+|}
+
+== Opening ceremony ==
+{{External media|video1=[https://www.jiocinema.com/sports/cricket/tata-ipl-2024-full-replay-opening-ceremony/3932910 IPL 2024 – Opening ceremony] on [[JioCinema]] {{Subscription required}}.|width=250px|float=right}}
+In January 2024, the BCCI invited bids for staging the [[opening ceremony]].<ref>{{cite web|title=BCCI announces the release of Request for Proposals for staging the Opening Ceremony for the Indian Premier league Season 2024|url=https://www.iplt20.com/news/3985/bcci-announces-the-release-of-request-for-proposals-for-staging-the-opening-ceremony-for-the-indian-premier-league-season-2024|publisher=[[IPLT20.com]]|access-date=29 March 2024|archive-date=29 March 2024|archive-url=https://web.archive.org/web/20240329132103/https://www.iplt20.com/news/3985/bcci-announces-the-release-of-request-for-proposals-for-staging-the-opening-ceremony-for-the-indian-premier-league-season-2024|url-status=live}}</ref> The following month, Kasi Viswanathan, the CEO of [[Chennai Super Kings]] stated that the opening ceremony would be held in Chennai by virtue of being the home of the defending champions.<ref name="Sched"/> The opening ceremony took place on 22 March at the [[M. A. Chidambaram Stadium]] in [[Chennai]] and was followed by the opening match between [[Chennai Super Kings]] and [[Royal Challengers Bengaluru]].<ref>{{Cite web |date=2024-02-21 |title=IPL 2024 to kick off in Chennai on March 22 |url=https://www.cricbuzz.com/cricket-news/129574/ipl-2024-to-kick-off-in-chennai-on-march-22 |access-date=2024-10-24 |publisher=[[Cricbuzz]] |language=en}}</ref>
+
+Actors [[Tiger Shroff]] and [[Akshay Kumar]] promoted and performed for a song sequence from their film ''[[Bade Miyan Chote Miyan (2024 film)|Bade Miyan Chote Miyan]]''. Singer [[Sonu Nigam]] delivered a rendition of "[[Vande Mataram]]", followed by [[A. R. Rahman]] and [[Mohit Chauhan]]'s joint-performance of "Maa Tujhe Salaam", and solo performances of "[[Jai Ho (song)|Jai Ho]]" and "[[Masakali]]" respectively.<ref>{{cite news|date=22 March 2024|title=IPL 2024 Opening Ceremony highlights: Akshay Kumar, Tiger Shroff give epic performance, fans hail AR Rahman's medley|url=https://www.hindustantimes.com/cricket/ipl-opening-ceremony-2024-live-updates-akshay-kumar-tiger-shroff-ar-rahman-sonu-nigam-bollywood-celebs-101711077701713.html|access-date=22 March 2024|newspaper=[[Hindustan Times]]|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322041419/https://www.hindustantimes.com/cricket/ipl-opening-ceremony-2024-live-updates-akshay-kumar-tiger-shroff-ar-rahman-sonu-nigam-bollywood-celebs-101711077701713.html|url-status=live}}</ref><ref>{{cite news|title=Watch: IPL 2024 begins with Bollywood-inspired opening ceremony|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-begins-with-bollywood-inspired-opening-ceremony/articleshow/108714044.cms|access-date=29 March 2024|newspaper=[[The Times of India]]|date=22 March 2024}}</ref> Singer [[Neeti Mohan]] also performed at the event.<ref>{{cite news|last1=Chatterjee|first1=Sanghamitra|title=IPL opening ceremony 2024: Akshay Kumar and Tiger Shroff shake a leg; Sonu Nigam and A.R. Rahman enthral audience|url=https://www.telegraphindia.com/entertainment/ipl-opening-ceremony-2024-akshay-kumar-and-tiger-shroff-shake-a-leg-sonu-nigam-and-a-r-rahman-enthral-audience/cid/2008737|access-date=29 March 2024|work=[[The Telegraph (India)|The Telegraph]]|date=23 March 2024|archive-date=29 March 2024|archive-url=https://web.archive.org/web/20240329115050/https://www.telegraphindia.com/entertainment/ipl-opening-ceremony-2024-akshay-kumar-and-tiger-shroff-shake-a-leg-sonu-nigam-and-a-r-rahman-enthral-audience/cid/2008737|url-status=live}}</ref>
+
+== League stage ==
+=== Points table ===
+{{2024 Indian Premier League Points table}}
+
+=== Match summary ===
+{{Indian Premier League results summary|mode=progression/summary|dls=Y
+<!--| Home team | Away team | result | margin | DLS method? -->
+
+| CSK | RCB | H | 6W |
+| PBKS| DC | H | 4W | 
+| KKR | SRH | H | 4R |
+| RR | LSG | H | 20R |
+| GT | MI | H | 6R |
+| RCB | PBKS | H | 4W |
+| CSK | GT | H | 63R |
+| SRH | MI | H | 31R |
+| RR | DC | H | 12R |
+| RCB | KKR | A | 7W |
+
+| LSG | PBKS | H | 21R |
+| GT | SRH | H | 7W |
+| DC | CSK | H | 20R |
+| MI | RR | A | 6W |
+| RCB | LSG | A | 28R |
+| DC | KKR | A | 106R|
+| GT | PBKS | A | 3W |
+| SRH | CSK | H | 6W |
+| RR | RCB | H | 6W |
+| MI | DC | H | 29R |
+
+| LSG | GT | H | 33R |
+| CSK | KKR | H | 7W |
+| PBKS | SRH | A | 2R |
+| RR | GT | A | 3W |
+| MI | RCB | H | 7W |
+| LSG | DC | A | 6W |
+| PBKS | RR | A | 3W |
+| KKR | LSG | H | 8W |
+| MI | CSK | A | 20R |
+| RCB | SRH | A | 25R |
+
+| KKR | RR | A | 2W |
+| GT | DC | A | 6W |
+| PBKS| MI | A | 9R |
+| LSG | CSK | H | 8W |
+| DC | SRH | A | 67R |
+| KKR | RCB | H | 1R |
+| PBKS| GT | A | 3W |
+| RR | MI | H | 9W |
+| CSK | LSG | A | 6W |
+| DC | GT | H | 4R |
+
+| SRH | RCB | A | 35R |
+| KKR | PBKS | A | 8W |
+| DC | MI | H | 10R |
+| LSG | RR | A | 7W |
+| GT | RCB | A | 9W |
+| CSK | SRH | H | 78R |
+| KKR | DC | H | 7W |
+| LSG | MI | H | 4W |
+| CSK | PBKS | A | 7W |
+| SRH | RR | H | 1R |
+
+| MI | KKR | A | 24R |
+| RCB | GT | H | 4W |
+| PBKS| CSK | A | 28R |
+| LSG | KKR | A | 98R |
+| MI | SRH | H | 7W |
+| DC | RR | H | 20R |
+| SRH | LSG | H | 10W |
+| PBKS| RCB | A | 60R |
+| GT | CSK | H | 35R |
+| KKR | MI | H | 18R |
+
+| CSK | RR | H | 5W |
+| RCB | DC | H | 47R |
+| GT | KKR | N | |
+| DC | LSG | H | 19R |
+| RR | PBKS | A | 5W |
+| SRH | GT | N | |
+| MI | LSG | A | 18R |
+| RCB | CSK | H | 27R |
+| SRH | PBKS | H | 4W |
+| RR | KKR | N | |
+
+| P1W = KKR | P1L = SRH
+| P2W = RR | P2L = RCB
+| P3W = SRH | P3L = RR
+| P4W = KKR | P4L = SRH 
+}}
+
+=== Fixtures ===
+{{hatnote|All times are in [[Indian Standard Time]] ([[UTC+05:30]])}}
+<section begin=match1/>{{Single-innings cricket match
+| date = 22 March 2024
+| time = 20:00
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 173/6 (20 overs)
+| runs1 = [[Anuj Rawat]] 48 (25)
+| wickets1 = [[Mustafizur Rahman]] 4/29 (4 overs)
+| score2 = 176/4 (18.4 overs)
+| runs2 = [[Rachin Ravindra]] 37 (15)
+| wickets2 = [[Cameron Green]] 2/27 (3 overs)
+| result = Chennai Super Kings won by 6 wickets 
+| report = [https://www.espncricinfo.com/ci/engine/match/1422119.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Mustafizur Rahman]] (Chennai Super Kings)
+| toss = Royal Challengers Bengaluru won the toss and elected to bat.
+| notes = 
+| round = {{anchor|match1}}'''Match 1'''
+}}<section end=match1/>
+----
+<section begin=match2/>{{Single-innings cricket match
+| date = 23 March 2024
+| time = 15:30
+| daynight = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 174/9 (20 overs)
+| runs1 = [[Shai Hope]] 33 (25)
+| wickets1 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 2/28 (4 overs)
+| score2 = 177/6 (19.2 overs)
+| runs2 = [[Sam Curran]] 63 (47)
+| wickets2 = [[Kuldeep Yadav]] 2/20 (4 overs)
+| result = Punjab Kings won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422120.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Sam Curran]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| notes = This was the first IPL match played at this venue.<ref>{{cite news|url=https://www.espncricinfo.com/story/ipl-2024-your-guide-to-mullanpurs-maharaja-yadavindra-singh-cricket-stadium-1425589|title=Inside the Maharaja Yadavindra Singh Stadium, Punjab's new open-air venue in Mullanpur|work=ESPNcricinfo|access-date=1 April 2024|date=23 March 2024|archive-date=25 March 2024|archive-url=https://web.archive.org/web/20240325135217/https://www.espncricinfo.com/story/ipl-2024-your-guide-to-mullanpurs-maharaja-yadavindra-singh-cricket-stadium-1425589|url-status=live}}</ref>
+| round = {{anchor|match2}}'''Match 2'''
+}}<section end=match2/>
+----
+<section begin=match3/>{{Single-innings cricket match
+| date = 23 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 208/7 (20 overs)
+| runs1 = [[Andre Russell]] 64[[not out|*]] (25)
+| wickets1 = [[T. Natarajan]] 3/32 (4 overs)
+| score2 = 204/7 (20 overs)
+| runs2 = [[Heinrich Klaasen]] 63 (29)
+| wickets2 = [[Harshit Rana]] 3/33 (4 overs)
+| result = Kolkata Knight Riders won by 4 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422121.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Andre Russell]] (Kolkata Knight Riders)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| notes = 
+| round = {{anchor|match3}}'''Match 3'''
+}}<section end=match3/>
+----
+<section begin=match4/>{{Single-innings cricket match
+| date = 24 March 2024
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 193/4 (20 overs) 
+| runs1 = [[Sanju Samson]] 82[[not out|*]] (52) 
+| wickets1 = [[Naveen-ul-Haq]] 2/41 (4 overs) 
+| score2 = 173/6 (20 overs)
+| runs2 = [[Nicholas Pooran]] 64[[not out|*]] (41)
+| wickets2 = [[Trent Boult]] 2/35 (4 overs)
+| result = Rajasthan Royals won by 20 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422122.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Kumar Dharmasena]] (SL) and Akshay Totre (Ind)
+| motm = [[Sanju Samson]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| notes = 
+| round = {{anchor|match4}}'''Match 4'''
+}}<section end=match4/>
+----
+<section begin=match5/>{{Single-innings cricket match
+| date = 24 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Mumbai Indians]]
+| score1 = 168/6 (20 overs)
+| runs1 = [[Sai Sudharsan]] 45 (39)
+| wickets1 = [[Jasprit Bumrah]] 3/14 (4 overs)
+| score2 = 162/9 (20 overs)
+| runs2 = [[Dewald Brevis]] 46 (38)
+| wickets2 = [[Spencer Johnson (cricketer)|Spencer Johnson]] 2/25 (2 overs)
+| result = Gujarat Titans won by 6 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422123.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Vineet Kulkarni]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Sai Sudharsan]] (Gujarat Titans)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = 
+| round = {{anchor|match5}}'''Match 5'''
+}}<section end=match5/>
+----
+<section begin=match6/>{{Single-innings cricket match
+| date = 25 March 2024
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 176/6 (20 overs)
+| runs1 = [[Shikhar Dhawan]] 45 (37)
+| wickets1 = [[Mohammed Siraj]] 2/26 (4 overs)
+| score2 = 178/6 (19.2 overs)
+| runs2 = [[Virat Kohli]] 77 (49)
+| wickets2 = [[Harpreet Brar]] 2/13 (4 overs)
+| result = Royal Challengers Bengaluru won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422124.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = 
+| round = {{anchor|match6}}'''Match 6'''
+}}<section end=match6/>
+----
+<section begin=match7/>{{Single-innings cricket match
+| date = 26 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Gujarat Titans]]
+| score1 = 206/6 (20 overs)
+| runs1 = [[Shivam Dube]] 51 (23)
+| wickets1 = [[Rashid Khan]] 2/49 (4 overs)
+| score2 = 143/8 (20 overs)
+| runs2 = [[Sai Sudharsan]] 37 (31)
+| wickets2 = [[Tushar Deshpande]] 2/21 (4 overs)
+| result = Chennai Super Kings won by 63 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422125.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Tapan Sharma]] (Ind) and [[Alex Wharf]] (Eng)
+| motm = [[Shivam Dube]] (Chennai Super Kings)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = 
+| round = {{anchor|match7}}'''Match 7'''
+}}<section end=match7/>
+----
+<section begin=match8/>{{Single-innings cricket match
+| date = 27 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Sunrisers Hyderabad]]
+| team2 = [[Mumbai Indians]]
+| score1 = 277/3 (20 overs) 
+| runs1 = [[Heinrich Klassen]] 80[[not out|*]] (34) 
+| wickets1 = [[Piyush Chawla]] 1/34 (2 overs) 
+| score2 = 246/5 (20 overs)
+| runs2 = [[Tilak Varma]] 64 (34)
+| wickets2 = [[Pat Cummins]] 2/35 (4 overs)
+| result = Sunrisers Hyderabad won by 31 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422126.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Ulhas Gandhe]] (Ind)
+| motm = [[Abhishek Sharma]] (Sunrisers Hyderabad)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = Sunrisers Hyderabad broke Royal Challengers Bengaluru's record (263) for the highest innings total in IPL (277).<ref>{{cite news |title=Sunrisers Hyderabad score highest team total in IPL history, post 277/5 against Mumbai Indians |url=https://indianexpress.com/article/sports/ipl/sunrisers-hyderabad-scores-highest-team-total-in-ipl-history-9236794/ |access-date=27 March 2024 |newspaper=[[Indian Express]] |date=27 March 2024 |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327160607/https://indianexpress.com/article/sports/ipl/sunrisers-hyderabad-scores-highest-team-total-in-ipl-history-9236794/ |url-status=live }}</ref>
+* Mumbai Indians broke Rajasthan Royals' record (226) for the highest second innings total in IPL (246). This was also the highest total in a losing cause in an IPL match.<ref name=srhmirecords>{{cite news |title=Complete list of records broken during SRH vs MI run fest in Hyderabad |url=https://www.firstpost.com/firstcricket/sports-news/srh-vs-mi-ipl-2024-records-stats-13753479.html |work=Firstpost |date=28 March 2024 |access-date=1 April 2024 |archive-date=29 March 2024 |archive-url=https://web.archive.org/web/20240329120409/https://www.firstpost.com/firstcricket/sports-news/srh-vs-mi-ipl-2024-records-stats-13753479.html |url-status=live }}</ref>
+* The match broke the record for [[List of Indian Premier League records and statistics#Highest match aggregate|highest aggregate scored in an IPL match]] surpassing 469 runs between Chennai Super Kings and Rajasthan Royals [[2010 Indian Premier League|in 2010]] (523).<ref>{{cite news |title=SRH vs MI: All records set and broken |url=https://www.rediff.com/cricket/report/ipl-2024-srh-vs-mi-all-records-set-and-broken/20240328.htm |work=[[Rediff]] |access-date=1 April 2024 |date=29 March 2024 |archive-date=29 March 2024 |archive-url=https://web.archive.org/web/20240329112906/https://www.rediff.com/cricket/report/ipl-2024-srh-vs-mi-all-records-set-and-broken/20240328.htm |url-status=live }}</ref>
+| round = {{anchor|match8}}'''Match 8'''
+}}<section end=match8/>
+----
+<section begin=match9/>{{Single-innings cricket match
+| date = 28 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Delhi Capitals]]
+| score1 = 185/5 (20 overs)
+| runs1 = [[Riyan Parag]] 84[[not out|*]] (45)
+| wickets1 = [[Axar Patel]] 1/21 (4 overs)
+| score2 = 173/5 (20 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 49 (34)
+| wickets2 = [[Yuzvendra Chahal]] 2/19 (3 overs)
+| result = Rajasthan Royals won by 12 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422127.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Riyan Parag]] (Rajasthan Royals)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = 
+| round = {{anchor|match9}}'''Match 9'''
+}}<section end=match9/>
+----
+<section begin=match10/>{{Single-innings cricket match
+| date = 29 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Royal Challengers Bengaluru]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 182/6 (20 overs)
+| runs1 = [[Virat Kohli]] 83[[not out|*]] (59)
+| wickets1 = [[Andre Russell]] 2/29 (4 overs)
+| score2 = 186/3 (16.5 overs)
+| runs2 = [[Venkatesh Iyer]] 50 (30)
+| wickets2 = [[Vijaykumar Vyshak]] 1/23 (4 overs)
+| result = Kolkata Knight Riders won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422128.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Sunil Narine]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| notes = 
+| round = {{anchor|match10}}'''Match 10'''
+}}<section end=match10/>
+----
+<section begin=match11/>{{Single-innings cricket match
+| date = 30 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]] 
+| team2 = [[Punjab Kings]]
+| score1 = 199/8 (20 overs) 
+| runs1 = [[Quinton de Kock]] 54 (38) 
+| wickets1 = [[Sam Curran]] 3/28 (4 overs) 
+| score2 = 178/5 (20 overs)
+| runs2 = [[Shikhar Dhawan]] 70 (50)
+| wickets2 = [[Mayank Yadav]] 3/27 (4 overs)
+| result = Lucknow Super Giants won by 21 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422129.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Mayank Yadav]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to bat.
+| round = {{anchor|match11}}'''Match 11'''
+}}<section end=match11/>
+----
+<section begin=match12/>{{Single-innings cricket match
+| date = 31 March 2024
+| time = 15:30
+| daynight = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 162/8 (20 overs)
+| runs1 = [[Abdul Samad (Indian cricketer)|Abdul Samad]] 29 (14)
+| wickets1 = [[Mohit Sharma]] 3/25 (4 overs)
+| score2 = 168/3 (19.1 overs)
+| runs2 = [[Sai Sudharsan]] 45 (36)
+| wickets2 = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 1/20 (2 overs)
+| result = Gujarat Titans won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422130.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Mohit Sharma]] (Gujarat Titans)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| round = {{anchor|match12}}'''Match 12'''
+}}<section end=match12/>
+----
+<section begin=match13/>{{Single-innings cricket match
+| date = 31 March 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 191/5 (20 overs)
+| runs1 = [[David Warner (cricketer)|David Warner]] 52 (35)
+| wickets1 = [[Matheesha Pathirana]] 3/31 (4 overs)
+| score2 = 171/6 (20 overs)
+| runs2 = [[Ajinkya Rahane]] 45 (30)
+| wickets2 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 3/21 (3 overs)
+| result = Delhi Capitals won by 20 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422131.html Scorecard]
+| venue = [[ACA-VDCA Cricket Stadium]], [[Visakhapatnam]]
+| umpires = [[Kumar Dharmasena]] (SL) and Vinod Seshan (Ind)
+| motm = [[Khaleel Ahmed]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to bat.
+| notes = 
+| round = {{anchor|match13}}'''Match 13'''
+}}<section end=match13/>
+----
+<section begin=match14/>{{Single-innings cricket match
+| date = 1 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Mumbai Indians]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 125/9 (20 overs)
+| runs1 = [[Hardik Pandya]] 34 (21)
+| wickets1 = [[Yuzvendra Chahal]] 3/11 (4 overs)
+| score2 = 127/4 (15.3 overs)
+| runs2 = [[Riyan Parag]] 54[[not out|*]] (39)
+| wickets2 = [[Akash Madhwal]] 3/20 (4 overs)
+| result = Rajasthan Royals	won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422132.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Yeshwant Barde]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Trent Boult]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| notes = 
+| round = {{anchor|match14}}'''Match 14'''
+}}<section end=match14/>
+----
+<section begin=match15/>{{Single-innings cricket match
+| date = 2 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 181/5 (20 overs)
+| runs1 = [[Quinton de Kock]] 81 (56)
+| wickets1 = [[Glenn Maxwell]] 2/23 (4 overs)
+| score2 = 153 (19.4 overs)
+| runs2 = [[Mahipal Lomror]] 33 (13)
+| wickets2 = [[Mayank Yadav]] 3/14 (4 overs)
+| result = Lucknow Super Giants won by 28 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422133.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Mayank Yadav]] (Lucknow Super Giants)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = 
+| round = {{anchor|match15}}'''Match 15'''
+}}<section end=match15/>
+----
+<section begin=match16/>{{Single-innings cricket match
+| date = 3 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]] 
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 272/7 (20 overs)
+| runs1 = [[Sunil Narine]] 85 (39)
+| wickets1 = [[Anrich Nortje]] 3/59 (4 overs)
+| score2 = 166 (17.2 overs)
+| runs2 = [[Rishabh Pant]] 55 (25)
+| wickets2 = [[Vaibhav Arora]] 3/27 (4 overs)
+| result = Kolkata Knight Riders won by 106 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422134.html Scorecard]
+| venue = [[ACA-VDCA Cricket Stadium]], [[Visakhapatnam]]
+| umpires = [[Ulhas Gandhe]] (Ind) and Akshay Totre (Ind)
+| motm = [[Sunil Narine]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to bat.
+| round = {{anchor|match16}}'''Match 16'''
+}}<section end=match16/>
+----
+<section begin=match17/>{{Single-innings cricket match
+| date = 4 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Punjab Kings]]
+| score1 = 199/4 (20 overs)
+| runs1 = [[Shubman Gill]] 89[[not out|*]] (48)
+| wickets1 = [[Kagiso Rabada]] 2/44 (4 overs)
+| score2 = 200/7 (19.5 overs)
+| runs2 = [[Shashank Singh]] 61[[not out|*]] (29)
+| wickets2 = [[Noor Ahmad]] 2/32 (4 overs)
+| result = Punjab Kings won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422135.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Vineet Kulkarni]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Shashank Singh]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match17}}'''Match 17'''
+}}<section end=match17/>
+----
+<section begin=match18/>{{Single-innings cricket match
+| date = 5 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 165/5 (20 overs)
+| runs1 = [[Shivam Dube]] 45 (24)
+| wickets1 = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 1/11 (1 over)
+| score2 = 166/4 (18.1 overs)
+| runs2 = [[Aiden Markram]] 50 (36)
+| wickets2 = [[Moeen Ali]] 2/23 (3 overs)
+| result = Sunrisers Hyderabad won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422136.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Abhishek Sharma]] (Sunrisers Hyderabad)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| round = {{anchor|match18}}'''Match 18'''
+}}<section end=match18/>
+----
+<section begin=match19/>{{Single-innings cricket match
+| date = 6 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 183/3 (20 overs)
+| runs1 = [[Virat Kohli]] 113[[not out|*]] (72)
+| wickets1 = [[Yuzvendra Chahal]] 2/34 (4 overs)
+| score2 = 189/4 (19.1 overs)
+| runs2 = [[Jos Buttler]] 100[[not out|*]] (58)
+| wickets2 = [[Reece Topley]] 2/27 (4 overs)
+| result = Rajasthan Royals won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1422137.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Tapan Sharma]] (Ind) and [[Alex Wharf]] (Eng)
+| motm = [[Jos Buttler]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| notes = 
+| round = {{anchor|match19}}'''Match 19'''
+}}<section end=match19/>
+----
+<section begin=match20/>{{Single-innings cricket match
+| date = 7 April 2024
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Mumbai Indians]]
+| team2 = [[Delhi Capitals]]
+| score1 = 234/5 (20 overs)
+| runs1 = [[Rohit Sharma]] 49 (27)
+| wickets1 = [[Axar Patel]] 2/35 (4 overs)
+| score2 = 205/8 (20 overs) 
+| runs2 = [[Tristan Stubbs]] 71[[not out|*]] (25)
+| wickets2 = [[Gerald Coetzee]] 4/34 (4 overs)
+| result = Mumbai Indians won by 29 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422138.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Kumar Dharmasena]] (SL) and [[Ulhas Gandhe]] (Ind)
+| motm = [[Romario Shepherd]] (Mumbai Indians)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = 
+| round = {{anchor|match20}}'''Match 20'''
+}}<section end=match20/>
+----
+<section begin=match21/>{{Single-innings cricket match
+| date = 7 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Gujarat Titans]]
+| score1 = 163/5 (20 overs)
+| runs1 = [[Marcus Stoinis]] 58 (43)
+| wickets1 = [[Darshan Nalkande]] 2/21 (2 overs)
+| score2 = 130 (18.5 overs)
+| runs2 = [[Sai Sudharsan]] 31 (23)
+| wickets2 = [[Yash Thakur]] 5/30 (3.5 overs)
+| result = Lucknow Super Giants won by 33 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1422139.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Yash Thakur]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to bat.
+| notes = 
+| round = {{anchor|match21}}'''Match 21'''
+}}<section end=match21/>
+----
+<section begin=match22/>{{Single-innings cricket match
+| date = 8 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 137/9 (20 overs)
+| runs1 = [[Shreyas Iyer]] 34 (32)
+| wickets1 = [[Ravindra Jadeja]] 3/18 (4 overs)
+| score2 = 141/3 (17.4 overs)
+| runs2 = [[Ruturaj Gaikwad]] 67[[not out|*]] (58)
+| wickets2 = [[Vaibhav Arora]] 2/28 (4 overs)
+| result = Chennai Super Kings won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426260.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Ravindra Jadeja]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| round = {{anchor|match22}} '''Match 22'''
+| notes = 
+}}<section end=match22/>
+----
+<section begin=match23/>{{Single-innings cricket match
+| date = 9 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 182/9 (20 overs)
+| runs1 = [[Nitish Kumar Reddy]] 64 (37)
+| wickets1 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 4/29 (4 overs)
+| score2 = 180/6 (20 overs)
+| runs2 = [[Shashank Singh]] 46[[not out|*]] (25)
+| wickets2 = [[Bhuvneshwar Kumar]] 2/32 (4 overs)
+| result = Sunrisers Hyderabad won by 2 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426261.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Nikhil Patwardhan]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Nitish Kumar Reddy]] (Sunrisers Hyderabad)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match23}} '''Match 23'''
+| notes = 
+}}<section end=match23/>
+----
+<section begin=match24/>{{Single-innings cricket match
+| date = 10 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Gujarat Titans]]
+| score1 = 196/3 (20 overs)
+| runs1 = [[Riyan Parag]] 76 (48)
+| wickets1 = [[Rashid Khan]] 1/18 (4 overs)
+| score2 = 199/7 (20 overs)
+| runs2 = [[Shubman Gill]] 72 (44)
+| wickets2 = [[Kuldeep Sen]] 3/41 (4 overs)
+| result = Gujarat Titans won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426262.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Kumar Dharmasena]] (SL) and Vinod Seshan (Ind)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| round = {{anchor|match24}} '''Match 24'''
+| notes = 
+}}<section end=match24/>
+----
+<section begin=match25/>{{Single-innings cricket match
+| date = 11 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 196/8 (20 overs)
+| runs1 = [[Faf du Plessis]] 61 (40)
+| wickets1 = [[Jasprit Bumrah]] 5/21 (4 overs)
+| score2 = 199/3 (15.3 overs)
+| runs2 = [[Ishan Kishan]] 69 (34)
+| wickets2 = [[Will Jacks]] 1/24 (2 overs)
+| result = Mumbai Indians won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426263.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Nitin Menon]] (Ind) and [[Vineet Kulkarni]] (Ind) 
+| motm = [[Jasprit Bumrah]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match25}} '''Match 25'''
+| notes = 
+}}<section end=match25/>
+----
+<section begin=match26/>{{Single-innings cricket match
+| date = 12 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Delhi Capitals]]
+| score1 = 167/7 (20 overs)
+| runs1 = [[Ayush Badoni]] 55[[not out|*]] (35)
+| wickets1 = [[Kuldeep Yadav]] 3/20 (4 overs)
+| score2 = 170/4 (18.1 overs)
+| runs2 = [[Jake Fraser-McGurk]] 55 (35)
+| wickets2 = [[Ravi Bishnoi]] 2/25 (4 overs)
+| result = Delhi Capitals won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426264.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Kuldeep Yadav]] (Delhi Capitals)
+| toss = Lucknow Super Giants won the toss and elected to bat.
+| round = {{anchor|match26}} '''Match 26'''
+| notes = 
+}}<section end=match26/>
+----
+<section begin=match27/>{{Single-innings cricket match
+| date = 13 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 147/8 (20 overs)
+| runs1 = [[Ashutosh Sharma (cricketer)|Ashutosh Sharma]] 31 (16)
+| wickets1 = [[Keshav Maharaj]] 2/23 (4 overs)
+| score2 = 152/7 (19.5 overs)
+| runs2 = [[Yashasvi Jaiswal]] 39 (28)
+| wickets2 = [[Kagiso Rabada]] 2/18 (4 overs)
+| result = Rajasthan Royals won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426265.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Shimron Hetmyer]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match27}} '''Match 27'''
+}}<section end=match27/>
+----
+<section begin=match28/>{{Single-innings cricket match
+| date = 14 April 2024
+| time = 15:30
+| daynight = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 161/7 (20 overs)
+| runs1 = [[Nicholas Pooran]] 45 (32)
+| wickets1 = [[Mitchell Starc]] 3/28 (4 overs)
+| score2 = 162/2 (15.4 overs)
+| runs2 = [[Phil Salt]] 89[[not out|*]] (47)
+| wickets2 = [[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 2/29 (4 overs)
+| result = Kolkata Knight Riders won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426266.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = Vinod Seshan (Ind) and Akshay Totre (Ind)
+| motm = [[Phil Salt]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| round = {{anchor|match28}} '''Match 28'''
+}}<section end=match28/>
+----
+<section begin=match29/>{{Single-innings cricket match
+| date = 14 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 206/4 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 69 (40)
+| wickets1 = [[Hardik Pandya]] 2/43 (3 overs)
+| score2 = 186/6 (20 overs)
+| runs2 = [[Rohit Sharma]] 105[[not out|*]] (63)
+| wickets2 = [[Matheesha Pathirana]] 4/28 (4 overs)
+| result = Chennai Super Kings won by 20 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426267.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Matheesha Pathirana]] (Chennai Super Kings)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match29}} '''Match 29'''
+| notes = 
+}}<section end=match29/>
+----
+<section begin=match30/>{{Single-innings cricket match
+| date = 15 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 287/3 (20 overs)
+| runs1 = [[Travis Head]] 102 (41)
+| wickets1 = [[Lockie Ferguson]] 2/52 (4 overs)
+| score2 = 262/7 (20 overs)
+| runs2 = [[Dinesh Karthik]] 83 (35)
+| wickets2 = [[Pat Cummins]] 3/43 (4 overs)
+| result = Sunrisers Hyderabad won by 25 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426268.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Travis Head]] (Sunrisers Hyderabad)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| round = {{anchor|match30}} '''Match 30'''
+| notes = Sunrisers Hyderabad broke their own record (277) for the highest innings total in IPL (287).<ref>{{cite web |access-date=15 April 2024 |title=Sunrisers Hyderabad's 287/3 vs RCB the highest IPL total in history: Check top 5 scores as SRH better their own record |url=https://www.hindustantimes.com/cricket/sunrisers-hyderabad-287-3-vs-rcb-the-highest-ipl-total-in-history-check-top-5-scores-as-srh-better-their-own-record-101713197325333.html |publisher=[[Hindustan Times]] |date=15 April 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415175131/https://www.hindustantimes.com/cricket/sunrisers-hyderabad-287-3-vs-rcb-the-highest-ipl-total-in-history-check-top-5-scores-as-srh-better-their-own-record-101713197325333.html |url-status=live }}</ref>
+* Royal Challengers Bengaluru broke Mumbai Indians' record (246) for the highest second innings total in IPL (262), and South Africa's record (259) for the highest second innings total in [[Twenty20 cricket|T20 cricket]]. This was also the highest total in a losing cause in both IPL matches and T20 matches.<ref>{{Cite web |access-date=15 April 2024 |title=Many Firsts! SRH-RCB Blockbuster Rewrites IPL Record Books In Run-Fest |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/many-firsts-srh-rcb-blockbuster-rewrites-ipl-record-books-in-run-fest/articleshow/109323084.cms |publisher=[[Times of India]] |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415185436/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/many-firsts-srh-rcb-blockbuster-rewrites-ipl-record-books-in-run-fest/articleshow/109323084.cms |url-status=live }}</ref>
+* The match broke the record for highest aggregate scored in an IPL match surpassing 523 runs between Sunrisers Hyderabad and Mumbai Indians in 2024 (549).<ref>{{cite web |access-date=15 April 2024 |title=RCB vs SRH HIGHLIGHTS, IPL 2024: Sunrisers thump Bengaluru with record-breaking T20 score, Karthik's 83 in vain |url=https://indianexpress.com/article/sports/cricket/rcb-vs-srh-live-score-ipl-2024-match-30-today-royal-challengers-bengaluru-vs-sunrisers-hyderabad-scorecard-updates-9270959/ |publisher=[[The Indian Express]] |date=15 April 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415094204/https://indianexpress.com/article/sports/cricket/rcb-vs-srh-live-score-ipl-2024-match-30-today-royal-challengers-bengaluru-vs-sunrisers-hyderabad-scorecard-updates-9270959/ |url-status=live }}</ref>
+}}<section end=match30/>
+----
+<section begin=match31/>{{Single-innings cricket match
+| date = 16 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 223/6 (20 overs)
+| runs1 = [[Sunil Narine]] 109 (56)
+| wickets1 = [[Avesh Khan]] 2/35 (4 overs)
+| score2 = 224/8 (20 overs)
+| runs2 = [[Jos Buttler]] 107[[not out|*]] (60)
+| wickets2 = [[Sunil Narine]] 2/30 (4 overs)
+| result = Rajasthan Royals won by 2 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426269.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Michael Gough (cricketer)|Michael Gough]] (Eng)
+| motm = [[Jos Buttler]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match31}} '''Match 31'''
+| notes = Rajasthan Royals recorded the [[List of Indian Premier League records and statistics#Highest successful chases|joint highest successful run chase in IPL history]].<ref>{{cite web |url=https://indianexpress.com/article/sports/ipl/highest-successful-ipl-run-chases-full-list-rajasthan-royals-224-chase-kkr-vs-rr-2024-9274319/lite/ |title=Highest successful IPL run-chases: Rajasthan Royals equals record vs KKR in IPL 2024 |work=The Indian Express |date=16 April 2024 |access-date=16 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416193023/https://indianexpress.com/article/sports/ipl/highest-successful-ipl-run-chases-full-list-rajasthan-royals-224-chase-kkr-vs-rr-2024-9274319/lite/ |url-status=live }}</ref>
+}}<section end=match31/>
+----
+<section begin=match32/>{{Single-innings cricket match
+| date = 17 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Delhi Capitals]]
+| score1 = 89 (17.3 overs)
+| runs1 = [[Rashid Khan]] 31 (24)
+| wickets1 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 3/14 (2.3 overs)
+| score2 = 92/4 (8.5 overs)
+| runs2 = [[Jake Fraser-McGurk]] 20 (10)
+| wickets2 = [[Sandeep Warrier]] 2/40 (3 overs)
+| result = Delhi Capitals won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426270.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Virender Sharma]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Rishabh Pant]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| round = {{anchor|match32}} '''Match 32'''
+| notes = Gujarat Titans recorded their lowest innings total in IPL history.<ref>{{cite web |url=https://indianexpress.com/article/sports/ipl/ipl-lowest-total-full-list-gujarat-titans-delhi-capitals-9276126/ |title=IPL Lowest Total: Where does Gujarat Titans' 89 all out vs Delhi Capitals rank in list of lowest ever IPL scores |work=The Indian Express |date=17 April 2024 |access-date=17 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417161714/https://indianexpress.com/article/sports/ipl/ipl-lowest-total-full-list-gujarat-titans-delhi-capitals-9276126/ |url-status=live }}</ref>
+}}<section end=match32/>
+----
+<section begin=match33/>{{Single-innings cricket match
+| date = 18 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 192/7 (20 overs)
+| runs1 = [[Suryakumar Yadav]] 78 (53)
+| wickets1 = [[Harshal Patel]] 3/31 (4 overs)
+| score2 = 183 (19.1 overs)
+| runs2 = [[Ashutosh Sharma (cricketer)|Ashutosh Sharma]] 61 (28)
+| wickets2 = [[Jasprit Bumrah]] 3/21 (4 overs)
+| result = Mumbai Indians won by 9 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426271.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Vineet Kulkarni]] (Ind)
+| motm = [[Jasprit Bumrah]] (Mumbai Indians)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match33}} '''Match 33'''
+| notes = 
+}}<section end=match33/>
+----
+<section begin=match34/>{{Single-innings cricket match
+| date = 19 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 176/6 (20 overs)
+| runs1 = [[Ravindra Jadeja]] 57[[not out|*]] (40)
+| wickets1 = [[Krunal Pandya]] 2/16 (3 overs)
+| score2 = 180/2 (19 overs)
+| runs2 = [[KL Rahul]] 82 (53)
+| wickets2 = [[Matheesha Pathirana]] 1/29 (4 overs)
+| result = Lucknow Super Giants won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426272.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[KL Rahul]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| round = {{anchor|match34}} '''Match 34'''
+| notes = 
+}}<section end=match34/>
+----
+<section begin=match35/>{{Single-innings cricket match
+| date = 20 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 266/7 (20 overs)
+| runs1 = [[Travis Head]] 89 (32)
+| wickets1 = [[Kuldeep Yadav]] 4/55 (4 overs)
+| score2 = 199 (19.1 overs)
+| runs2 = [[Jake Fraser-McGurk]] 65 (18)
+| wickets2 = [[T Natarajan]] 4/19 (4 overs)
+| result = Sunrisers Hyderabad won by 67 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426273.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Travis Head]] (Sunrisers Hyderabad)
+| toss = Delhi Capitals won the toss and elected to field.
+| round = {{anchor|match35}} '''Match 35'''
+| notes = 
+}}<section end=match35/>
+----
+<section begin=match36/>{{Single-innings cricket match
+| date = 21 April 2024
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 222/6 (20 overs)
+| runs1 = [[Shreyas Iyer]] 50 (36)
+| wickets1 = [[Cameron Green]] 2/35 (4 overs)
+| score2 = 221 (20 overs)
+| runs2 = [[Will Jacks]] 55 (32)
+| wickets2 = [[Andre Russell]] 3/25 (3 overs)
+| result = Kolkata Knight Riders won by 1 run
+| report = [https://www.espncricinfo.com/ci/engine/match/1426274.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = Vinod Seshan (Ind) and Akshay Totre (Ind)
+| motm = [[Andre Russell]] (Kolkata Knight Riders)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| round = {{anchor|match36}} '''Match 36'''
+| notes = 
+}}<section end=match36/>
+----
+<section begin=match37/>{{Single-innings cricket match
+| date = 21 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Punjab Kings]]
+| team2 = [[Gujarat Titans]]
+| score1 = 142 (20 overs)
+| runs1 = [[Prabhsimran Singh]] 35 (21)
+| wickets1 = [[Ravisrinivasan Sai Kishore|R. Sai Kishore]] 4/33 (4 overs)
+| score2 = 146/7 (19.1 overs)
+| runs2 = [[Rahul Tewatia]] 36[[not out|*]] (18)
+| wickets2 = [[Harshal Patel]] 3/15 (3 overs)
+| result = Gujarat Titans won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426275.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Vineet Kulkarni]] (Ind)
+| motm = [[Ravisrinivasan Sai Kishore|R. Sai Kishore]] (Gujarat Titans)
+| toss = Punjab Kings won the toss and elected to bat.
+| round = {{anchor|match37}} '''Match 37'''
+| notes = 
+}}<section end=match37/>
+----
+<section begin=match38/>{{Single-innings cricket match
+| date = 22 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 179/9 (20 overs)
+| runs1 = [[Tilak Varma]] 65 (45)
+| wickets1 = [[Sandeep Sharma]] 5/18 (4 overs)
+| score2 = 183/1 (18.4 overs)
+| runs2 = [[Yashasvi Jaiswal]] 104[[not out|*]] (60)
+| wickets2 = [[Piyush Chawla]] 1/33 (4 overs)
+| result = Rajasthan Royals won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426276.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Sandeep Sharma]] (Rajasthan Royals)
+| toss = Mumbai Indians won the toss and elected to bat.
+| round = {{anchor|match38}} '''Match 38'''
+| notes = 
+}}<section end=match38/>
+----
+<section begin=match39/>{{Single-innings cricket match
+| date = 23 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 210/4 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 108[[not out|*]] (60)
+| wickets1 = [[Matt Henry (cricketer)|Matt Henry]] 1/28 (4 overs)
+| score2 = 213/4 (19.3 overs)
+| runs2 = [[Marcus Stoinis]] 124[[not out|*]] (63)
+| wickets2 = [[Matheesha Pathirana]] 2/35 (4 overs)
+| result = Lucknow Super Giants won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426277.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Nikhil Patwardhan]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Marcus Stoinis]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| round = {{anchor|match39}} '''Match 39'''
+| notes = 
+}}<section end=match39/>
+----
+<section begin=match40/>{{Single-innings cricket match
+| date = 24 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Gujarat Titans]]
+| score1 = 224/4 (20 overs)
+| runs1 = [[Rishabh Pant]] 88[[not out|*]] (43)
+| wickets1 = [[Sandeep Warrier]] 3/15 (3 overs)
+| score2 = 220/8 (20 overs)
+| runs2 = [[Sai Sudharsan]] 65 (39)
+| wickets2 = [[Rasikh Salam]] 3/44 (4 overs)
+| result = Delhi Capitals won by 4 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426278.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Ulhas Gandhe]] (Ind)
+| motm = [[Rishabh Pant]] (Delhi Capitals)
+| toss = Gujarat Titans won the toss and elected to field.
+| round = {{anchor|match40}} '''Match 40'''
+| notes = 
+}}<section end=match40/>
+----
+<section begin=match41/>{{Single-innings cricket match
+| date = 25 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 206/7 (20 overs)
+| runs1 = [[Virat Kohli]] 51 (43)
+| wickets1 = [[Jaydev Unadkat]] 3/30 (4 overs)
+| score2 = 171/8 (20 overs)
+| runs2 = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 40[[not out|*]] (37)
+| wickets2 = [[Cameron Green]] 2/12 (2 overs)
+| result = Royal Challengers Bengaluru won by 35 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426279.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Saiyed Khalid]] (Ind)
+| motm = [[Rajat Patidar]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to bat.
+| round = {{anchor|match41}} '''Match 41'''
+| notes = 
+}}<section end=match41/>
+----
+<section begin=match42/>{{Single-innings cricket match
+| date = 26 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Punjab Kings]]
+| score1 = 261/6 (20 overs)
+| runs1 = [[Phil Salt]] 75 (37)
+| wickets1 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 2/45 (4 overs)
+| score2 = 262/2 (18.4 overs)
+| runs2 = [[Jonny Bairstow]] 108[[not out|*]] (48)
+| wickets2 = [[Sunil Narine]] 1/24 (4 overs)
+| result = Punjab Kings won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426280.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind)
+| motm = [[Jonny Bairstow]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match42}} '''Match 42'''
+| notes = Punjab Kings made the [[List of Indian Premier League records and statistics#Highest successful chases|highest successful run-chase in IPL history]], thus breaking the record of Rajasthan Royals (223).<ref>{{cite web |access-date=26 April 2024 |title=Punjab to Rajasthan: Highest successful run-chase in IPL, T20 cricket |url=https://www.business-standard.com/cricket/ipl/punjab-to-rajasthan-highest-successful-run-chase-in-ipl-t20-cricket-124042601467_1.html |publisher=[[Business Standard]] |archive-date=26 April 2024 |archive-url=https://web.archive.org/web/20240426181406/https://www.business-standard.com/cricket/ipl/punjab-to-rajasthan-highest-successful-run-chase-in-ipl-t20-cricket-124042601467_1.html |url-status=live }}</ref>
+}}<section end=match42/>
+----
+<section begin=match43/>{{Single-innings cricket match
+| date = 27 April 2024
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Mumbai Indians]]
+| score1 = 257/4 (20 overs)
+| runs1 = [[Jake Fraser-McGurk]] 84 (27)
+| wickets1 = [[Mohammad Nabi]] 1/20 (2 overs)
+| score2 = 247/9 (20 overs)
+| runs2 = [[Tilak Varma]] 63 (32)
+| wickets2 = [[Rasikh Salam]] 3/34 (4 overs)
+| result = Delhi Capitals won by 10 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426281.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Nikhil Patwardhan]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Jake Fraser-McGurk]] (Delhi Capitals)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match43}} '''Match 43'''
+| rain =
+| notes = 
+}}<section end=match43/>
+----
+<section begin=match44/>{{Single-innings cricket match
+| date = 27 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Lucknow Super Giants]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 196/5 (20 overs)
+| runs1 = [[KL Rahul]] 76 (48)
+| wickets1 = [[Sandeep Sharma]] 2/31 (4 overs)
+| score2 = 199/3 (19 overs)
+| runs2 = [[Sanju Samson]] 71[[not out|*]] (33)
+| wickets2 = [[Marcus Stoinis]] 1/3 (1 over)
+| result = Rajasthan Royals won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426282.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Michael Gough (cricketer)|Michael Gough]] (Eng)
+| motm = [[Sanju Samson]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match44}} '''Match 44'''
+}}<section end=match44/>
+----
+<section begin=match45/>{{Single-innings cricket match
+| date = 28 April 2024
+| time = 15:30
+| daynight = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 200/3 (20 overs)
+| runs1 = [[Sai Sudharsan]] 84[[not out|*]] (49)
+| wickets1 = [[Swapnil Singh]] 1/23 (3 overs)
+| score2 = 206/1 (16 overs)
+| runs2 = [[Will Jacks]] 100[[not out|*]] (41)
+| wickets2 = [[Ravisrinivasan Sai Kishore|R. Sai Kishore]] 1/30 (3 overs)
+| result = Royal Challengers Bengaluru won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426283.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Will Jacks]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| round = {{anchor|match45}} '''Match 45'''
+| notes = 
+}}<section end=match45/>
+----
+<section begin=match46/>{{Single-innings cricket match
+| date = 28 April 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 212/3 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 98 (54)
+| wickets1 = [[Bhuvneshwar Kumar]] 1/38 (4 overs)<br/>[[Jaydev Unadkat]] 1/38 (4 overs)
+| score2 = 134 (18.5 overs)
+| runs2 = [[Aiden Markram]] 32 (26)
+| wickets2 = [[Tushar Deshpande]] 4/27 (3 overs)
+| result = Chennai Super Kings won by 78 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426284.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = Saidharshan Kumar (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Ruturaj Gaikwad]] (Chennai Super Kings)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| round = {{anchor|match46}} '''Match 46'''
+| notes = 
+}}<section end=match46/>
+----
+<section begin=match47/>{{Single-innings cricket match
+| date = 29 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 153/9 (20 overs)
+| runs1 = [[Kuldeep Yadav]] 35[[not out|*]] (26)
+| wickets1 = [[Varun Chakravarthy]] 3/16 (4 overs)
+| score2 = 157/3 (16.3 overs)
+| runs2 = [[Phil Salt]] 68 (33)
+| wickets2 = [[Axar Patel]] 2/25 (4 overs)
+| result = Kolkata Knight Riders won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426285.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Tapan Sharma]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Delhi Capitals won the toss and elected to bat.
+| round = {{anchor|match47}} '''Match 47'''
+| notes = 
+}}<section end=match47/>
+----
+<section begin=match48/>{{Single-innings cricket match
+| date = 30 April 2024
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 144/7 (20 overs)
+| runs1 = [[Nehal Wadhera]] 46 (41)
+| wickets1 = [[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 2/36 (4 overs)
+| score2 = 145/6 (19.2 overs)
+| runs2 = [[Marcus Stoinis]] 62 (45)
+| wickets2 = [[Hardik Pandya]] 2/26 (4 overs)
+| result = Lucknow Super Giants won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426286.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Michael Gough (cricketer)|Michael Gough]] (Eng)
+| motm = [[Marcus Stoinis]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| round = {{anchor|match48}} '''Match 48'''
+}}<section end=match48/>
+----
+<section begin=match49/>{{Single-innings cricket match
+| date = 1 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Chennai Super Kings]]
+| team2 = [[Punjab Kings]]
+| score1 = 162/7 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 62 (48)
+| wickets1 = [[Rahul Chahar]] 2/16 (4 overs)
+| score2 = 163/3 (17.5 overs)
+| runs2 = [[Jonny Bairstow]] 46 (30)
+| wickets2 = [[Shivam Dube]] 1/14 (1 over)
+| result = Punjab Kings won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426287.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Harpreet Brar]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match49}} '''Match 49'''
+}}<section end=match49/>
+----
+<section begin=match50/>{{Single-innings cricket match
+| date = 2 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Sunrisers Hyderabad]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 201/3 (20 overs)
+| runs1 = [[Nitish Kumar Reddy]] 76[[not out|*]] (42)
+| wickets1 = [[Avesh Khan]] 2/39 (4 overs)
+| score2 = 200/7 (20 overs)
+| runs2 = [[Riyan Parag]] 77 (49)
+| wickets2 = [[Bhuvneshwar Kumar]] 3/41 (4 overs)
+| result = Sunrisers Hyderabad won by 1 run
+| report = [https://www.espncricinfo.com/ci/engine/match/1426288.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind)
+| motm = [[Bhuvneshwar Kumar]] (Sunrisers Hyderabad)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| round = {{anchor|match50}} '''Match 50'''
+| notes = 
+}}<section end=match50/>
+----
+<section begin=match51/>{{Single-innings cricket match
+| date = 3 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 169 (19.5 overs)
+| runs1 = [[Venkatesh Iyer]] 70 (52)
+| wickets1 = [[Jasprit Bumrah]] 3/18 (3.5 overs)
+| score2 = 145 (18.5 overs)
+| runs2 = [[Suryakumar Yadav]] 56 (35)
+| wickets2 = [[Mitchell Starc]] 4/33 (3.5 overs)
+| result = Kolkata Knight Riders won by 24 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426289.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Tapan Sharma]] (Ind)
+| motm = [[Venkatesh Iyer]] (Kolkata Knight Riders)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match51}} '''Match 51'''
+}}<section end=match51/>
+----
+<section begin=match52/>{{Single-innings cricket match
+| date = 4 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 147 (19.3 overs)
+| runs1 = [[Shahrukh Khan (cricketer)|Shahrukh Khan]] 37 (24)
+| wickets1 = [[Yash Dayal]] 2/21 (4 overs)
+| score2 = 152/6 (13.4 overs)
+| runs2 = [[Faf du Plessis]] 64 (23)
+| wickets2 = [[Josh Little]] 4/45 (4 overs)
+| result = Royal Challengers Bengaluru won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426290.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = Vinod Seshan (Ind) and Akshay Totre (Ind)
+| motm = [[Mohammed Siraj]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| round = {{anchor|match52}} '''Match 52'''
+| notes = 
+}}<section end=match52/>
+----
+<section begin=match53/>{{Single-innings cricket match
+| date = 5 May 2024
+| time = 15:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 167/9 (20 overs)
+| runs1 = [[Ravindra Jadeja]] 43 (26)
+| wickets1 = [[Rahul Chahar]] 3/23 (4 overs)
+| score2 = 139/9 (20 overs)
+| runs2 = [[Prabhsimran Singh]] 30 (23)
+| wickets2 = [[Ravindra Jadeja]] 3/20 (4 overs)
+| result = Chennai Super Kings won by 28 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426291.html Scorecard]
+| venue = [[HPCA Stadium]], [[Dharamshala]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Vineet Kulkarni]] (Ind)
+| motm = [[Ravindra Jadeja]] (Chennai Super Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match53}} '''Match 53'''
+| notes = 
+}}<section end=match53/>
+----
+<section begin=match54/>{{Single-innings cricket match
+| date = 5 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 235/6 (20 overs)
+| runs1 = [[Sunil Narine]] 81 (39)
+| wickets1 = [[Naveen-ul-Haq]] 3/49 (4 overs)
+| score2 = 137 (16.1 overs)
+| runs2 = [[Marcus Stoinis]] 36 (21)
+| wickets2 = [[Harshit Rana]] 3/24 (3.1 overs)
+| result = Kolkata Knight Riders won by 98 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426292.html Scorecard]
+| venue = [[BRSABV Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Yeshwant Barde]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Sunil Narine]] (Kolkata Knight Riders)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| round = {{anchor|match54}} '''Match 54'''
+}}<section end=match54/>
+----
+<section begin=match55/>{{Single-innings cricket match
+| date = 6 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 173/8 (20 overs)
+| runs1 = [[Travis Head]] 48 (30)
+| wickets1 = [[Hardik Pandya]] 3/31 (4 overs)
+| score2 = 174/3 (17.2 overs)
+| runs2 = [[Suryakumar Yadav]] 102[[not out|*]] (51)
+| wickets2 = [[Bhuvneshwar Kumar]] 1/22 (4 overs)
+| result = Mumbai Indians won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426293.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Tapan Sharma]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Suryakumar Yadav]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match55}} '''Match 55'''
+}}<section end=match55/>
+----
+<section begin=match56/>{{Single-innings cricket match
+| date = 7 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 221/8 (20 overs)
+| runs1 = [[Abhishek Porel]] 65 (36)
+| wickets1 = [[Ravichandran Ashwin]] 3/24 (4 overs)
+| score2 = 201/8 (20 overs)
+| runs2 = [[Sanju Samson]] 86 (46)
+| wickets2 = [[Kuldeep Yadav]] 2/25 (4 overs)
+| result = Delhi Capitals won by 20 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426294.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Ulhas Gandhe]] (Ind)
+| motm = [[Kuldeep Yadav]] (Delhi Capitals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match56}} '''Match 56'''
+}}<section end=match56/>
+----
+<section begin=match57/>{{Single-innings cricket match
+| date = 8 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 165/4 (20 overs)
+| runs1 = [[Ayush Badoni]] 55[[not out|*]] (30)
+| wickets1 = [[Bhuvneshwar Kumar]] 2/12 (4 overs)
+| score2 = 167/0 (9.4 overs)
+| runs2 = [[Travis Head]] 89[[not out|*]] (30)
+| result = Sunrisers Hyderabad won by 10 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426295.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Yeshwant Barde]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Travis Head]] (Sunrisers Hyderabad)
+| toss = Lucknow Super Giants won the toss and elected to bat.
+| round = {{anchor|match57}} '''Match 57'''
+| notes = Mumbai Indians were eliminated from the playoffs as a result of this match.<ref>{{cite web |access-date=8 May 2024 |title=Mumbai Indians knocked out after SRH demolish LSG |url=https://www.espncricinfo.com/story/mumbai-indians-knocked-out-after-srh-demolish-lsg-1432920 |publisher=[[ESPNcricinfo]] |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508170113/https://www.espncricinfo.com/story/mumbai-indians-knocked-out-after-srh-demolish-lsg-1432920 |url-status=live }}</ref>
+}}<section end=match57/>
+----
+<section begin=match58/>{{Single-innings cricket match
+| date = 9 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 241/7 (20 overs)
+| runs1 = [[Virat Kohli]] 92 (47)
+| wickets1 = [[Harshal Patel]] 3/38 (4 overs)
+| score2 = 181 (17 overs)
+| runs2 = [[Rilee Rossouw]] 61 (27)
+| wickets2 = [[Mohammed Siraj]] 3/43 (4 overs)
+| result = Royal Challengers Bengaluru won by 60 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426296.html Scorecard]
+| venue = [[HPCA Stadium]], [[Dharamshala]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bengaluru)
+| toss = Punjab Kings won the toss and elected to field.
+| round = {{anchor|match58}} '''Match 58'''
+| notes = Punjab Kings were eliminated from the playoffs as a result of this match.<ref>{{cite web |access-date=9 May 2024 |title=PBKS vs RCB, IPL 2024: Punjab Kings knocked out of playoffs contention after loss to Royal Challengers Bengaluru |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/pbks-vs-rcb-ipl-2024-punjab-kings-eliminated-playoff-race-qualification-scenario-cricket-news/article68158358.ece |publisher=[[Sportstar]] |date=9 May 2024 |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509183108/https://sportstar.thehindu.com/cricket/ipl/ipl-news/pbks-vs-rcb-ipl-2024-punjab-kings-eliminated-playoff-race-qualification-scenario-cricket-news/article68158358.ece/amp/ |url-status=live }}</ref>
+}}<section end=match58/>
+----
+<section begin=match59/>{{Single-innings cricket match
+| date = 10 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 231/3 (20 overs)
+| runs1 = [[Shubman Gill]] 104 (55)
+| wickets1 = [[Tushar Deshpande]] 2/33 (4 overs)
+| score2 = 196/8 (20 overs)
+| runs2 = [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] 63 (34)
+| wickets2 = [[Mohit Sharma]] 3/31 (4 overs)
+| result = Gujarat Titans won by 35 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426297.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Nikhil Patwardhan]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Chennai Super Kings won the toss and elected to field.
+| round = {{anchor|match59}} '''Match 59'''
+| notes = 
+}}<section end=match59/>
+----
+<section begin=match60/>{{Single-innings cricket match
+| date = 11 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Kolkata Knight Riders]]
+| team2 = [[Mumbai Indians]]
+| score1 = 157/7 (16 overs)
+| runs1 = [[Venkatesh Iyer]] 42 (21)
+| wickets1 = [[Piyush Chawla]] 2/28 (3 overs)
+| score2 = 139/8 (16 overs)
+| runs2 = [[Ishan Kishan]] 40 (22)
+| wickets2 = [[Varun Chakravarthy]] 2/17 (4 overs)
+| result = Kolkata Knight Riders won by 18 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426298.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Ulhas Gandhe]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match60}} '''Match 60'''
+| rain = The match was reduced to 16 overs per side due to rain. 
+| notes = Kolkata Knight Riders qualified for the playoffs as a result of this match.<ref>{{cite web |url=https://www.indiatoday.in/sports/cricket/story/ipl-2024-kkr-vs-mi-kolkata-playoffs-qualification-eden-gardens-2538070-2024-05-12 |title=KKR become 1st team to qualify for IPL 2024 playoffs after MI win |work=[[India Today]] |date=12 May 2024 |access-date=12 May 2024 |archive-date=12 May 2024 |archive-url=https://web.archive.org/web/20240512011118/https://www.indiatoday.in/amp/sports/cricket/story/ipl-2024-kkr-vs-mi-kolkata-playoffs-qualification-eden-gardens-2538070-2024-05-12 |url-status=live }}</ref>
+}}<section end=match60/>
+----
+<section begin=match61/>{{Single-innings cricket match
+| date = 12 May 2024
+| time = 15:30
+| daynight = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 141/5 (20 overs)
+| runs1 = [[Riyan Parag]] 47[[not out|*]] (35)
+| wickets1 = [[Simarjeet Singh]] 3/26 (4 overs)
+| score2 = 145/5 (18.2 overs)
+| runs2 = [[Ruturaj Gaikwad]] 42[[not out|*]] (41)
+| wickets2 = [[Ravichandran Ashwin]] 2/35 (4 overs)
+| result = Chennai Super Kings won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426299.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Yeshwant Barde]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Simarjeet Singh]] (Chennai Super Kings)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| round = {{anchor|match61}} '''Match 61'''
+| notes = 
+}}<section end=match61/>
+----
+<section begin=match62/>{{Single-innings cricket match
+| date = 12 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Royal Challengers Bengaluru]]
+| team2 = [[Delhi Capitals]]
+| score1 = 187/9 (20 overs)
+| runs1 = [[Rajat Patidar]] 52 (32)
+| wickets1 = [[Rasikh Salam]] 2/23 (3 overs)
+| score2 = 140 (19.1 overs)
+| runs2 = [[Axar Patel]] 57 (39)
+| wickets2 = [[Yash Dayal]] 3/20 (3.1 overs)
+| result = Royal Challengers Bengaluru won by 47 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426300.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Vineet Kulkarni]] (Ind)
+| motm = [[Cameron Green]] (Royal Challengers Bengaluru)
+| toss = Delhi Capitals won the toss and elected to field.
+| round = {{anchor|match62}} '''Match 62'''
+| notes = 
+}}<section end=match62/>
+----
+<section begin=match63/>{{Single-innings cricket match
+| date = 13 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Gujarat Titans]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 =
+| score2 =
+| result = Match abandoned
+| report = [https://www.espncricinfo.com/ci/engine/match/1426301.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Nikhil Patwardhan]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| toss = No toss.
+| round = {{anchor|match63}} '''Match 63'''
+| rain = No play was possible due to rain.
+| notes = Kolkata Knight Riders advanced to Qualifier 1 while Gujarat Titans were eliminated from the playoffs as a result of this match.<ref>{{Cite web |date=2024-05-13 |title=IPL 2024 points table update: KKR book place in Qualifier 1, GT out of playoffs race after rain abandons their match |url=https://indianexpress.com/article/sports/ipl/ipl-2024-points-table-kkr-gt-qualifier-1-playoffs-9326557/ |access-date=2024-05-14 |publisher=[[The Indian Express]] |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514064623/https://indianexpress.com/article/sports/ipl/ipl-2024-points-table-kkr-gt-qualifier-1-playoffs-9326557/ |url-status=live }}</ref>
+}}<section end=match63/>
+----
+<section begin=match64/>{{Single-innings cricket match
+| date = 14 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Delhi Capitals]]
+| team2 = [[Lucknow Super Giants]]
+| score1 = 208/4 (20 overs)
+| runs1 = [[Abishek Porel]] 58 (33)
+| wickets1 = [[Naveen-ul-Haq]] 2/51 (4 overs)
+| score2 = 189/9 (20 overs)
+| runs2 = [[Nicholas Pooran]] 61 (27)
+| wickets2 = [[Ishant Sharma]] 3/34 (4 overs)
+| result = Delhi Capitals won by 19 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426302.html Scorecard]
+| venue = [[Arun Jaitley Stadium]], [[Delhi]]
+| umpires = Vinod Seshan (Ind) and Akshay Totre (Ind)
+| motm = [[Ishant Sharma]] (Delhi Capitals)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| round = {{anchor|match64}} '''Match 64'''
+| notes = Rajasthan Royals qualified for the playoffs as a result of this match.<ref>{{cite web |url=https://www.firstpost.com/firstcricket/sports-news/ipl-2024-rajasthan-royals-playoffs-delhi-capitals-vs-lucknow-super-giants-result-13770868.html/amp |title=IPL 2024: Rajasthan Royals qualify for playoffs after Delhi Capitals' win over Lucknow Super Giants |work=Firstpost |access-date=14 May 2024 |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514184556/https://www.firstpost.com/firstcricket/sports-news/ipl-2024-rajasthan-royals-playoffs-delhi-capitals-vs-lucknow-super-giants-result-13770868.html/amp |url-status=live }}</ref>
+}}<section end=match64/>
+----
+<section begin=match65/>{{Single-innings cricket match
+| date = 15 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Punjab Kings]]
+| score1 = 144/9 (20 overs)
+| runs1 = [[Riyan Parag]] 48 (34)
+| wickets1 = [[Sam Curran]] 2/24 (3 overs)
+| score2 = 145/5 (18.5 overs)
+| runs2 = [[Sam Curran]] 63[[not out|*]] (41)
+| wickets2 = [[Avesh Khan]] 2/28 (3.5 overs)
+| result = Punjab Kings won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426303.html Scorecard]
+| venue = [[Assam Cricket Association Stadium, Guwahati]]
+| umpires = Saidharshan Kumar (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Sam Curran]] (Punjab Kings)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| round = {{anchor|match65}} '''Match 65'''
+}}<section end=match65/>
+----
+<section begin=match66/>{{Single-innings cricket match
+| date = 16 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Sunrisers Hyderabad]]
+| team2 = [[Gujarat Titans]]
+| score1 =
+| score2 =
+| result = Match abandoned
+| report = [https://www.espncricinfo.com/ci/engine/match/1426304.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Nand Kishore (cricketer, born 1970)|Nand Kishore]] (Ind) and [[Virender Sharma]] (Ind)
+| toss = No toss.
+| round = {{anchor|match66}} '''Match 66'''
+| rain = No play was possible due to rain.
+| notes = Sunrisers Hyderabad qualified for the playoffs while Delhi Capitals and Lucknow Super Giants were eliminated from the playoffs as a result of this match.<ref>{{Cite web |date=16 May 2024 |title=SRH qualify for playoffs after washout; DC and LSG eliminated |url=https://www.cricket.com/news/ipl-2024-srh-qualify-for-playoffs-dc-and-lsg-eliminated-5162024-1715878782854 |access-date=17 May 2024 |archive-date=9 June 2024 |archive-url=https://web.archive.org/web/20240609191640/https://www.cricket.com/news/ipl-2024-srh-qualify-for-playoffs-dc-and-lsg-eliminated-5162024-1715878782854 |url-status=live }}</ref>
+}}<section end=match66/>
+----
+<section begin=match67/>{{Single-innings cricket match
+| date = 17 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 214/6 (20 overs)
+| runs1 = [[Nicholas Pooran]] 75 (29)
+| wickets1 = [[Nuwan Thushara]] 3/28 (4 overs)
+| score2 = 196/6 (20 overs)
+| runs2 = [[Rohit Sharma]] 68 (38)
+| wickets2 = [[Ravi Bishnoi]] 2/37 (4 overs)
+| result = Lucknow Super Giants won by 18 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426305.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Rohan Pandit]] (Ind) and [[Navdeep Singh (cricketer)|Navdeep Singh]] (Ind)
+| motm = [[Nicholas Pooran]] (Lucknow Super Giants)
+| toss = Mumbai Indians won the toss and elected to field.
+| round = {{anchor|match67}} '''Match 67'''
+| notes = 
+}}<section end=match67/>
+----
+<section begin=match68/>{{Single-innings cricket match
+| date = 18 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Royal Challengers Bengaluru]]
+| team2 = [[Chennai Super Kings]]
+| score1 = 218/5 (20 overs)
+| runs1 = [[Faf du Plessis]] 54 (39)
+| wickets1 = [[Shardul Thakur]] 2/61 (4 overs)
+| score2 = 191/7 (20 overs)
+| runs2 = [[Rachin Ravindra]] 61 (37)
+| wickets2 = [[Yash Dayal]] 2/42 (4 overs)
+| result = Royal Challengers Bengaluru won by 27 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426306.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Akshay Totre (Ind)
+| motm = [[Faf du Plessis]] (Royal Challengers Bengaluru)
+| toss = Chennai Super Kings won the toss and elected to field.
+| round = {{anchor|match68}} '''Match 68'''
+| notes = Royal Challengers Bengaluru qualified for the playoffs while Chennai Super Kings were eliminated from the playoffs as a result of this match.<ref>{{cite web |access-date=18 May 2024 |title=RCB vs CSK Live Score, IPL 2024: Royal Challengers Bengaluru qualify for playoffs |url=https://indianexpress.com/article/sports/cricket/rcb-vs-csk-live-score-ipl-2024-match-68-today-royal-challengers-bengaluru-vs-chennai-super-kings-scorecard-updates-9336783/ |publisher=The Indian Express |date=18 May 2024 |archive-date=18 May 2024 |archive-url=https://web.archive.org/web/20240518084150/https://indianexpress.com/article/sports/cricket/rcb-vs-csk-live-score-ipl-2024-match-68-today-royal-challengers-bengaluru-vs-chennai-super-kings-scorecard-updates-9336783/ |url-status=live }}</ref>
+}}<section end=match68/>
+----
+<section begin=match69/>{{Single-innings cricket match
+| date = 19 May 2024
+| time = 15:30
+| daynight = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Sunrisers Hyderabad]] (H)
+| score1 = 214/5 (20 overs)
+| runs1 = [[Prabhsimran Singh]] 71 (45)
+| wickets1 = [[T Natarajan]] 2/33 (4 overs)
+| score2 = 215/6 (19.1 overs)
+| runs2 = [[Abhishek Sharma]] 66 (28)
+| wickets2 = [[Arshdeep Singh (cricketer)|Arshdeep Singh]] 2/37 (4 overs)
+| result = Sunrisers Hyderabad won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426307.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium]], [[Hyderabad]]
+| umpires = [[Nitin Menon]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Abhishek Sharma]] (Sunrisers Hyderabad)
+| toss = Punjab Kings won the toss and elected to bat.
+| round = {{anchor|match69}} '''Match 69'''
+}}<section end=match69/>
+----
+<section begin=match70/>{{Single-innings cricket match
+| date = 19 May 2024
+| time = 19:30
+| night = y
+| team1 = (H) [[Rajasthan Royals]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 =
+| score2 =
+| result = Match abandoned
+| report = [https://www.espncricinfo.com/ci/engine/match/1426308.html Scorecard]
+| venue = [[Assam Cricket Association Stadium, Guwahati]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and Saidharshan Kumar (Ind)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| round = {{anchor|match70}} '''Match 70'''
+| rain = No play was possible due to rain.
+| notes = Sunrisers Hyderabad advanced to Qualifier 1 as a result of this match.<ref>{{Cite web |date=2024-05-19 |title=RR vs KKR Highlights, IPL 2024: Rain forces washout in Guwahati; Rajasthan slip to Eliminator match vs RCB |url=https://indianexpress.com/article/sports/cricket/rr-vs-kkr-live-score-ipl-2024-match-70-today-rajasthan-royals-vs-kolkata-knight-riders-scorecard-updates-9338572/ |access-date=2024-10-21 |publisher=The Indian Express |language=en}}</ref>
+}}<section end=match70/>
+
+== Playoffs ==
+The playoffs were held from 21 to 26 May 2024. Qualifier 1 and Eliminator were played at the [[Narendra Modi Stadium]] in [[Ahmedabad]]. Qualifier 2 and the final were played at the [[M. A. Chidambaram Stadium]] in [[Chennai]].<ref name=playoffs />
+
+=== Bracket ===
+<section begin=bracket />
+{{4TeamBracket-PagePlayoff
+| team-width = 150px | score-width = 150px
+
+| RD1 = '''[[2024 Indian Premier League#Qualifier 1|Qualifier 1]]'''
+| RD1-text1 = 21 May 2024 {{en dash}} [[Narendra Modi Stadium|Ahmedabad]]
+| RD1-seed1 = '''1'''
+| RD1-team1 = '''[[Kolkata Knight Riders]]'''
+| RD1-score1 = '''164/2 (13.4 overs)'''
+| RD1-seed2 = 2
+| RD1-team2 = [[Sunrisers Hyderabad]]
+| RD1-score2 = 159 (19.3 overs)
+
+| RD1b = '''[[2024 Indian Premier League#Eliminator|Eliminator]]'''
+| RD1-text2 = 22 May 2024 {{en dash}} [[Narendra Modi Stadium|Ahmedabad]]
+| RD1-seed3 = '''3'''
+| RD1-team3 = '''[[Rajasthan Royals]]'''
+| RD1-score3 = '''174/6 (19 overs)'''
+| RD1-seed4 = 4
+| RD1-team4 = [[Royal Challengers Bengaluru]]
+| RD1-score4 = 172/8 (20 overs)
+
+| RD2 = '''[[2024 Indian Premier League#Qualifier 2|Qualifier 2]]'''
+| RD2-text1 = 24 May 2024 {{en dash}} [[M. A. Chidambaram Stadium|Chennai]]
+| RD2-seed1 = '''Q1L'''
+| RD2-team1 = '''[[Sunrisers Hyderabad]]'''
+| RD2-score1 = '''175/9 (20 overs)'''
+| RD2-seed2 = EW
+| RD2-team2 = [[Rajasthan Royals]]
+| RD2-score2 = 139/7 (20 overs)
+
+| RD3 = '''[[2024 Indian Premier League final|Final]]'''
+| RD3-text1 = 26 May 2024 {{en dash}} [[M. A. Chidambaram Stadium|Chennai]]
+| RD3-seed1 = '''Q1W'''
+| RD3-team1 = '''[[Kolkata Knight Riders]]'''
+| RD3-score1 = '''114/2 (10.3 overs)'''
+| RD3-seed2 = Q2W
+| RD3-team2 = [[Sunrisers Hyderabad]]
+| RD3-score2 = 113 (18.3 overs)
+
+}}
+<section end=bracket />
+
+=== Qualifier 1 ===
+<section begin=match71/>{{Single-innings cricket match
+| date = 21 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] 
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 159 (19.3 overs)
+| runs1 = [[Rahul Tripathi]] 55 (35)
+| wickets1 = [[Mitchell Starc]] 3/34 (4 overs)
+| score2 = 164/2 (13.4 overs)
+| runs2 = [[Shreyas Iyer]] 58[[not out|*]] (24)
+| wickets2 = [[T Natarajan]] 1/22 (3 overs)
+| result = Kolkata Knight Riders won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426309.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Anil Chaudhary (umpire)|Anil Chaudhary]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Mitchell Starc]] (Kolkata Knight Riders)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| round = {{anchor|match71}} '''Qualifier 1'''
+| rain =
+| notes = Kolkata Knight Riders qualified for the final for the 4th time in IPL history.<ref name=IPLF>{{Cite web |title=Indian Premier League Records - Cricket's Remarkable Feats |url=https://www.espncricinfo.com/records/trophy/indian-premier-league-117 |access-date=2024-10-18 |publisher=ESPNcricinfo |language=en |archive-date=6 June 2023 |archive-url=https://web.archive.org/web/20230606130028/https://www.espncricinfo.com/records/trophy/indian-premier-league-117 |url-status=live }}</ref>
+}}<section end=match71/>
+
+=== Eliminator ===
+<section begin=match72/>{{Single-innings cricket match
+| date = 22 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 172/8 (20 overs)
+| runs1 = [[Rajat Patidar]] 34 (22)
+| wickets1 = [[Avesh Khan]] 3/44 (4 overs)
+| score2 = 174/6 (19 overs)
+| runs2 = [[Yashasvi Jaiswal]] 45 (30)
+| wickets2 = [[Mohammed Siraj]] 2/33 (4 overs)
+| result = Rajasthan Royals won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426310.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Ravichandran Ashwin]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match72}} '''Eliminator'''
+| rain =
+| notes = 
+}}<section end=match72/>
+
+=== Qualifier 2 ===
+<section begin=match73/>{{Single-innings cricket match
+| date = 24 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Rajasthan Royals]]
+| score1 = 175/9 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 50 (34)
+| wickets1 = [[Avesh Khan]] 3/27 (4 overs)
+| score2 = 139/7 (20 overs)
+| runs2 = [[Dhruv Jurel]] 56[[not out|*]] (35)
+| wickets2 = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 3/23 (4 overs)
+| result = Sunrisers Hyderabad won by 36 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1426311.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Nitin Menon]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] (Sunrisers Hyderabad)
+| toss = Rajasthan Royals won the toss and elected to field.
+| round = {{anchor|match73}} '''Qualifier 2'''
+| rain =
+| notes = Sunrisers Hyderabad qualified for the final for the 3rd time in IPL history.<ref name=IPLF/>
+}}<section end=match73/>
+
+=== Final ===
+{{Main|2024 Indian Premier League final}}
+
+<section begin=match74/>{{Single-innings cricket match
+| date = 26 May 2024
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 113 (18.3 overs)
+| runs1 = [[Pat Cummins]] 24 (19)
+| wickets1 = [[Andre Russell]] 3/19 (2.3 overs)
+| score2 = 114/2 (10.3 overs)
+| runs2 = [[Venkatesh Iyer]] 52[[not out|*]] (26)
+| wickets2 = [[Pat Cummins]] 1/18 (2 overs)
+| result = Kolkata Knight Riders won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1426312.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Mitchell Starc]] (Kolkata Knight Riders)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| round = {{anchor|match74}} '''Final'''
+| rain =
+| notes = Kolkata Knight Riders won their third title.<ref>{{cite web |access-date=26 May 2024 |title=IPL 2024 Final: Kolkata Knight Riders registers comfortable win over Sunrisers Hyderabad, wins third title |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2024-final-result-kolkata-knight-riders-beats-sunrisers-hyderabad-wins-third-title-after-10-years-scorecard/article68219328.ece |publisher=[[Sportstar]] |date=26 May 2024 |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526173423/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2024-final-result-kolkata-knight-riders-beats-sunrisers-hyderabad-wins-third-title-after-10-years-scorecard/article68219328.ece |url-status=live }}</ref> They became the first team to win the IPL under different captains (2012 and 2014 under [[Gautam Gambhir]] and 2024 under [[Shreyas Iyer]]). They also set the record for the fastest IPL final chase with 57 balls remaining, equalling the record for the fewest losses in a single tournament. <ref>{{cite web |last1=Sarkar |first1=Oishi |title=IPL Final 2024: Kolkata Knight Riders achieve the unique record, become the only team in history to... |date=27 May 2024 |url=https://www.livemint.com/sports/cricket-news/ipl-final-2024-kolkata-knight-riders-achieve-unique-record-become-only-team-in-history-to-11716790387704.html |publisher=[[Mint (newspaper)|Mint]] |access-date=27 May 2024 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527092524/https://www.livemint.com/sports/cricket-news/ipl-final-2024-kolkata-knight-riders-achieve-unique-record-become-only-team-in-history-to-11716790387704.html |url-status=live }}</ref>
+* This was the shortest-ever final in the IPL history.<ref>{{cite web |access-date=31 May 2024 |title=After a 3-day final in 2023, KKR and SRH script shortest-ever summit clash in 2024 |url=https://www.indiatoday.in/sports/cricket/story/ipl-2024-final-kkr-vs-srh-shortest-ever-mitchell-starc-pat-cummins-chennai-2544143-2024-05-26 |publisher=[[India Today]] |date=26 May 2024 |archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531072638/https://www.indiatoday.in/sports/cricket/story/ipl-2024-final-kkr-vs-srh-shortest-ever-mitchell-starc-pat-cummins-chennai-2544143-2024-05-26 |url-status=live }}</ref><ref>{{cite web |access-date=31 May 2024 |title=IPL Final: KKR record biggest win in shortest-ever IPL final |url=https://www.thehansindia.com/sports/cricket/ipl-final-kkr-record-biggest-win-in-shortest-ever-ipl-final-881071 |publisher=[[The Hans India]] |date=27 May 2024 |archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531072641/https://www.thehansindia.com/sports/cricket/ipl-final-kkr-record-biggest-win-in-shortest-ever-ipl-final-881071 |url-status=live }}</ref>
+}}<section end=match74/>
+
+== Statistics and awards ==
+{{Hatnote|Top 5 tiers in each category are listed}}
+
+=== Most runs ===
+[[File:Virat Kohli in PMO New Delhi.jpg|thumb|[[Virat Kohli]] (pictured in 2024) scored the most runs in the season, and also scored his 8,000th IPL run during the 2024 season.|alt=Virat Kohli in 2024]]
+{| class="wikitable"
+! [[Run (cricket)|Runs]]
+! Player
+! Team
+|-
+! 741
+| [[Virat Kohli]] || [[Royal Challengers Bengaluru]]
+|-
+!583
+| [[Ruturaj Gaikwad]] || [[Chennai Super Kings]]
+|-
+!573
+|[[Riyan Parag]] || [[Rajasthan Royals]]
+|-
+!567
+| [[Travis Head]] || [[Sunrisers Hyderabad]]
+|-
+!531
+| [[Sanju Samson]] || [[Rajasthan Royals]]
+|}
+*Source: [[ESPNcricinfo]]<ref>{{Cite web |title=Indian Premier League, 2024 batting most runs career Records |url=https://www.espncricinfo.com/records/tournament/batting-most-runs-career/indian-premier-league-2024-15940 |access-date=2024-05-06 |publisher=[[ESPNcricinfo]] |language=en |archive-date=1 May 2024 |archive-url=https://web.archive.org/web/20240501104846/https://www.espncricinfo.com/records/tournament/batting-most-runs-career/indian-premier-league-2024-15940 |url-status=live }}</ref>
+
+=== Most wickets ===
+
+{| class="wikitable"
+![[Wicket]]s
+! Player
+!Team
+|- 
+! 24
+| [[Harshal Patel]]  || [[Punjab Kings]]
+|-
+!21
+| [[Varun Chakravarthy]]  || [[Kolkata Knight Riders]]
+|-
+!20
+| [[Jasprit Bumrah]]  || [[Mumbai Indians]]
+|-
+!19
+| [[T Natarajan]]  || [[Sunrisers Hyderabad]]
+|-
+!19
+| [[Harshit Rana]]  || [[Kolkata Knight Riders]]
+|}
+*Source: [[ESPNcricinfo]]<ref>{{Cite web |title=Indian Premier League, 2024 bowling most wickets career Records |url=https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/indian-premier-league-2024-15940 |access-date=2024-05-04 |publisher=[[ESPNcricinfo]] |language=en |archive-date=1 May 2024 |archive-url=https://web.archive.org/web/20240501104908/https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/indian-premier-league-2024-15940 |url-status=live }}</ref>
+
+=== Most Valuable Player ===
+[[File:Sunil Narine.jpg|thumb|[[Sunil Narine]] (pictured in 2014) became the first cricketer to win the Most Valuable Player of the season award for three IPL seasons.|alt=Sunil Narine in 2014]]
+[[Sunil Narine]] won this season's Most Valuable Player award and became the first cricketer to win this award three times.<ref>{{Cite web |date=2024-05-27 |title=Birthday boy Sunil Narine becomes IPL's MVP for third time after KKR's triumph |url=https://www.indiatoday.in/sports/cricket/story/sunil-narine-set-to-become-ipl-2024-most-valuable-player-of-the-season-know-all-the-details-about-the-award-2544063-2024-05-27 |access-date=2024-10-21 |publisher=[[India Today]] |language=en}}</ref><ref>{{cite news |access-date=31 May 2024 |title=Sunil Narine becomes first player to win 'Most Valuable Player' award in IPL thrice |url=https://m.economictimes.com/news/sports/sunil-narine-becomes-first-player-to-win-most-valuable-player-award-in-ipl-thrice/articleshow/110453453.cms |publisher=[[The Economic Times]] |date=27 May 2024 }}</ref>
+
+{| class="wikitable"
+!Points
+!Player
+!Team
+|-
+!450.0
+| [[Sunil Narine]] || [[Kolkata Knight Riders]]
+|-
+!315.5
+| [[Virat Kohli]]|| [[Royal Challengers Bengaluru]]
+|-
+!274.0
+|[[Travis Head]]|| [[Sunrisers Hyderabad]]
+|- 
+!273.5
+| [[Abhishek Sharma]]|| [[Sunrisers Hyderabad]]
+|-
+! 259.0
+| [[Pat Cummins]]|| [[Sunrisers Hyderabad]]
+|}
+*Source: IPLT20<ref>{{cite web|url=https://www.iplt20.com/stats/2024/playerPoints?stats_type=bowling|title=Indian Premier League 2024 Stats -Most Valuable Player|work=[[Indian Premier League]]|access-date=12 April 2024|archive-date=1 May 2024|archive-url=https://web.archive.org/web/20240501132706/https://www.iplt20.com/stats/2024/playerPoints?stats_type=bowling|url-status=live}}</ref>
+
+=== End of season awards ===
+[[File:Travis_Head_bowling_at_Perth_Stadium,_First_Test_Australia_versus_West_Indies,_2_December_2022_03_(cropped).jpg|thumb|[[Travis Head]] (pictured in 2022) scored the most fours in the 2024 season.|alt=Travis Head in 2022]]
+{| class="wikitable"
+!Award
+!Prize
+!Player
+!Team
+|-
+| Emerging player of the season || {{INRConvert|10|l}} || [[Nitish Kumar Reddy]] || [[Sunrisers Hyderabad]]
+|-
+| Striker of the season || {{INRConvert|10|l}}, trophy and a car || [[Jake Fraser-McGurk]] || [[Delhi Capitals]]
+|-
+| Fantasy player of the season || {{INRConvert|10|l}} and trophy || [[Sunil Narine]]  || [[Kolkata Knight Riders]]
+|-
+| Most sixes || {{INRConvert|10|l}} and trophy || [[Abhishek Sharma]]  || [[Sunrisers Hyderabad]]
+|-
+| Most fours || {{INRConvert|10|l}} and trophy || [[Travis Head]]  || [[Sunrisers Hyderabad]]
+|-
+| Catch of the season || {{INRConvert|10|l}} and trophy || [[Ramandeep Singh (cricketer)|Ramandeep Singh]] || [[Kolkata Knight Riders]]
+|-
+| Team fairplay award || {{INRConvert|10|l}} || – || [[Sunrisers Hyderabad]]
+|-
+| Purple Cap (most wickets) || {{INRConvert|10|l}} || [[Harshal Patel]] || [[Punjab Kings]]
+|-
+| Orange Cap (most runs) || {{INRConvert|10|l}} || [[Virat Kohli]] || [[Royal Challengers Bengaluru]]
+|-
+| Most Valuable Player || {{INRConvert|10|l}} and trophy || [[Sunil Narine]]|| [[Kolkata Knight Riders]]
+|}
+*Source: SportStar<ref>{{cite web |access-date=27 May 2024 |date=27 May 2024 |title=IPL 2024 Final, Presentation Ceremony Full List of Awards: Sunil Narine gets Most Valuable Player of the Season; Virat Kohli wins Orange Cap |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-2024-full-list-of-award-winners-presentation-orange-purple-cap-mvp-sixes-fours-catch-emerging-player-fairplay/article68218334.ece |publisher=[[Sportstar]] |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526232018/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-final-2024-full-list-of-award-winners-presentation-orange-purple-cap-mvp-sixes-fours-catch-emerging-player-fairplay/article68218334.ece |url-status=live }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.iplt20.com/}}
+* {{ESPNcricinfo tournament|indian-premier-league-2024-1410320}}
+
+{{2024 Indian Premier League}}
+{{Indian Premier League}}
+{{Portal bar|India|Cricket}}
+
+[[Category:2024 Indian Premier League|*]]
+[[Category:Domestic cricket competitions in 2023–24]]
+[[Category:2024 in Indian cricket]]
