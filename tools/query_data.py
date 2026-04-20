@@ -8,7 +8,7 @@ import sqlite3
 from pathlib import Path
 
 from dotenv import load_dotenv
-from openai import OpenAI
+from groq import Groq
 
 
 def _db_path() -> Path:
@@ -69,11 +69,12 @@ def _heuristic_sql(question: str) -> str:
 
 
 def _llm_sql(question: str, schema: str, error_feedback: str | None = None) -> str:
-    api_key = os.getenv("OPENAI_API_KEY")
+    api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         return _heuristic_sql(question)
 
-    client = OpenAI(api_key=api_key)
+    client = Groq(api_key=api_key)
+    model_name = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
     prompt = (
         "You are an expert SQLite query writer for IPL analytics.\n"
         "Use ONLY the schema below.\n"
@@ -85,8 +86,17 @@ def _llm_sql(question: str, schema: str, error_feedback: str | None = None) -> s
     if error_feedback:
         prompt += f"\nPrevious SQL error: {error_feedback}\nPlease fix and return corrected SQL only.\n"
 
-    resp = client.responses.create(model="gpt-4o-mini", input=prompt)
-    text = (resp.output_text or "").strip()
+    resp = client.chat.completions.create(
+        model=model_name,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        temperature=0,
+    )
+    text = ((resp.choices[0].message.content if resp.choices else "") or "").strip()
     sql = _extract_sql(text)
     if not sql.lower().startswith("select"):
         return _heuristic_sql(question)
