@@ -91,7 +91,7 @@ Structured Data:
  Pandas (CSV-based querying) or SQLite
 
 Web Search:
- DuckDuckGo
+ DuckDuckGo/tavily
  
 Agent Framework:
  Custom-built agent loop (no black-box frameworks)

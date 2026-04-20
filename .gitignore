@@ -201,6 +201,16 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# IPL Agentic RAG runtime artifacts
+cache/
+traces/
+data/vectorstore/
+data/ipl.db
+.DS_Store
+*.pyc
+*.pyo
+.venv/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
