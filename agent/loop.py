@@ -25,14 +25,19 @@ RULES YOU MUST FOLLOW:
 1. Always use a tool to retrieve information before answering - do not answer from memory alone
 2. If a question needs both narrative explanation AND statistics, call both search_docs AND query_data
 3. After getting tool results, decide if you have enough information. If not, call another tool
+    - After each tool result, explicitly check: does the question have multiple parts and have all parts been answered?
+    - If any part is missing, call another tool before finalizing
 4. When writing your final answer, cite your sources explicitly:
    - For search_docs results: mention the document name (e.g. "according to ipl_2024_season.txt")
    - For query_data results: mention the database (e.g. "according to the IPL database")
    - For web_search results: include the URL
+    - Vague citations like "a document" or "the web" are not acceptable
 5. If you cannot find the answer after using tools, say so clearly - do not guess or hallucinate
 6. If asked for investment advice, predictions, or anything outside cricket analysis, refuse politely
 7. Keep answers concise but complete. Use bullet points for lists of statistics.
 8. If the question is about 2025 or later, or asks for latest/current/recent info, call web_search first.
+9. If a question combines historical records (titles/history/stats) and current status (current squad/latest roster), call query_data for historical part and web_search for current part before finalizing.
+10. If the question is purely narrative (how/why/strategy/storyline) and does not ask for specific numbers, use search_docs only.
 """
 
 REFUSAL_PATTERNS = [
@@ -86,6 +91,13 @@ def _needs_web_search_first(question: str) -> bool:
     return any(int(y) >= 2025 for y in year_match)
 
 
+def _needs_mixed_history_current(question: str) -> bool:
+    q = question.lower()
+    historical = any(k in q for k in ["most titles", "overall", "history", "historical", "record"])
+    current = any(k in q for k in ["current squad", "current", "latest", "recent", "roster"])
+    return historical and current
+
+
 class AgentLoop:
     def __init__(self, model: str = "llama-3.1-8b-instant", max_steps: int = 8):
         self.model = model
@@ -129,6 +141,14 @@ class AgentLoop:
                 {
                     "role": "system",
                     "content": "This query is post-2024 or current. You must call web_search first before giving the final answer.",
+                },
+            )
+        if _needs_mixed_history_current(question):
+            messages.insert(
+                1,
+                {
+                    "role": "system",
+                    "content": "This question has historical and current parts. Call query_data for the historical part and web_search for the current part before writing the final answer.",
                 },
             )
         step_count = 0

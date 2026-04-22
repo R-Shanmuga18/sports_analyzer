@@ -46,6 +46,7 @@ CALL THIS TOOL when the question asks about:
 - Aggregates such as totals, counts, maximums, minimums, rankings, comparisons
 - Season-level or player-level statistical analysis
 - Any question that can be answered with SQL over tabular match data
+- If the question contains any number, statistic, count, total, average, highest, lowest, or ranking - this is your tool
 
 DO NOT call this tool when:
 - The user asks for narrative explanation, strategy, or match storyline - use search_docs instead
@@ -72,7 +73,7 @@ Input must be one clear natural language statistics question that can be transla
             "description": """Use this tool to search the live web for IPL information that is not covered by local data.
 
 CALL THIS TOOL when the question asks about:
-- Events after the 2024 IPL season (transfers, auctions, injuries, coaching changes)
+- Events from 2025 onwards (transfers, auctions, injuries, coaching changes)
 - Current player status, current squads, or current team updates
 - Live or recent results and announcements
 - Questions containing words like "latest", "current", "recent", "now", or "today"
@@ -81,6 +82,8 @@ DO NOT call this tool when:
 - The question is about historical 2023 or 2024 statistics - use query_data instead
 - The question asks for narrative explanations from season reviews - use search_docs instead
 - The answer already exists in local structured or document data - use query_data or search_docs first
+
+ONLY call this for information from 2025 onwards or explicitly current/latest/recent status questions.
 
 Input must be a short, focused search phrase under 10 words, not a long paragraph.""",
             "parameters": {

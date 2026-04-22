@@ -11,6 +11,20 @@ from dotenv import load_dotenv
 from groq import Groq
 
 
+TEAM_ALIASES = {
+    "csk": "Chennai Super Kings",
+    "mi": "Mumbai Indians",
+    "rcb": "Royal Challengers Bangalore",
+    "kkr": "Kolkata Knight Riders",
+    "srh": "Sunrisers Hyderabad",
+    "dc": "Delhi Capitals",
+    "rr": "Rajasthan Royals",
+    "lsg": "Lucknow Super Giants",
+    "gt": "Gujarat Titans",
+    "pbks": "Punjab Kings",
+}
+
+
 def _db_path() -> Path:
     base_dir = Path(__file__).resolve().parents[1]
     db_path = Path(os.getenv("SQLITE_DB_PATH", "data/ipl.db"))
@@ -44,13 +58,118 @@ def _ensure_limit(sql: str, limit: int = 20) -> str:
     return f"{sql.rstrip(';')} LIMIT {limit}"
 
 
+def _extract_years(question: str) -> list[int]:
+    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", question)]
+    return sorted(list(dict.fromkeys(years)))
+
+
+def _extract_top_n(question: str, default: int = 3) -> int:
+    m = re.search(r"\btop\s+(\d+)\b", question.lower())
+    if m:
+        return max(1, int(m.group(1)))
+    return default
+
+
+def _extract_team_names(question: str) -> list[str]:
+    q = question.lower()
+    teams: list[str] = []
+    for short, full in TEAM_ALIASES.items():
+        if re.search(rf"\b{re.escape(short)}\b", q) and full not in teams:
+            teams.append(full)
+    return teams
+
+
 def _heuristic_sql(question: str) -> str:
     q = question.lower()
-    if "how many" in q and "csk" in q and "2025" in q and "win" in q:
+    years = _extract_years(question)
+    team_names = _extract_team_names(question)
+
+    if "final" in q and "score" in q:
+        year_filter = f"m.season = {years[0]} AND " if years else ""
         return (
-            "SELECT COUNT(*) AS csk_wins_2025 FROM matches "
-            "WHERE season = 2025 AND lower(winner) LIKE '%chennai super kings%'"
+            "SELECT m.team1, m.team2, m.winner, m.result, m.result_margin, "
+            "MAX(CASE WHEN d.inning = 1 THEN team_score END) AS team1_score, "
+            "MAX(CASE WHEN d.inning = 2 THEN team_score END) AS team2_score "
+            "FROM matches m "
+            "JOIN ("
+            "SELECT match_id, inning, SUM(total_runs) AS team_score "
+            "FROM deliveries GROUP BY match_id, inning"
+            ") d ON d.match_id = m.id "
+            f"WHERE {year_filter}lower(m.match_type) = 'final' "
+            "GROUP BY m.id, m.team1, m.team2, m.winner, m.result, m.result_margin"
         )
+
+    if "most titles" in q or ("titles" in q and "overall" in q):
+        return (
+            "SELECT winner AS team, COUNT(*) AS titles "
+            "FROM matches WHERE lower(match_type) = 'final' AND winner IS NOT NULL "
+            "GROUP BY winner ORDER BY titles DESC"
+        )
+
+    if "run" in q and "top" in q and ("scorer" in q or "run scorers" in q):
+        year_filter = f"WHERE m.season = {years[0]} " if years else ""
+        top_n = _extract_top_n(question, default=3)
+        return (
+            "SELECT d.batsman, SUM(d.batsman_runs) AS total_runs "
+            "FROM deliveries d JOIN matches m ON d.match_id = m.id "
+            f"{year_filter}"
+            f"GROUP BY d.batsman ORDER BY total_runs DESC LIMIT {top_n}"
+        )
+
+    if "highest" in q and "individual score" in q:
+        return (
+            "SELECT batsman, innings_runs FROM ("
+            "SELECT batsman, match_id, SUM(batsman_runs) AS innings_runs "
+            "FROM deliveries GROUP BY batsman, match_id"
+            ") t ORDER BY innings_runs DESC LIMIT 1"
+        )
+
+    if "wicket" in q and ("top" in q or "highest" in q):
+        year_filter = f"m.season = {years[0]} AND " if years else ""
+        top_n = _extract_top_n(question, default=1)
+        return (
+            "SELECT d.bowler, COUNT(*) AS wickets "
+            "FROM deliveries d JOIN matches m ON d.match_id = m.id "
+            f"WHERE {year_filter}d.is_wicket = 1 "
+            "AND lower(COALESCE(d.dismissal_kind, '')) NOT IN ('run out', 'retired hurt', 'obstructing the field') "
+            f"GROUP BY d.bowler ORDER BY wickets DESC LIMIT {top_n}"
+        )
+
+    if "win rate" in q and team_names:
+        season_filter = ", ".join([str(y) for y in years]) if years else "2023, 2024"
+        union_teams = " UNION ALL ".join([f"SELECT '{t}' AS team" for t in team_names])
+        return (
+            "SELECT season, team, wins, matches_played, "
+            "ROUND((wins * 100.0) / NULLIF(matches_played, 0), 2) AS win_rate_pct "
+            "FROM ("
+            "SELECT m.season AS season, t.team AS team, "
+            "SUM(CASE WHEN lower(m.winner) = lower(t.team) THEN 1 ELSE 0 END) AS wins, "
+            "SUM(CASE WHEN lower(m.team1) = lower(t.team) OR lower(m.team2) = lower(t.team) THEN 1 ELSE 0 END) AS matches_played "
+            "FROM matches m "
+            f"JOIN ({union_teams}) t "
+            f"WHERE m.season IN ({season_filter}) "
+            "GROUP BY m.season, t.team"
+            ") s ORDER BY season, team"
+        )
+
+    if ("compared" in q or "vs" in q) and "win" in q and team_names and len(years) >= 2:
+        team_like = team_names[0].lower().replace("'", "''")
+        y1, y2 = years[0], years[1]
+        return (
+            "SELECT "
+            f"SUM(CASE WHEN season = {y1} AND lower(winner) LIKE '%{team_like.split()[0]}%' THEN 1 ELSE 0 END) AS wins_{y1}, "
+            f"SUM(CASE WHEN season = {y2} AND lower(winner) LIKE '%{team_like.split()[0]}%' THEN 1 ELSE 0 END) AS wins_{y2} "
+            "FROM matches"
+        )
+
+    if "how many" in q and "win" in q and team_names and years:
+        team = team_names[0].lower().replace("'", "''")
+        year = years[0]
+        return (
+            f"SELECT COUNT(*) AS team_wins FROM matches WHERE season = {year} "
+            f"AND lower(winner) LIKE '%{team.split()[0]}%'"
+        )
+
     if "highest" in q and "total" in q and "2024" in q:
         return (
             "SELECT d.batting_team, SUM(d.total_runs) AS team_total, m.date, m.venue "
@@ -59,29 +178,64 @@ def _heuristic_sql(question: str) -> str:
             "GROUP BY d.match_id, d.batting_team, m.date, m.venue "
             "ORDER BY team_total DESC LIMIT 1"
         )
+
     if "seasons" in q and "winners" in q:
         return (
             "SELECT season, winner FROM matches "
             "WHERE lower(match_type) = 'final' "
             "GROUP BY season, winner ORDER BY season"
         )
+
     return "SELECT * FROM matches ORDER BY season DESC"
 
 
+def _normalize_question(question: str) -> str:
+    normalized = f" {question.lower()} "
+    for short, full in TEAM_ALIASES.items():
+        normalized = re.sub(rf"\b{re.escape(short)}\b", full.lower(), normalized)
+    return re.sub(r"\s+", " ", normalized).strip()
+
+
+def _should_use_heuristic(question: str) -> bool:
+    q = question.lower()
+    has_team_alias = bool(re.search(r"\b(csk|mi|rcb|kkr|srh|dc|rr|lsg|gt|pbks)\b", q))
+    return any(
+        [
+            "most titles" in q,
+            ("top" in q and "run" in q and "scorer" in q),
+            ("highest" in q and "individual score" in q),
+            ("win rate" in q and has_team_alias),
+            ("win" in q and ("compared" in q or "vs" in q) and has_team_alias),
+            ("wicket" in q and ("top" in q or "highest" in q)),
+            ("final" in q and "score" in q),
+        ]
+    )
+
+
 def _llm_sql(question: str, schema: str, error_feedback: str | None = None) -> str:
+    if _should_use_heuristic(question):
+        return _heuristic_sql(question)
+
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         return _heuristic_sql(question)
 
     client = Groq(api_key=api_key)
     model_name = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+    normalized_question = _normalize_question(question)
     prompt = (
         "You are an expert SQLite query writer for IPL analytics.\n"
         "Use ONLY the schema below.\n"
         "Return ONLY a single SELECT SQL query, no explanation.\n"
         "Never use DDL/DML.\n\n"
+        "Important query-writing constraints for this schema:\n"
+        "- The deliveries table does NOT have a season column. If season is needed, JOIN deliveries.match_id = matches.id and filter on matches.season.\n"
+        "- Team short names may appear in user questions (CSK, MI, RCB, KKR). Map them to full team names in matches.team1/team2/winner.\n"
+        "- For highest individual batting score, aggregate SUM(batsman_runs) by batsman and match_id, then take MAX over innings total.\n"
+        "- Return portable SQLite syntax only.\n\n"
         f"Schema:\n{schema}\n\n"
         f"User question: {question}\n"
+        f"Normalized question: {normalized_question}\n"
     )
     if error_feedback:
         prompt += f"\nPrevious SQL error: {error_feedback}\nPlease fix and return corrected SQL only.\n"
@@ -163,6 +317,20 @@ def query_data(query: str) -> dict:
                         "row_count": 0,
                         "source": "ipl.db",
                     }
+
+            if not rows:
+                heuristic_sql = _ensure_limit(_heuristic_sql(query), 20)
+                if heuristic_sql != sql:
+                    try:
+                        cur = conn.execute(heuristic_sql)
+                        heuristic_rows = cur.fetchmany(20)
+                        heuristic_cols = [c[0] for c in (cur.description or [])]
+                        if heuristic_rows:
+                            rows = heuristic_rows
+                            cols = heuristic_cols
+                            sql = heuristic_sql
+                    except Exception:
+                        pass
 
             return {
                 "result": _format_result(cols, rows),
