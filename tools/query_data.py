@@ -2,26 +2,43 @@
 
 from __future__ import annotations
 
+import logging
 import os
 import re
 import sqlite3
+from functools import lru_cache
 from pathlib import Path
 
 from dotenv import load_dotenv
-from groq import Groq
 
+load_dotenv()
 
-TEAM_ALIASES = {
+logger = logging.getLogger(__name__)
+
+TEAM_ALIASES: dict[str, str] = {
     "csk": "Chennai Super Kings",
     "mi": "Mumbai Indians",
     "rcb": "Royal Challengers Bangalore",
+    "rrb": "Royal Challengers Bangalore",  # common typo
     "kkr": "Kolkata Knight Riders",
     "srh": "Sunrisers Hyderabad",
     "dc": "Delhi Capitals",
+    "dd": "Delhi Daredevils",  # old name
     "rr": "Rajasthan Royals",
     "lsg": "Lucknow Super Giants",
     "gt": "Gujarat Titans",
     "pbks": "Punjab Kings",
+    "kxip": "Kings XI Punjab",  # old name
+    "pw": "Pune Warriors",
+    "ris": "Rising Pune Supergiant",
+}
+
+# These columns have known categorical values the LLM must know about.
+_SAMPLE_VALUES: dict[str, list] = {
+    "match_type": ["League", "Qualifier 1", "Qualifier 2", "Eliminator", "Final"],
+    "result": ["runs", "wickets", "tie", "no result"],
+    "toss_decision": ["bat", "field"],
+    "dl_applied": [0, 1],
 }
 
 
@@ -34,236 +51,189 @@ def _db_path() -> Path:
 
 
 def _get_schema(conn: sqlite3.Connection) -> str:
+    """
+    Return a rich schema string including column types AND sample categorical
+    values for key columns. This is what we show the LLM so it writes
+    correct WHERE clauses the first time.
+    """
     tables = conn.execute(
-        "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name"
+        "SELECT name FROM sqlite_master "
+        "WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name"
     ).fetchall()
+
     blocks: list[str] = []
     for (table_name,) in tables:
         cols = conn.execute(f"PRAGMA table_info({table_name})").fetchall()
-        col_text = ", ".join([f"{c[1]} {c[2]}" for c in cols])
-        blocks.append(f"{table_name}({col_text})")
-    return "\n".join(blocks)
+        col_lines: list[str] = []
+        for c in cols:
+            col_name, col_type = c[1], c[2]
+            hint = ""
+            # Inline sample values for known categorical columns
+            if col_name in _SAMPLE_VALUES:
+                samples = ", ".join(repr(v) for v in _SAMPLE_VALUES[col_name])
+                hint = f"  -- sample values: {samples}"
+            # Show a few real distinct values for other string columns
+            elif col_type.upper() in ("TEXT", "VARCHAR") and col_name not in (
+                "venue",
+                "city",
+                "date",
+                "umpire1",
+                "umpire2",
+                "player_of_match",
+            ):
+                try:
+                    rows = conn.execute(
+                        f"SELECT DISTINCT {col_name} FROM {table_name} "
+                        f"WHERE {col_name} IS NOT NULL LIMIT 4"
+                    ).fetchall()
+                    if rows:
+                        samples = ", ".join(repr(r[0]) for r in rows)
+                        hint = f"  -- e.g. {samples}"
+                except Exception:
+                    pass
+            col_lines.append(f"  {col_name} {col_type}{hint}")
+        blocks.append(f"TABLE {table_name}(\n" + "\n".join(col_lines) + "\n)")
+
+    # Add row counts so the LLM knows data coverage
+    for (table_name,) in tables:
+        try:
+            count = conn.execute(f"SELECT COUNT(*) FROM {table_name}").fetchone()[0]
+            for i, block in enumerate(blocks):
+                if block.startswith(f"TABLE {table_name}"):
+                    blocks[i] = block.rstrip(")") + f"\n)  -- {count} rows"
+        except Exception:
+            pass
+
+    return "\n\n".join(blocks)
+
+
+@lru_cache(maxsize=1)
+def _cached_schema(db_path_str: str) -> str:
+    """Cache schema string per DB path to avoid re-reading on every call."""
+    with sqlite3.connect(db_path_str) as conn:
+        return _get_schema(conn)
 
 
 def _extract_sql(text: str) -> str:
+    """Extract SQL from LLM response, handling markdown fences."""
     fence = re.search(r"```(?:sql)?\s*(.*?)```", text, flags=re.IGNORECASE | re.DOTALL)
     if fence:
-        return fence.group(1).strip().rstrip(";")
-    return text.strip().rstrip(";")
+        candidate = fence.group(1).strip().rstrip(";")
+    else:
+        candidate = text.strip().rstrip(";")
+    # Strip any leading explanation lines (LLM sometimes adds them despite instructions)
+    lines = [l for l in candidate.splitlines() if l.strip().upper().startswith("SELECT")]
+    if lines:
+        # Rejoin from the first SELECT line onward
+        start_idx = candidate.upper().find("SELECT")
+        if start_idx != -1:
+            return candidate[start_idx:].rstrip(";")
+    return candidate
 
 
 def _ensure_limit(sql: str, limit: int = 20) -> str:
+    """
+    Append LIMIT only to the outermost query.
+    Handles CTEs and subqueries correctly by checking only after the last
+    closing paren of any subquery.
+    """
     if re.search(r"\blimit\b", sql, flags=re.IGNORECASE):
         return sql
-    return f"{sql.rstrip(';')} LIMIT {limit}"
-
-
-def _extract_years(question: str) -> list[int]:
-    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", question)]
-    return sorted(list(dict.fromkeys(years)))
-
-
-def _extract_top_n(question: str, default: int = 3) -> int:
-    m = re.search(r"\btop\s+(\d+)\b", question.lower())
-    if m:
-        return max(1, int(m.group(1)))
-    return default
-
-
-def _extract_team_names(question: str) -> list[str]:
-    q = question.lower()
-    teams: list[str] = []
-    for short, full in TEAM_ALIASES.items():
-        if re.search(rf"\b{re.escape(short)}\b", q) and full not in teams:
-            teams.append(full)
-    return teams
-
-
-def _heuristic_sql(question: str) -> str:
-    q = question.lower()
-    years = _extract_years(question)
-    team_names = _extract_team_names(question)
-
-    if "final" in q and "score" in q:
-        year_filter = f"m.season = {years[0]} AND " if years else ""
-        return (
-            "SELECT m.team1, m.team2, m.winner, m.result, m.result_margin, "
-            "MAX(CASE WHEN d.inning = 1 THEN team_score END) AS team1_score, "
-            "MAX(CASE WHEN d.inning = 2 THEN team_score END) AS team2_score "
-            "FROM matches m "
-            "JOIN ("
-            "SELECT match_id, inning, SUM(total_runs) AS team_score "
-            "FROM deliveries GROUP BY match_id, inning"
-            ") d ON d.match_id = m.id "
-            f"WHERE {year_filter}lower(m.match_type) = 'final' "
-            "GROUP BY m.id, m.team1, m.team2, m.winner, m.result, m.result_margin"
-        )
-
-    if "most titles" in q or ("titles" in q and "overall" in q):
-        return (
-            "SELECT winner AS team, COUNT(*) AS titles "
-            "FROM matches WHERE lower(match_type) = 'final' AND winner IS NOT NULL "
-            "GROUP BY winner ORDER BY titles DESC"
-        )
-
-    if "run" in q and "top" in q and ("scorer" in q or "run scorers" in q):
-        year_filter = f"WHERE m.season = {years[0]} " if years else ""
-        top_n = _extract_top_n(question, default=3)
-        return (
-            "SELECT d.batsman, SUM(d.batsman_runs) AS total_runs "
-            "FROM deliveries d JOIN matches m ON d.match_id = m.id "
-            f"{year_filter}"
-            f"GROUP BY d.batsman ORDER BY total_runs DESC LIMIT {top_n}"
-        )
-
-    if "highest" in q and "individual score" in q:
-        return (
-            "SELECT batsman, innings_runs FROM ("
-            "SELECT batsman, match_id, SUM(batsman_runs) AS innings_runs "
-            "FROM deliveries GROUP BY batsman, match_id"
-            ") t ORDER BY innings_runs DESC LIMIT 1"
-        )
-
-    if "wicket" in q and ("top" in q or "highest" in q):
-        year_filter = f"m.season = {years[0]} AND " if years else ""
-        top_n = _extract_top_n(question, default=1)
-        return (
-            "SELECT d.bowler, COUNT(*) AS wickets "
-            "FROM deliveries d JOIN matches m ON d.match_id = m.id "
-            f"WHERE {year_filter}d.is_wicket = 1 "
-            "AND lower(COALESCE(d.dismissal_kind, '')) NOT IN ('run out', 'retired hurt', 'obstructing the field') "
-            f"GROUP BY d.bowler ORDER BY wickets DESC LIMIT {top_n}"
-        )
-
-    if "win rate" in q and team_names:
-        season_filter = ", ".join([str(y) for y in years]) if years else "2023, 2024"
-        union_teams = " UNION ALL ".join([f"SELECT '{t}' AS team" for t in team_names])
-        return (
-            "SELECT season, team, wins, matches_played, "
-            "ROUND((wins * 100.0) / NULLIF(matches_played, 0), 2) AS win_rate_pct "
-            "FROM ("
-            "SELECT m.season AS season, t.team AS team, "
-            "SUM(CASE WHEN lower(m.winner) = lower(t.team) THEN 1 ELSE 0 END) AS wins, "
-            "SUM(CASE WHEN lower(m.team1) = lower(t.team) OR lower(m.team2) = lower(t.team) THEN 1 ELSE 0 END) AS matches_played "
-            "FROM matches m "
-            f"JOIN ({union_teams}) t "
-            f"WHERE m.season IN ({season_filter}) "
-            "GROUP BY m.season, t.team"
-            ") s ORDER BY season, team"
-        )
-
-    if ("compared" in q or "vs" in q) and "win" in q and team_names and len(years) >= 2:
-        team_like = team_names[0].lower().replace("'", "''")
-        y1, y2 = years[0], years[1]
-        return (
-            "SELECT "
-            f"SUM(CASE WHEN season = {y1} AND lower(winner) LIKE '%{team_like.split()[0]}%' THEN 1 ELSE 0 END) AS wins_{y1}, "
-            f"SUM(CASE WHEN season = {y2} AND lower(winner) LIKE '%{team_like.split()[0]}%' THEN 1 ELSE 0 END) AS wins_{y2} "
-            "FROM matches"
-        )
-
-    if "how many" in q and "win" in q and team_names and years:
-        team = team_names[0].lower().replace("'", "''")
-        year = years[0]
-        return (
-            f"SELECT COUNT(*) AS team_wins FROM matches WHERE season = {year} "
-            f"AND lower(winner) LIKE '%{team.split()[0]}%'"
-        )
-
-    if "highest" in q and "total" in q and "2024" in q:
-        return (
-            "SELECT d.batting_team, SUM(d.total_runs) AS team_total, m.date, m.venue "
-            "FROM deliveries d JOIN matches m ON d.match_id = m.id "
-            "WHERE m.season = 2024 "
-            "GROUP BY d.match_id, d.batting_team, m.date, m.venue "
-            "ORDER BY team_total DESC LIMIT 1"
-        )
-
-    if "seasons" in q and "winners" in q:
-        return (
-            "SELECT season, winner FROM matches "
-            "WHERE lower(match_type) = 'final' "
-            "GROUP BY season, winner ORDER BY season"
-        )
-
-    return "SELECT * FROM matches ORDER BY season DESC"
+    # Safe to append at the very end for SELECT statements
+    stripped = sql.rstrip("; \n")
+    return f"{stripped} LIMIT {limit}"
 
 
 def _normalize_question(question: str) -> str:
-    normalized = f" {question.lower()} "
+    """
+    Replace team short names with full names IN the question string itself
+    so the LLM sees correct entity names directly in the question.
+    This is the key fix — normalization must affect the question text,
+    not just be shown as metadata.
+    """
+    normalized = question
     for short, full in TEAM_ALIASES.items():
-        normalized = re.sub(rf"\b{re.escape(short)}\b", full.lower(), normalized)
-    return re.sub(r"\s+", " ", normalized).strip()
-
-
-def _should_use_heuristic(question: str) -> bool:
-    q = question.lower()
-    has_team_alias = bool(re.search(r"\b(csk|mi|rcb|kkr|srh|dc|rr|lsg|gt|pbks)\b", q))
-    return any(
-        [
-            "most titles" in q,
-            ("top" in q and "run" in q and "scorer" in q),
-            ("highest" in q and "individual score" in q),
-            ("win rate" in q and has_team_alias),
-            ("win" in q and ("compared" in q or "vs" in q) and has_team_alias),
-            ("wicket" in q and ("top" in q or "highest" in q)),
-            ("final" in q and "score" in q),
-        ]
-    )
+        normalized = re.sub(
+            rf"\b{re.escape(short)}\b", full, normalized, flags=re.IGNORECASE
+        )
+    return normalized
 
 
 def _llm_sql(question: str, schema: str, error_feedback: str | None = None) -> str:
-    if _should_use_heuristic(question):
-        return _heuristic_sql(question)
-
-    api_key = os.getenv("GROQ_API_KEY")
+    """
+    Use Groq LLaMA to generate SQL from a natural language question.
+    The question is normalized before being passed so team aliases are resolved.
+    Falls back to a safe default query on any failure.
+    """
+    api_key = os.getenv("GROQ_API_KEY", "").strip()
     if not api_key:
-        return _heuristic_sql(question)
+        logger.warning("GROQ_API_KEY not set — returning empty result query")
+        return "SELECT 'GROQ_API_KEY not configured' AS error"
 
-    client = Groq(api_key=api_key)
-    model_name = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+    # Normalize question so LLM sees full team names, not abbreviations
     normalized_question = _normalize_question(question)
-    prompt = (
-        "You are an expert SQLite query writer for IPL analytics.\n"
-        "Use ONLY the schema below.\n"
-        "Return ONLY a single SELECT SQL query, no explanation.\n"
-        "Never use DDL/DML.\n\n"
-        "Important query-writing constraints for this schema:\n"
-        "- The deliveries table does NOT have a season column. If season is needed, JOIN deliveries.match_id = matches.id and filter on matches.season.\n"
-        "- Team short names may appear in user questions (CSK, MI, RCB, KKR). Map them to full team names in matches.team1/team2/winner.\n"
-        "- For highest individual batting score, aggregate SUM(batsman_runs) by batsman and match_id, then take MAX over innings total.\n"
-        "- Return portable SQLite syntax only.\n\n"
-        f"Schema:\n{schema}\n\n"
-        f"User question: {question}\n"
-        f"Normalized question: {normalized_question}\n"
-    )
-    if error_feedback:
-        prompt += f"\nPrevious SQL error: {error_feedback}\nPlease fix and return corrected SQL only.\n"
 
-    resp = client.chat.completions.create(
-        model=model_name,
-        messages=[
-            {
-                "role": "user",
-                "content": prompt,
-            }
-        ],
-        temperature=0,
-    )
-    text = ((resp.choices[0].message.content if resp.choices else "") or "").strip()
-    sql = _extract_sql(text)
-    if not sql.lower().startswith("select"):
-        return _heuristic_sql(question)
-    return sql
+    try:
+        from groq import Groq  # import here to keep startup fast if key missing
+        client = Groq(api_key=api_key)
+        model_name = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+
+        system_msg = (
+            "You are an expert SQLite query writer for IPL cricket analytics.\n"
+            "Rules you MUST follow:\n"
+            "1. Return ONLY a single SELECT SQL statement. No explanation, no markdown, no comments.\n"
+            "2. Never use DDL or DML (no INSERT, UPDATE, DELETE, CREATE, DROP).\n"
+            "3. The deliveries table has NO season column — to filter by season, "
+            "JOIN deliveries.match_id = matches.id and filter on matches.season.\n"
+            "4. match_type stores 'Final' (capital F) — always use lower() for comparisons.\n"
+            "5. winner, team1, team2 store FULL team names like 'Chennai Super Kings', "
+            "never abbreviations.\n"
+            "6. For batting averages: average = total_runs / (dismissals). "
+            "Dismissals = count of rows where is_wicket=1 for that batsman.\n"
+            "7. For economy rate: economy = (runs_conceded / overs_bowled) * 6.\n"
+            "8. Always add LIMIT 20 unless a scalar aggregate (COUNT, SUM, MAX, MIN, AVG) is returned.\n"
+            "9. Use NULLIF to avoid division by zero.\n"
+        )
+
+        user_msg = (
+            f"Schema:\n{schema}\n\n"
+            f"Question: {normalized_question}\n"
+        )
+        if error_feedback:
+            user_msg += f"\nPrevious attempt failed with error: {error_feedback}\nFix the SQL and return only the corrected query.\n"
+
+        resp = client.chat.completions.create(
+            model=model_name,
+            messages=[
+                {"role": "system", "content": system_msg},
+                {"role": "user", "content": user_msg},
+            ],
+            temperature=0,
+        )
+        text = ((resp.choices[0].message.content if resp.choices else "") or "").strip()
+        sql = _extract_sql(text)
+
+        if not sql.upper().lstrip().startswith("SELECT"):
+            logger.warning("LLM returned non-SELECT SQL: %s", sql[:100])
+            return "SELECT 'Could not generate valid SQL for this question' AS error"
+
+        return sql
+
+    except Exception as exc:
+        logger.error("LLM SQL generation failed: %s", exc)
+        return "SELECT 'SQL generation failed — please rephrase the question' AS error"
 
 
 def _format_result(columns: list[str], rows: list[tuple]) -> str:
+    """Format query results as a readable pipe-delimited table."""
     if not rows:
-        return "No rows returned"
-    header = " | ".join(columns)
-    lines = [header, "-" * len(header)]
+        return "No matching records found in the database."
+    header = " | ".join(str(c) for c in columns)
+    separator = "-" * len(header)
+    lines = [header, separator]
     for row in rows:
-        lines.append(" | ".join([str(v) for v in row]))
+        lines.append(" | ".join(str(v) if v is not None else "NULL" for v in row))
+    lines.append(f"\n({len(rows)} row{'s' if len(rows) != 1 else ''} returned)")
     return "\n".join(lines)
 
 
@@ -277,6 +247,8 @@ def query_data(query: str) -> dict:
     - Player statistics: batting average, highest score, number of matches
     - Team records: wins, losses, net run rate, head-to-head results
     - Rankings or comparisons that require numerical data
+    - If the question contains any number, statistic, count, total, average,
+      highest, lowest, or ranking — this is the right tool
 
     Do NOT use this tool for:
     - Narrative explanations of why something happened (use search_docs)
@@ -286,51 +258,60 @@ def query_data(query: str) -> dict:
         query: Natural language question about IPL statistics
 
     Returns:
-        Dict with keys: result (the data as string), sql_used (the query run), row_count, source
+        Dict with keys: result, sql_used, row_count, source
     """
-    load_dotenv()
+    if not query or not query.strip():
+        return {
+            "result": "Empty query received — please provide a specific statistics question.",
+            "sql_used": "",
+            "row_count": 0,
+            "source": "ipl.db",
+        }
+
     db_path = _db_path()
 
-    try:
-        with sqlite3.connect(db_path) as conn:
-            schema = _get_schema(conn)
+    if not db_path.exists():
+        return {
+            "result": "Database not found. Run scripts/ingest_csv.py first.",
+            "sql_used": "",
+            "row_count": 0,
+            "source": "ipl.db",
+        }
 
+    try:
+        with sqlite3.connect(str(db_path)) as conn:
+            # Use cached schema (avoids re-reading schema on every tool call)
+            schema = _cached_schema(str(db_path))
+
+            # First attempt
             sql = _llm_sql(query, schema)
             sql = _ensure_limit(sql, 20)
+            logger.debug("Generated SQL: %s", sql)
 
             try:
                 cur = conn.execute(sql)
                 rows = cur.fetchmany(20)
                 cols = [c[0] for c in (cur.description or [])]
             except Exception as first_exc:
-                fixed_sql = _llm_sql(query, schema, error_feedback=str(first_exc))
-                fixed_sql = _ensure_limit(fixed_sql, 20)
+                logger.warning("SQL first attempt failed: %s — retrying", first_exc)
+                # Retry with error feedback
+                sql = _llm_sql(query, schema, error_feedback=str(first_exc))
+                sql = _ensure_limit(sql, 20)
                 try:
-                    cur = conn.execute(fixed_sql)
+                    cur = conn.execute(sql)
                     rows = cur.fetchmany(20)
                     cols = [c[0] for c in (cur.description or [])]
-                    sql = fixed_sql
                 except Exception as second_exc:
+                    logger.error("SQL second attempt also failed: %s", second_exc)
                     return {
-                        "result": f"SQL execution failed: {second_exc}",
-                        "sql_used": fixed_sql,
+                        "result": (
+                            f"Could not execute a valid SQL query for this question. "
+                            f"Error: {second_exc}"
+                        ),
+                        "sql_used": sql,
                         "row_count": 0,
                         "source": "ipl.db",
                     }
-
-            if not rows:
-                heuristic_sql = _ensure_limit(_heuristic_sql(query), 20)
-                if heuristic_sql != sql:
-                    try:
-                        cur = conn.execute(heuristic_sql)
-                        heuristic_rows = cur.fetchmany(20)
-                        heuristic_cols = [c[0] for c in (cur.description or [])]
-                        if heuristic_rows:
-                            rows = heuristic_rows
-                            cols = heuristic_cols
-                            sql = heuristic_sql
-                    except Exception:
-                        pass
 
             return {
                 "result": _format_result(cols, rows),
@@ -338,7 +319,9 @@ def query_data(query: str) -> dict:
                 "row_count": len(rows),
                 "source": "ipl.db",
             }
+
     except Exception as exc:
+        logger.error("Database error in query_data: %s", exc)
         return {
             "result": f"Database error: {exc}",
             "sql_used": "",
