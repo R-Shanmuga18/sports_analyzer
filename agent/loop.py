@@ -343,25 +343,25 @@ def _llm_call_with_retry(messages: list[dict], model: str):
     """Call the LLM with one retry on transient failure."""
     try:
         return cached_llm_call(
-            model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0,frequency_penalty=0.5
+            model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0.1,frequency_penalty=0.5
         )
     except Exception as first_exc:
         err_str = str(first_exc)
         if "tool_use_failed" in err_str or "tool_calls" in err_str:
             logger.warning("Tool use failed — retrying without tools: %s", first_exc)
             return cached_llm_call(
-                model=model, messages=messages, tools=None, temperature=0,frequency_penalty=0.5
+                model=model, messages=messages, tools=None, temperature=0.1,frequency_penalty=0.5
             )
         logger.warning("LLM call failed, retrying in 2s: %s", first_exc)
         time.sleep(2)
         try:
             return cached_llm_call(
-                model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0,frequency_penalty=0.5
+                model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0.1,frequency_penalty=0.5
             )
         except Exception as second_exc:
             if "tool_use_failed" in str(second_exc):
                 return cached_llm_call(
-                    model=model, messages=messages, tools=None, temperature=0,frequency_penalty=0.5
+                    model=model, messages=messages, tools=None, temperature=0.1,frequency_penalty=0.5
                 )
             raise RuntimeError(
                 f"LLM API failed after retry: {second_exc}"
