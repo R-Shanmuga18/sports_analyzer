@@ -131,32 +131,31 @@ class Tracer:
         return normalized[:limit] + "..."
 
     def print_trace(self, trace: AgentTrace) -> None:
-        """Print a human-readable trace to stdout in the required format."""
+        """Print a human-readable trace to stdout in the exact required assignment format."""
         try:
-            print("═" * 42)
-            print(f"QUESTION: {trace.question}")
-            print("═" * 42)
+            print("\n" + "=" * 60)
+            print(f"Question: {trace.question}")
 
             for call in trace.steps:
-                input_preview = self._preview_text(json.dumps(call.input, ensure_ascii=False))
-                output_preview = self._preview_text(call.output)
-                print(f"Step {call.step}: tool={call.tool_name}")
-                print(f"  input : '{input_preview}'")
-                print(f"  output: {output_preview}")
-                print(f"  time  : {int(round(call.latency_ms))}ms")
-                print("")
+                # Extract just the query string for cleaner input logging
+                if isinstance(call.input, dict) and "query" in call.input:
+                    input_str = call.input["query"]
+                else:
+                    input_str = json.dumps(call.input, ensure_ascii=False)
 
-            print("─" * 42)
-            print("FINAL ANSWER:")
-            print(trace.final_answer)
-            print("")
-            citations_text = " | ".join(trace.citations) if trace.citations else "None"
-            print(f"CITATIONS: {citations_text}")
-            print(
-                f"STATUS: {trace.status} | STEPS: {trace.steps_used}/{trace.max_steps} | "
-                f"TIME: {int(round(trace.total_time_ms))}ms"
-            )
-            print("═" * 42)
+                # Truncate and clean the output to fit on one line as 'result='
+                output_preview = self._preview_text(call.output, limit=120)
+
+                print(f"Step {call.step}: tool={call.tool_name} input='{input_str}'")
+                print(f" result={output_preview}")
+
+            print(f"Final Answer: {trace.final_answer}")
+            
+            citations_text = ", ".join(trace.citations) if trace.citations else "None"
+            print(f"Citations: {citations_text}")
+            print(f"Steps used: {trace.steps_used} / {trace.max_steps} max")
+            print("=" * 60 + "\n")
+            
         except Exception:
             # Failsafe to keep caller flow alive even if formatting fails.
             print("Trace unavailable")

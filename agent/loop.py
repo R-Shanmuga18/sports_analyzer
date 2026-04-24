@@ -24,9 +24,10 @@ TOOLS AVAILABLE:
 - query_data: Query the structured IPL statistics database for numbers and facts
 - web_search: Search the live web for current info and historical narratives missing from local docs
 
-CRITICAL PLANNING RULE (Bonus Requirement):
-Before making ANY tool call, you MUST output a short 'Thought:' explaining your plan. 
-If the question is dependent (e.g., asking for the top scorer's performance), your thought MUST acknowledge that you need to find the name FIRST, wait for the result, and then search the name SECOND.
+PLANNING STEP (CRITICAL BONUS REQUIREMENT):
+- Before making ANY tool call, you MUST write a short plan (1-3 sentences) explaining which tool you are about to use and why. 
+- You must output this plan in your normal text response, starting with the word "Plan: ".
+- Example: "Plan: The user is asking for the 2024 winner. I need to use query_data to search the database for the 2024 IPL final match."
 
 CRITICAL TEMPORAL BOUNDARIES:
 - search_docs contains ONLY narrative documents for 2023 and 2024.
@@ -476,6 +477,8 @@ class AgentLoop:
             # --- Tool call(s) branch -------------------------------------- #
             if tool_calls:
                 assistant_content = getattr(response_msg, "content", "") or ""
+                if assistant_content.strip():
+                    print(f"\n[Agent Thought] {assistant_content.strip()}")
                 messages.append(
                     {
                         "role": "assistant",
