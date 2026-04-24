@@ -1,0 +1,383 @@
+[
+  {
+    "id": "ST-01",
+    "category": "single_tool",
+    "question": "How many matches did CSK win in the 2023 IPL season?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data"
+    ],
+    "expected_behavior": "Returns a specific number with source citation",
+    "actual_answer": "According to the IPL database (ipl.db), CSK won 10 matches in the 2023 IPL season.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192157_how_many_matches_did_csk.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "ST-02",
+    "category": "single_tool",
+    "question": "Who won the 2024 IPL title?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data"
+    ],
+    "expected_behavior": "Returns KKR with citation",
+    "actual_answer": "According to the IPL database (ipl.db), the Kolkata Knight Riders won the 2024 IPL title.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192313_who_won_the_2024_ipl.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "ST-03",
+    "category": "single_tool",
+    "question": "What was the highest team total scored in the 2023 IPL season?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data"
+    ],
+    "expected_behavior": "Returns score, team name, and opponent",
+    "actual_answer": "According to the IPL database (ipl.db), the highest team total scored in the 2023 IPL season was 257.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192444_what_was_the_highest_team.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "ST-04",
+    "category": "single_tool",
+    "question": "How did KKR win the 2024 IPL final according to the season review?",
+    "expected_tools": [
+      "search_docs"
+    ],
+    "actual_tools_called": [
+      "search_docs"
+    ],
+    "expected_behavior": "Returns narrative from document about KKR's winning performance",
+    "actual_answer": "According to the season review in ipl_2024_final.txt, KKR won the 2024 IPL final by thrashing SRH by 8 wickets. Their bowling attack was led by Andre Russell, who claimed 3 wickets for 19 runs, and Mitchell Starc, who took 2 wickets for 14 runs.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192547_how_did_kkr_win_the.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "ST-05",
+    "category": "single_tool",
+    "question": "Who is the current IPL points table leader for the 2025 season?",
+    "expected_tools": [
+      "web_search"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "web_search"
+    ],
+    "expected_behavior": "Returns current standings from web with URL",
+    "actual_answer": "According to the IPL database (ipl.db), there is no information available about the current IPL points table leader for the 2025 season.\n\nHowever, according to the web search results, the current points table leader for the 2025 season is Royal Challengers Bengaluru, with 10 points from 7 wins and 3 losses, having a net run rate of 0.521.",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192657_who_is_the_current_ipl.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "ST-06",
+    "category": "single_tool",
+    "question": "How many IPL seasons are covered in the database?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data"
+    ],
+    "expected_behavior": "Returns count of distinct seasons in the data",
+    "actual_answer": "According to the IPL database (ipl.db), there are 17 IPL seasons covered in the database.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_192812_how_many_ipl_seasons_are.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-01",
+    "category": "multi_tool",
+    "question": "How did the 2024 IPL final play out and what were the final scores?",
+    "expected_tools": [
+      "search_docs",
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "search_docs",
+      "query_data"
+    ],
+    "expected_behavior": "Narrative from docs + exact scores from database, both cited",
+    "actual_answer": "The 2024 IPL final was played between KKR and SRH. Unfortunately, the final score of the 2024 IPL final could not be found in the provided search results. However, according to the IPL database, the total runs scored in the 2024 IPL final was 227.",
+    "steps_used": 3,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193049_how_did_the_2024_ipl.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-02",
+    "category": "multi_tool",
+    "question": "Who were the top 3 run scorers in 2023 IPL and what do the season documents say about their performances?",
+    "expected_tools": [
+      "query_data",
+      "search_docs"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "search_docs"
+    ],
+    "expected_behavior": "Stats from database + narrative from documents for each player",
+    "actual_answer": "The top 3 run scorers in the 2023 IPL were Shubman Gill with 890 runs, F du Plessis with 730 runs, and DP Conway with 672 runs.\n\nAccording to the season documents, the top run scorer in the 2023 IPL was Virat Kohli, who scored 741 runs for the Royal Challengers Bengaluru.",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193215_who_were_the_top_3.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-03",
+    "category": "multi_tool",
+    "question": "Which team won the most matches in 2024 and what is their current squad for 2025?",
+    "expected_tools": [
+      "query_data",
+      "web_search"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "web_search"
+    ],
+    "expected_behavior": "Historical win count from DB + current squad from web",
+    "actual_answer": "The team that won the most matches in 2024 was not specified in the query_data result. However, according to the web_search result, the current squads for the 2025 IPL season can be found on various websites such as Olympics.com, Espncricinfo, and NDTV Sports.",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193335_which_team_won_the_most.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-04",
+    "category": "multi_tool",
+    "question": "Compare RCB and CSK head-to-head results in 2023 and 2024, and describe what the season reviews say about their rivalry.",
+    "expected_tools": [
+      "query_data",
+      "search_docs"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "search_docs"
+    ],
+    "expected_behavior": "H2H numbers from DB + rivalry narrative from docs",
+    "actual_answer": "According to the IPL database, the head-to-head results between RCB and CSK in 2023 and 2024 are as follows:\n\n- RCB won 8 matches, while CSK won 11 matches.\n\nThe season reviews from the IPL 2023 and 2024 season review documents mention that the rivalry between RCB and CSK is intense, with both teams having a strong history of competition against each other. The reviews highlight the importance of these matches in determining the playoff spots and the teams' overall performance in the tournament.\n\nIn the IPL 2023 season, RCB and CSK had a closely contested match, with RCB ultimately emerging victorious. The match was notable for its high-scoring nature, with both teams scoring over 300 runs.\n\nIn the IPL 2024 season, RCB and CSK had another intense match, with CSK ultimately emerging victorious. The match was notable for its record-breaking aggregate score, with both teams scoring over 550 runs.\n\nOverall, the head-to-head results and season reviews suggest that the rivalry between RCB and CSK is one of the most intense and competitive in the IPL, with both teams consistently pushing each other to perform at their best.\n\nAccording to the IPL database, the total runs scored by RCB and CSK in 2023 and 2024 are as follows:\n\n- RCB scored a total of 2846 runs, while CSK scored a total of 2886 runs.\n\nThe total runs conceded by RCB and CSK in 2023 and 2024 are as follows:\n\n- RCB conceded a total of 2886 runs, while CSK conceded a total of 2846 runs.\n\nThese statistics suggest that CSK had a slightly better performance than RCB in terms of runs scored and conceded in 2023 and 2024.",
+    "steps_used": 4,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193533_compare_rcb_and_csk_headtohead.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-05",
+    "category": "multi_tool",
+    "question": "What was the top wicket-taker's economy rate in 2024 and what does the season review say about their bowling?",
+    "expected_tools": [
+      "query_data",
+      "search_docs"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "search_docs"
+    ],
+    "expected_behavior": "Economy rate from DB + bowling narrative from docs",
+    "actual_answer": "The top wicket-taker in 2024 was VR Iyer with an economy rate of 28.0. According to the season review, VR Iyer's bowling performance in 2024 was not explicitly mentioned in the provided search results. However, the season review does mention that VR Iyer scored the most runs in the season, with 741 runs, and also scored his 8,000th IPL run during the 2024 season.",
+    "steps_used": 3,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193753_what_was_the_top_wickettakers.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "MT-06",
+    "category": "multi_tool",
+    "question": "Which venue hosted the most matches in 2023 and 2024, and what recent news is there about that venue?",
+    "expected_tools": [
+      "query_data",
+      "web_search"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "web_search"
+    ],
+    "expected_behavior": "Venue match counts from DB + recent news from web",
+    "actual_answer": "According to the IPL database (ipl.db), the venue that hosted the most matches in 2023 and 2024 was the MA Chidambaram Stadium, Chepauk, Chennai.\n\nAccording to the web search results, there is recent news about the venue that hosted the most matches in 2023 and 2024. The International Cricket Council (ICC) has confirmed that the MA Chidambaram Stadium, Chepauk, Chennai will be one of the venues for the ICC Men's T20 World Cup 2024, which will be co-hosted by the USA.",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_193907_which_venue_hosted_the_most.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "RF-01",
+    "category": "refusal",
+    "question": "Which IPL team should I bet my money on for 2025?",
+    "expected_tools": [],
+    "actual_tools_called": [],
+    "expected_behavior": "Immediate refusal, no tool called, status=refusal",
+    "actual_answer": "I'm sorry, I can't help with predictions or investment advice. I can answer factual questions about IPL history and statistics.",
+    "steps_used": 0,
+    "status": "refusal",
+    "trace_file": null,
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "RF-02",
+    "category": "refusal",
+    "question": "Will KKR win the IPL title again in 2026?",
+    "expected_tools": [],
+    "actual_tools_called": [],
+    "expected_behavior": "Refuses to predict future outcomes",
+    "actual_answer": "I'm sorry, I can't help with predictions or investment advice. I can answer factual questions about IPL history and statistics.",
+    "steps_used": 0,
+    "status": "refusal",
+    "trace_file": null,
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "RF-03",
+    "category": "refusal",
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "expected_tools": [],
+    "actual_tools_called": [],
+    "expected_behavior": "Politely declines — outside cricket scope, no hallucination",
+    "actual_answer": "I could not find relevant information about this topic in my sources. I specialise in IPL cricket — please ask about IPL teams, players, matches, or seasons.",
+    "steps_used": 0,
+    "status": "refusal",
+    "trace_file": null,
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "RF-04",
+    "category": "refusal",
+    "question": "Can you help me write a script to scrape IPL data from a website?",
+    "expected_tools": [],
+    "actual_tools_called": [],
+    "expected_behavior": "Outside scope — declines or redirects to cricket Q&A",
+    "actual_answer": "I can only help with factual IPL cricket analysis. This question is outside my scope.",
+    "steps_used": 0,
+    "status": "refusal",
+    "trace_file": null,
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "EC-01",
+    "category": "edge_case",
+    "question": "How did Kohli perform in the finals?",
+    "expected_tools": [
+      "query_data",
+      "search_docs"
+    ],
+    "actual_tools_called": [
+      "search_docs"
+    ],
+    "expected_behavior": "Handles ambiguity — either asks which year or retrieves both, notes assumption made",
+    "actual_answer": "According to the IPL 2024 season review, Virat Kohli scored 51 runs in the final against Sunrisers Hyderabad.",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_194056_how_did_kohli_perform_in.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "EC-02",
+    "category": "edge_case",
+    "question": "What were the IPL results in 2015?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data"
+    ],
+    "expected_behavior": "If 2015 data not in DB, says so honestly. Does not hallucinate results.",
+    "actual_answer": "According to the IPL database (ipl.db), there were 59 matches in the 2015 season.",
+    "steps_used": 1,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_194138_what_were_the_ipl_results.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "EC-03",
+    "category": "edge_case",
+    "question": "Who won the 2024 IPL and what will they do in 2030?",
+    "expected_tools": [
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "web_search"
+    ],
+    "expected_behavior": "Answers the 2024 part, explicitly says 2030 is unknowable",
+    "actual_answer": "The winner of the 2024 IPL was the Kolkata Knight Riders. However, I couldn't find any information on what they will do in 2030. The web search results provided predictions about the financial future of the IPL and the potential earnings of players, but they did not provide any information on the specific plans or actions of the Kolkata Knight Riders in 2030.\n\n*Note: I could not find source-backed information to confirm future actions or outcomes with certainty.*",
+    "steps_used": 2,
+    "status": "success",
+    "trace_file": "traces/trace_20260424_194242_who_won_the_2024_ipl.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  },
+  {
+    "id": "EC-04",
+    "category": "edge_case",
+    "question": "Tell me everything about IPL.",
+    "expected_tools": [
+      "search_docs",
+      "query_data"
+    ],
+    "actual_tools_called": [
+      "query_data",
+      "search_docs"
+    ],
+    "expected_behavior": "Handles overly broad question — either scopes it down or provides a structured overview with citations",
+    "actual_answer": "I could not find enough reliable information within the maximum allowed reasoning steps (8). Please rephrase or narrow your question so I can answer it reliably.",
+    "steps_used": 8,
+    "status": "max_steps_exceeded",
+    "trace_file": "traces/trace_20260424_194912_tell_me_everything_about_ipl.json",
+    "tool_choice_correct": null,
+    "answer_quality": null,
+    "notes": ""
+  }
+]
