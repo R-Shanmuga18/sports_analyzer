@@ -18,9 +18,15 @@ TOOL_DEFINITIONS = [
             "name": "search_docs",
             "description": (
                 "Use this tool to search IPL season review documents for narrative information.\n\n"
+                "CRITICAL: This tool ONLY contains narrative documents for the 2023 and 2024 seasons.\n"
+                "DO NOT call this tool for narrative questions about years 2008-2022.\n\n"
+                "For narrative questions about 2008-2022, use web_search instead.\n"
+                "Never use generic terms like 'top wicket taker', 'top scorer', or 'winning team' as the query.\n"
+                "Find the exact entity name via query_data first, then search with that exact name.\n\n"
                 "CALL THIS TOOL when the question asks about:\n"
                 "- How a match was won or lost (game narrative, key moments)\n"
                 "- Player performances described in text form "
+                "(e.g. 'Kohli played an anchor role')\n"
                 "- Team strategy, tournament storylines, or notable events\n"
                 "- Reasons or explanations behind outcomes\n"
                 "- Any answer that would appear in a written article or match report\n\n"
@@ -55,6 +61,9 @@ TOOL_DEFINITIONS = [
             "name": "query_data",
             "description": (
                 "Use this tool to query structured IPL statistics from the database.\n\n"
+                "This database contains complete historical match and ball-by-ball data from 2008 to 2025.\n\n"
+                "If asked about a 'top' player/team/venue, ensure your SQL returns the EXACT NAME of the entity,\n"
+                "not just the number, so that exact name can be used in subsequent tool calls.\n\n"
                 "CALL THIS TOOL when the question asks about:\n"
                 "- Exact numbers: runs, wickets, strike rate, economy, averages, "
                 "wins, losses, totals\n"
@@ -96,6 +105,8 @@ TOOL_DEFINITIONS = [
                 "CALL THIS TOOL when the question asks about:\n"
                 "- Events from 2025 onwards (transfers, auctions, injuries, "
                 "coaching changes)\n"
+                "- Narrative information for historical seasons before 2023 (2008-2022), "
+                "because local narrative documents do not exist for those years\n"
                 "- Current player status, current squads, or current team updates\n"
                 "- Live or recent results and announcements\n"
                 "- Questions containing words like 'latest', 'current', 'recent', "
@@ -129,12 +140,33 @@ TOOL_DEFINITIONS = [
 ]
 
 
+def _unwrap_llama_args(tool_args: dict) -> dict:
+    if not isinstance(tool_args, dict):
+        return tool_args
+
+    # Pattern 1: single key "parameters" wrapping the real args
+    if list(tool_args.keys()) == ["parameters"] and isinstance(
+        tool_args["parameters"], dict
+    ):
+        logger.debug("Unwrapping LLaMA 'parameters' wrapper from tool args")
+        return tool_args["parameters"]
+
+    # Pattern 2: values are dicts with a single "value" key
+    unwrapped: dict = {}
+    for k, v in tool_args.items():
+        if isinstance(v, dict) and list(v.keys()) == ["value"]:
+            unwrapped[k] = v["value"]
+        else:
+            unwrapped[k] = v
+    return unwrapped
+
+
 def dispatch_tool(tool_name: str, tool_args: dict) -> str:
     """
     Route a tool call from the agent loop to the correct tool function.
 
     Validates tool name and arguments before dispatching.
-    Returns JSON string of the result for appending to the messages list.
+    Handles LLaMA-specific argument wrapping quirks via _unwrap_llama_args.
 
     Args:
         tool_name: One of "search_docs", "query_data", "web_search"
@@ -154,7 +186,9 @@ def dispatch_tool(tool_name: str, tool_args: dict) -> str:
             f"Valid tools are: {sorted(_KNOWN_TOOLS)}"
         )
 
-    # Validate that query arg is present and non-empty
+    # Unwrap LLaMA-style argument nesting before validation
+    tool_args = _unwrap_llama_args(tool_args)
+
     query = tool_args.get("query", "")
     if not isinstance(query, str) or not query.strip():
         raise ValueError(
@@ -168,7 +202,7 @@ def dispatch_tool(tool_name: str, tool_args: dict) -> str:
         result = search_docs(**tool_args)
     elif tool_name == "query_data":
         result = query_data(**tool_args)
-    else:  # web_search
+    else:
         result = web_search(**tool_args)
 
     return json.dumps(result, ensure_ascii=False, indent=2)

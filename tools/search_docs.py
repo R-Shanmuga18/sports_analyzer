@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import time
 from pathlib import Path
 
@@ -31,6 +32,14 @@ _CACHE: dict = {
 # For IndexFlatIP (inner product after L2 normalisation), scores are in [-1, 1].
 # Anything below 0.20 is very weakly related and usually noise.
 _MIN_RELEVANCE_SCORE = 0.20
+_DOC_YEARS = {2023, 2024}
+
+
+def _extract_years(text: str) -> list[int]:
+    if not isinstance(text, str):
+        return []
+    years = [int(y) for y in re.findall(r"\b(20\d{2})\b", text)]
+    return sorted(set(years))
 
 
 def _vectorstore_paths(base_dir: Path) -> tuple[Path, Path, Path]:
@@ -161,6 +170,20 @@ def search_docs(query: str, top_k: int = 3) -> list[dict]:
         return [
             {
                 "text": "Empty query — please provide a specific search phrase.",
+                "source": "none",
+                "chunk_id": -1,
+                "relevance_score": 0.0,
+            }
+        ]
+
+    years = _extract_years(query)
+    if years and any(y not in _DOC_YEARS for y in years):
+        return [
+            {
+                "error": (
+                    "No documents found for this year. Local docs only cover 2023 and 2024. "
+                    "Please use the web_search tool."
+                ),
                 "source": "none",
                 "chunk_id": -1,
                 "relevance_score": 0.0,

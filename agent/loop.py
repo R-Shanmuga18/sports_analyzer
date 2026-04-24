@@ -22,33 +22,61 @@ Your job is to answer questions about IPL cricket by retrieving information from
 TOOLS AVAILABLE:
 - search_docs: Search IPL season review documents for narrative information
 - query_data: Query the structured IPL statistics database for numbers and facts
-- web_search: Search the live web for events from 2025 onwards or "current/latest" questions
+- web_search: Search the live web for current info and historical narratives missing from local docs
+
+CRITICAL TEMPORAL BOUNDARIES:
+- search_docs contains ONLY narrative documents for 2023 and 2024.
+- query_data contains structured IPL statistics for 2008 to 2025.
+- web_search must be used for:
+  1) current events (2025+ / latest / recent / now), and
+  2) narrative questions for seasons 2008-2022.
+
+TEMPORAL ROUTING RULE:
+- If a narrative question is about a year prior to 2023, you MUST use web_search.
+- Do not rely on search_docs for narratives outside 2023/2024.
+
+DEPENDENT QUESTIONS RULE:
+- If the question asks about an unknown entity and follow-up details (e.g. "top scorer", "top wicket taker",
+  "winning team", "most hosted venue"), you MUST do two steps:
+  Step 1: Use query_data to get the exact entity name.
+  Step 2: Use that exact name in the next tool call (search_docs or web_search).
+- Never search using generic placeholders like "top wicket taker".
+
+CRICKET COMPREHENSION RULE:
+- When reading match snippets, follow the timeline strictly by over and ball context.
+- Do not merge 19th-over events with 20th-over events.
+- Do not guess the final-ball outcome unless the snippet explicitly states it.
 
 RULES YOU MUST FOLLOW:
 1. Always use a tool to retrieve information before answering — do not answer from memory alone.
 2. If a question needs both narrative explanation AND statistics, call both search_docs AND query_data.
 3. After each tool result, explicitly check: does the question have multiple parts?
    Have all parts been addressed? If not, call another tool before writing the final answer.
-4. When writing your final answer, cite sources explicitly:
-   - For search_docs results: name the exact file from the result's 'source' field
+4. CRICKET COMPREHENSION & NARRATIVE: When reading snippets, pay strict attention to the timeline. Do not guess how a match ended if it isn't stated. HOWEVER, do not delete valid narrative details. If the text provides details about middle overs, key wickets, player performances, or tension (e.g., "9 runs needed in the final over"), include all of that drama in your answer. Synthesize the story based on what is available in the text.
+5. When writing your final answer, cite sources explicitly:
+    - For search_docs results: name the exact file from the result's 'source' field
      (e.g. "according to ipl_2024_season.txt")
    - For query_data results: say "according to the IPL database (ipl.db)"
-   - For web_search results: include the URL from the result
+    - For web_search results: include the URL from the result
+    - If a tool returns URLs instead of a filename, cite the URL.
+    - Do not fabricate a .txt filename.
    - Vague citations like "a document" or "the web" are not acceptable.
-5. If tool results contain no relevant information, say so honestly.
+6. If tool results contain no relevant information, say so honestly.
    Do not guess or fabricate an answer.
-6. If asked for investment advice, future predictions, or anything outside
+7. If asked for investment advice, future predictions, or anything outside
    cricket analysis, refuse politely without calling any tool.
-7. Keep answers concise but complete. Use bullet points for lists of statistics.
-8. For ambiguous questions (e.g. "the finals" without specifying a year),
-   state your assumption clearly before answering.
-9. For multi-part questions where only part can be answered from sources,
+8. MATCH THE DETAIL TO THE QUESTION:
+    - If the user asks a data question ("How many", "Who", "What is the score"), be concise. Use bullet points for lists.
+    - If the user asks a narrative question ("How did they win", "Describe", "Explain", "What happened"), provide a DETAILED PARAGRAPH. Include key players, turning points, overs, and match context found in the sources. Do not just output the final score.
+9. For ambiguous questions (e.g. "the finals" without specifying a year),
+    state your assumption clearly before answering.
+10. For multi-part questions where only part can be answered from sources,
    answer the supported part and explicitly state what could not be found.
 """
 
 _SYSTEM_PROMPT_WEB_FIRST = (
-    "\nADDITIONAL INSTRUCTION: This question is about 2025 or later, or asks for "
-    "current/latest information. You MUST call web_search before giving the final answer."
+    "\nADDITIONAL INSTRUCTION: This question asks for current or 2025+ information. "
+    "You MUST call web_search before giving the final answer."
 )
 
 _SYSTEM_PROMPT_MIXED = (
@@ -58,7 +86,7 @@ _SYSTEM_PROMPT_MIXED = (
 )
 
 # ---------------------------------------------------------------------------
-# Refusal patterns — checked before any tool call is made
+# Refusal patterns
 # ---------------------------------------------------------------------------
 
 _REFUSAL_PATTERNS = [
@@ -79,6 +107,9 @@ _NON_CRICKET_PATTERNS = [
     " homework",
     "recipe",
     "weather",
+    "scrape",     
+    "write a script",
+    "write code",
 ]
 
 _CRICKET_SCOPE_TERMS = [
@@ -86,37 +117,46 @@ _CRICKET_SCOPE_TERMS = [
     "cricket",
     "bcci",
     "indian premier league",
-    "wicket",
-    "batting",
-    "bowling",
-    "over",
-    "innings",
-    "run chase",
-    # Full and short team names
-    "chennai super kings", "csk",
-    "mumbai indians", " mi ",
-    "royal challengers", "rcb",
-    "kolkata knight riders", "kkr",
-    "sunrisers hyderabad", "srh",
-    "delhi capitals", " dc ",
-    "rajasthan royals", " rr ",
-    "lucknow super giants", "lsg",
-    "gujarat titans", " gt ",
-    "punjab kings", "pbks",
-    # Notable players often asked about
+    # Match/game terms
+    "wicket", "wickets",
+    "batting", "bowling", "batsman", "bowler",
+    "over", "overs", "innings",
+    "run chase", "powerplay", "death overs", "drs",
+    "century", "fifty", "hat-trick",
+    # Tournament structure terms
+    "squad", "roster", "auction",
+    "venue", "stadium",
+    "season", "match", "matches",
+    "final", "finals", "qualifier", "eliminator",
+    "title", "trophy", "tournament", "championship",
+    "points table", "standings", "playoffs",
+    "hosted",
+    # Full team names
+    "chennai super kings",
+    "mumbai indians",
+    "royal challengers",
+    "kolkata knight riders",
+    "sunrisers hyderabad",
+    "delhi capitals",
+    "delhi daredevils",
+    "rajasthan royals",
+    "lucknow super giants",
+    "gujarat titans",
+    "punjab kings",
+    "kings xi punjab",
+    # Short team names (with word-boundary handling done in _in_cricket_scope)
+    "csk", "mi", "rcb", "kkr", "srh", "dc", "rr", "lsg", "gt", "pbks",
+    # Notable players
     "dhoni", "kohli", "rohit", "bumrah", "jadeja",
-    # Tournament terms
-    "auction", "drs", "powerplay", "death overs"
+    "warner", "russell", "rashid", "buttler", "stokes",
+    "pandya", "iyer", "gill", "shubman",
 ]
+
+# IPL seasons range — any question mentioning these years is likely in scope
+_IPL_YEARS = {str(y) for y in range(2008, 2026)}
 
 
 def _build_system_prompt(question: str) -> str:
-    """
-    Build the complete system prompt as a single string.
-    Conditional sections are appended based on question analysis.
-    This avoids injecting multiple system-role messages into the
-    messages list, which is not officially supported and may be ignored.
-    """
     prompt = _SYSTEM_PROMPT_BASE
     if _needs_web_search_first(question):
         prompt += _SYSTEM_PROMPT_WEB_FIRST
@@ -126,62 +166,89 @@ def _build_system_prompt(question: str) -> str:
 
 
 def _is_prediction_or_investment(question: str) -> bool:
-    """Return True if the question is asking for a bet, prediction, or investment advice."""
     q = f" {question.lower()} "
     if any(p in q for p in _REFUSAL_PATTERNS):
         return True
-    # "Will [team] win the IPL?" — forward-looking prediction
     if re.search(r"\bwill\b.{0,40}\b(win|champion|title)\b", q) and "ipl" in q:
         return True
-    # "chances/odds/predict/likely" + IPL context
     if re.search(r"\b(chances|odds|predict|prediction|likely to win)\b", q) and "ipl" in q:
         return True
-    # "should I" / "best team to [action]"
     if re.search(r"\b(should i|who should|best team to)\b", q) and "ipl" in q:
         return True
     return False
 
 
 def _is_non_cricket(question: str) -> bool:
-    """Return True if the question is clearly not about cricket at all."""
     q = question.lower()
     return any(p in q for p in _NON_CRICKET_PATTERNS)
 
 
 def _in_cricket_scope(question: str) -> bool:
     """
-    Return True only if the question contains at least one IPL-specific term.
-    Generic terms like "team", "player", "match" are NOT sufficient
+    Return True if the question is likely about IPL cricket.
+
+    Two passes:
+    1. Check against _CRICKET_SCOPE_TERMS (broad, covers generic words too)
+    2. Check if any IPL season year (2008-2025) appears in the question
+
     """
     q = f" {question.lower()} "
-    return any(t in q for t in _CRICKET_SCOPE_TERMS)
+
+    # Pass 1: known cricket/IPL terms
+    if any(t in q for t in _CRICKET_SCOPE_TERMS):
+        return True
+
+    # Pass 2: question mentions an IPL season year
+    found_years = re.findall(r"\b(20\d{2})\b", question)
+    if any(y in _IPL_YEARS for y in found_years):
+        return True
+
+    return False
 
 
 def _needs_web_search_first(question: str) -> bool:
-    """Return True if the question clearly needs live/current information."""
+    """
+    Return True ONLY for questions genuinely needing live/current web data.
+    """
     q = question.lower()
-    if any(k in q for k in ["latest", "current", "recent", "now", "today"]):
-        return True
-    years = re.findall(r"\b(20\d{2})\b", q)
-    return any(int(y) >= 2025 for y in years)
+    has_live_keyword = any(
+        k in q for k in ["latest", "current", "recent", "now", "today", "right now"]
+    )
+    has_future_year = bool(re.search(r"\b202[5-9]\b|\b20[3-9]\d\b", q))
+
+    if not (has_live_keyword or has_future_year):
+        return False
+
+    # Do NOT web-search pure prediction questions — they should be refused
+    is_prediction = bool(
+        re.search(r"\b(will they|what will|plans? for|future plans?)\b", q)
+    )
+    if is_prediction and not has_live_keyword:
+        return False
+
+    return True
 
 
 def _needs_mixed_history_current(question: str) -> bool:
-    """Return True if the question combines historical records with current status."""
     q = question.lower()
-    historical = any(k in q for k in ["most titles", "overall", "history", "historical", "all time"])
-    current = any(k in q for k in ["current squad", "current roster", "latest squad", "recent transfer"])
+    historical = any(
+        k in q for k in ["most titles", "overall", "history", "historical", "all time"]
+    )
+    current = any(
+        k in q
+        for k in ["current squad", "current roster", "latest squad", "recent transfer"]
+    )
     return historical and current
 
 
 def _needs_future_uncertainty_guard(question: str) -> bool:
-    """Return True if the question asks about events in future calendar years."""
     q = question.lower()
     years = [int(y) for y in re.findall(r"\b(20\d{2})\b", q)]
     current_year = datetime.now().year
-    # Only future years (strictly greater) trigger the guard
     asks_future = any(y > current_year for y in years)
-    future_language = bool(re.search(r"\b(what will|will they|future|next year)\b", q))
+    future_language = bool(
+        re.search(r"\b(what will|will they|future|next year|plans? for)\b", q)
+    )
     return asks_future and future_language
 
 
@@ -189,14 +256,10 @@ def extract_citations(answer: str, tool_results: list[dict]) -> list[str]:
     """
     Build a deduplicated citation list from tool calls that actually ran.
 
-    Args:
-        answer: Final answer text (unused but kept for interface compatibility)
-        tool_results: List of {"tool_name": str, "output": str} dicts
-
-    Returns:
-        List of citation strings like ["search_docs(ipl_2024_season.txt)", "query_data(ipl.db)"]
+    Returns list of strings like:
+    ["search_docs(ipl_2024_season.txt)", "query_data(ipl.db)"]
     """
-    del answer  # not used — citations come from tool call metadata
+    del answer
     citations: list[str] = []
     seen: set[str] = set()
 
@@ -208,19 +271,18 @@ def extract_citations(answer: str, tool_results: list[dict]) -> list[str]:
         try:
             parsed = json.loads(raw_output)
             if tool_name == "search_docs" and isinstance(parsed, list) and parsed:
-                # Collect all unique source files mentioned, not just the first
                 sources = list(
                     dict.fromkeys(
                         r.get("source", "unknown")
                         for r in parsed
-                        if isinstance(r, dict) and r.get("source") not in (None, "none", "unknown")
+                        if isinstance(r, dict)
+                        and r.get("source") not in (None, "none", "unknown")
                     )
                 )
                 source_name = ", ".join(sources) if sources else "unknown"
             elif tool_name == "query_data" and isinstance(parsed, dict):
                 source_name = str(parsed.get("source", "ipl.db"))
             elif tool_name == "web_search" and isinstance(parsed, list) and parsed:
-                # Use the URL of the first real result
                 urls = [
                     r.get("url", "")
                     for r in parsed
@@ -239,11 +301,7 @@ def extract_citations(answer: str, tool_results: list[dict]) -> list[str]:
 
 
 def _llm_call_with_retry(messages: list[dict], model: str):
-    """
-    Call the LLM with one retry on transient API failure.
-    If the model explicitly cannot use tools (tool_use_failed error),
-    retries without tools so we at least get a text response.
-    """
+    """Call the LLM with one retry on transient failure."""
     try:
         return cached_llm_call(
             model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0
@@ -278,7 +336,6 @@ class AgentLoop:
         self.tracer = Tracer()
 
     def _latest_trace_file(self) -> str | None:
-        """Return path to the most recently written trace file."""
         files = list(Path(self.tracer.traces_dir).glob("trace_*.json"))
         if not files:
             return None
@@ -291,20 +348,13 @@ class AgentLoop:
         Args:
             question: The user's natural language question
             step_callback: Optional callable(step_num, tool_name, tool_input,
-                           tool_output, latency_ms) — called after each tool
-                           execution so a UI can update live (e.g. Gradio streaming).
+                           tool_output, latency_ms) for live UI updates.
 
         Returns:
-            Dict with keys:
-            - answer: str — final answer or refusal/error message
-            - citations: list[str]
-            - steps_used: int
-            - status: str — "success" | "max_steps_exceeded" | "refusal" |
-                            "api_error" | "parse_error"
-            - trace_file: str | None — path to saved trace JSON
+            Dict with keys: answer, citations, steps_used, status, trace_file
         """
         # ------------------------------------------------------------------ #
-        # Pre-flight refusal checks — no tool calls made for these            #
+        # Pre-flight refusal checks                                            #
         # ------------------------------------------------------------------ #
         if _is_prediction_or_investment(question):
             return {
@@ -344,7 +394,7 @@ class AgentLoop:
             }
 
         # ------------------------------------------------------------------ #
-        # Initialise conversation — single system message at position 0       #
+        # Initialise conversation                                              #
         # ------------------------------------------------------------------ #
         messages: list[dict] = [
             {"role": "system", "content": _build_system_prompt(question)},
@@ -361,7 +411,7 @@ class AgentLoop:
         # Main agent loop                                                      #
         # ------------------------------------------------------------------ #
         while step_count < self.max_steps:
-            # --- LLM call ------------------------------------------------- #
+
             try:
                 response = _llm_call_with_retry(messages=messages, model=self.model)
             except Exception as exc:
@@ -385,10 +435,6 @@ class AgentLoop:
 
             # --- Tool call(s) branch -------------------------------------- #
             if tool_calls:
-                # Process ALL tool calls returned in this response.
-                # OpenAI may return multiple parallel tool calls in one message.
-                # The original code only processed tool_calls[0], silently
-                # dropping the rest.
                 assistant_content = getattr(response_msg, "content", "") or ""
                 messages.append(
                     {
@@ -410,12 +456,11 @@ class AgentLoop:
 
                 for tool_call in tool_calls:
                     if step_count >= self.max_steps:
-                        break  # hard cap — stop processing further calls
+                        break
 
                     tool_name = tool_call.function.name
                     raw_args = tool_call.function.arguments or "{}"
 
-                    # Parse arguments
                     try:
                         tool_args = json.loads(raw_args)
                     except json.JSONDecodeError as parse_exc:
@@ -430,8 +475,6 @@ class AgentLoop:
                             f"Argument parse error: {parse_exc}",
                             0.0,
                         )
-                        # Append a tool result so OpenAI doesn't error on the
-                        # unmatched tool_call_id in the assistant message
                         messages.append(
                             {
                                 "role": "tool",
@@ -445,7 +488,6 @@ class AgentLoop:
                         step_count += 1
                         continue
 
-                    # Execute tool
                     start = time.perf_counter()
                     try:
                         tool_output = dispatch_tool(tool_name, tool_args)
@@ -456,7 +498,6 @@ class AgentLoop:
                         )
                     latency_ms = (time.perf_counter() - start) * 1000
 
-                    # Append tool result to messages
                     messages.append(
                         {
                             "role": "tool",
@@ -472,7 +513,8 @@ class AgentLoop:
                     )
                     tool_results.append({"tool_name": tool_name, "output": tool_output})
                     logger.debug(
-                        "Step %d: %s completed in %.0fms", step_count, tool_name, latency_ms
+                        "Step %d: %s completed in %.0fms",
+                        step_count, tool_name, latency_ms,
                     )
 
                     if step_callback is not None:
@@ -483,12 +525,9 @@ class AgentLoop:
                         except Exception as cb_exc:
                             logger.warning("step_callback raised: %s", cb_exc)
 
-                continue  # go back to top of while loop for next LLM call
-
-            # --- Final answer branch -------------------------------------- #
+                continue
             final_answer = (getattr(response_msg, "content", "") or "").strip()
 
-            # Guard: add explicit uncertainty note for future-year questions
             if _needs_future_uncertainty_guard(question):
                 lower_answer = final_answer.lower()
                 if not any(
