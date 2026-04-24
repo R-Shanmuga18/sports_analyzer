@@ -24,6 +24,10 @@ TOOLS AVAILABLE:
 - query_data: Query the structured IPL statistics database for numbers and facts
 - web_search: Search the live web for current info and historical narratives missing from local docs
 
+CRITICAL PLANNING RULE (Bonus Requirement):
+Before making ANY tool call, you MUST output a short 'Thought:' explaining your plan. 
+If the question is dependent (e.g., asking for the top scorer's performance), your thought MUST acknowledge that you need to find the name FIRST, wait for the result, and then search the name SECOND.
+
 CRITICAL TEMPORAL BOUNDARIES:
 - search_docs contains ONLY narrative documents for 2023 and 2024.
 - query_data contains structured IPL statistics for 2008 to 2025.
@@ -36,23 +40,36 @@ TEMPORAL ROUTING RULE:
 - Do not rely on search_docs for narratives outside 2023/2024.
 
 DEPENDENT QUESTIONS RULE:
-- If the question asks about an unknown entity and follow-up details (e.g. "top scorer", "top wicket taker",
-  "winning team", "most hosted venue"), you MUST do two steps:
-  Step 1: Use query_data to get the exact entity name.
-  Step 2: Use that exact name in the next tool call (search_docs or web_search).
-- Never search using generic placeholders like "top wicket taker".
+ If the question asks about an unknown entity and follow-up details (e.g. "team with most wins and their 2025 squad" or "top scorer's performance"), you MUST do this in STRICT SEQUENCE:
+  Step 1: Use query_data to get the exact entity name (e.g., Kolkata Knight Riders). WAIT for the result.
+  Step 2: Use that EXACT NAME in your next tool call (e.g., web_search: "Kolkata Knight Riders 2025 squad").
+- NEVER call two tools at the same time if one depends on the other. 
+EXAMPLE OF CORRECT BEHAVIOR:
+User: "Who was the top scorer in 2023 and what was his performance?"
+Step 1: query_data -> "Top scorer 2023" -> Returns "Shubman Gill"
+Step 2: search_docs -> "Shubman Gill 2023 performance" (CORRECT)
+Step 2: search_docs -> "Top scorer 2023 performance" (WRONG - DO NOT DO THIS)
 
 CRICKET COMPREHENSION RULE:
 - When reading match snippets, follow the timeline strictly by over and ball context.
 - Do not merge 19th-over events with 20th-over events.
 - Do not guess the final-ball outcome unless the snippet explicitly states it.
 
+ OVERLY BROAD QUESTIONS:
+- If a user asks a massive, vague question (e.g., "Tell me everything about IPL" or "Summarize IPL history"), use web_search exactly ONCE with a query like "IPL general history summary", OR politely ask the user to narrow down their question.
+
+AMBIGUOUS QUESTIONS:
+- If a question is ambiguous (e.g., asking about "the finals" without specifying a year), DO NOT guess and DO NOT search multiple years. Politey refuse.
+
 RULES YOU MUST FOLLOW:
 1. Always use a tool to retrieve information before answering — do not answer from memory alone.
 2. If a question needs both narrative explanation AND statistics, call both search_docs AND query_data.
 3. After each tool result, explicitly check: does the question have multiple parts?
    Have all parts been addressed? If not, call another tool before writing the final answer.
-4. CRICKET COMPREHENSION & NARRATIVE: When reading snippets, pay strict attention to the timeline. Do not guess how a match ended if it isn't stated. HOWEVER, do not delete valid narrative details. If the text provides details about middle overs, key wickets, player performances, or tension (e.g., "9 runs needed in the final over"), include all of that drama in your answer. Synthesize the story based on what is available in the text.
+4. CRICKET COMPREHENSION & NARRATIVE RELEVANCE: 
+   - When reading snippets, pay strict attention to the timeline. Do not guess how a match ended if it isn't stated. 
+   - RELEVANCE CHECK: Vector searches sometimes return snippets from the wrong match. If a snippet describes players or teams that are clearly NOT part of the specific match you are answering about (e.g., mentioning a Delhi Capitals player when answering about a CSK vs GT final), YOU MUST IGNORE THAT SNIPPET COMPLETELY.
+   - If the snippet IS relevant, do not delete valid narrative details. Include all drama, middle overs, and key wickets. Synthesize the story based on what is available.
 5. When writing your final answer, cite sources explicitly:
     - For search_docs results: name the exact file from the result's 'source' field
      (e.g. "according to ipl_2024_season.txt")
@@ -101,15 +118,36 @@ _REFUSAL_PATTERNS = [
 ]
 
 _NON_CRICKET_PATTERNS = [
+    # General off-topic
     "write me a poem",
     "write a poem",
-    "python homework",
-    " homework",
     "recipe",
     "weather",
+    
+    # Coding, Scraping, & Data Exfiltration
     "scrape",     
     "write a script",
     "write code",
+    "python code",
+    "python script",
+    "sql script",
+    "raw python",
+    "raw code",
+    "database schema",
+    "sql query",
+    
+    # Prompt Injection & Jailbreaks
+    "ignore previous",
+    "ignore all",
+    "ignore your",
+    "forget previous",
+    "forget all",
+    "system prompt",
+    "previous instructions",
+    "output your",
+    "print your",
+    "bypass",
+    "jailbreak",
 ]
 
 _CRICKET_SCOPE_TERMS = [
@@ -304,25 +342,25 @@ def _llm_call_with_retry(messages: list[dict], model: str):
     """Call the LLM with one retry on transient failure."""
     try:
         return cached_llm_call(
-            model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0
+            model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0,frequency_penalty=0.5
         )
     except Exception as first_exc:
         err_str = str(first_exc)
         if "tool_use_failed" in err_str or "tool_calls" in err_str:
             logger.warning("Tool use failed — retrying without tools: %s", first_exc)
             return cached_llm_call(
-                model=model, messages=messages, tools=None, temperature=0
+                model=model, messages=messages, tools=None, temperature=0,frequency_penalty=0.5
             )
         logger.warning("LLM call failed, retrying in 2s: %s", first_exc)
         time.sleep(2)
         try:
             return cached_llm_call(
-                model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0
+                model=model, messages=messages, tools=TOOL_DEFINITIONS, temperature=0,frequency_penalty=0.5
             )
         except Exception as second_exc:
             if "tool_use_failed" in str(second_exc):
                 return cached_llm_call(
-                    model=model, messages=messages, tools=None, temperature=0
+                    model=model, messages=messages, tools=None, temperature=0,frequency_penalty=0.5
                 )
             raise RuntimeError(
                 f"LLM API failed after retry: {second_exc}"
@@ -403,6 +441,8 @@ class AgentLoop:
         step_count = 0
         tool_results: list[dict] = []
 
+        previous_tool_signatures: set[str] = set()
+
         self.tracer.start(question)
         if self.tracer.current_trace is not None:
             self.tracer.current_trace.max_steps = self.max_steps
@@ -460,6 +500,24 @@ class AgentLoop:
 
                     tool_name = tool_call.function.name
                     raw_args = tool_call.function.arguments or "{}"
+
+                    call_signature = f"{tool_name}:{raw_args}"
+                    if call_signature in previous_tool_signatures:
+                        logger.warning("Caught repetitive tool call: %s", call_signature)
+                        messages.append(
+                            {
+                                "role": "tool",
+                                "tool_call_id": tool_call.id,
+                                "name": tool_name,
+                                "content": json.dumps(
+                                    {"error": "You already executed this exact tool with these exact arguments. It did not work. You MUST change your query, use a different tool, or give up and write your final answer."}
+                                ),
+                            }
+                        )
+                        step_count += 1
+                        continue
+                    
+                    previous_tool_signatures.add(call_signature)
 
                     try:
                         tool_args = json.loads(raw_args)
