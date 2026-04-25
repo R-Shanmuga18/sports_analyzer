@@ -242,7 +242,7 @@ def build_app() -> gr.Blocks:
                                 interactive=False,
                                 wrap=True,
                             )
-                            status_line = gr.Markdown(value="Steps used: 0 / 8 | Status: idle | Total time: 0ms")
+                        status_line = gr.Markdown(value="Steps used: 0 / 8 | Status: idle | Total time: 0ms")
 
                 gr.Examples(
                     examples=EXAMPLES,
