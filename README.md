@@ -2,8 +2,6 @@
 
 A multi-data Agentic RAG system that answers sports queries
 
-(Tentative)
-
 **Project Overview**
 
 This project implements an Agentic RAG system over a sports dataset, designed to answer complex questions by reasoning across structured match data, unstructured documents, and live web information.
@@ -82,16 +80,16 @@ Backend:
 Python
 
 Document Retrieval:
-FAISS / Chroma (vector store for semantic search)
+FAISS
 
 Embeddings:
 HuggingFace sentence-transformers embeddings
 
 Structured Data:
-Pandas (CSV-based querying) or SQLite
+SQLite
 
 Web Search:
-DuckDuckGo/tavily
+tavily
 
 Agent Framework:
 Custom-built agent loop (no black-box frameworks)
